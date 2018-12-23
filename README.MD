@@ -16,11 +16,11 @@ Acquired income in the last 12 months below poverty(`povrate`), population(`pop_
 
 ## SAIPE data (2010)
 
-Acquired poverty rates for 2010(`pov_saipe_2010`) and 2017 (`pov_saipe_2017`), merged them into the dataframe
+Acquired data from the Small Area Income and Poverty Estimates survey, poverty rates for 2010(`pov_saipe_2010`) and 2017 (`pov_saipe_2017`), merged them into the dataframe
 
 ## Mortality from substance abuse, violence (2010)
 
-Acquired data from the Small Area Income and Poverty Estimates survey, extracted just the mortality rates for 2010 for alcohol use disorders, drug use dissorders, self-harm, and interpersonal violence. (`mortality_{alcohol,drugs_us,self_ha,interpe}`
+From [Global Health Data exchange](http://ghdx.healthdata.org/), extracted just the mortality rates for 2010 for alcohol use disorders, drug use dissorders, self-harm, and interpersonal violence. (`mortality_{alcohol,drugs_us,self_ha,interpe}`
 
 ## Statistics
 
@@ -30,7 +30,7 @@ The final dataset has 3126 entries.
 - Likewise for population (First component explains .99 of the variance)
 - The mortality variables were correlated to diverse degrees, and a single component explains .5 of their variance. I Created a `mortality` variable with it.
 - Adding poverty(`pov_saipe_2010`) to the mix allows me to create a generic negative outcomes variable (again, a single factor, .47), this is `outcomes`.
-- I create a`state_mormon` variable by aggregating the counties.
+- I create a `state_mormon` variable by aggregating the counties.
 
 | variable          | Correlation with pov_saipe_2010 |
 | ----------------- | ------------------------------- |
