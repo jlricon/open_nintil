@@ -17,7 +17,9 @@ Acquired income in the last 12 months below poverty(`povrate`), population(`pop_
 ## SAIPE data (2010)
 
 Acquired poverty rates for 2010(`pov_saipe_2010`) and 2017 (`pov_saipe_2017`), merged them into the dataframe
-##Mortality from substance abuse, violence (2010)
+
+## Mortality from substance abuse, violence (2010)
+
 Acquired data from the Small Area Income and Poverty Estimates survey, extracted just the mortality rates for 2010 for alcohol use disorders, drug use dissorders, self-harm, and interpersonal violence. (`mortality_{alcohol,drugs_us,self_ha,interpe}`
 
 ## Statistics
