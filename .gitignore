@@ -1,6 +1,6 @@
 .mypy_cache
-data/*
-clean_data/*
+data
+clean_data/
 __pycache__
 .ipynb_checkpoints
 pew/
