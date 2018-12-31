@@ -4,3 +4,5 @@ clean_data/
 __pycache__
 .ipynb_checkpoints
 pew/
+catboost_info
+figures
