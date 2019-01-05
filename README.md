@@ -1,6 +1,6 @@
 # OpenNintil
 
-This is a repository of the code used to produce figures and analysis for the [Nintil] blog(www.nintil.com).
+This is a repository of the code used to produce figures and analysis for the [Nintil](www.nintil.com) blog.
 
 The principles behind are:
 
