@@ -1,0 +1,804 @@
+Building Name,City,Height (m),Height (ft),Floors,Started,Completed,Construction Years,Frame,HPY,Broad
+Tour Incity,Lyon,200,656,39,2013,2015,2,Concrete,100,No
+Ryomyong Street Apartment Building,Pyongyang,270,886,82,2016,2017,1,Concrete,270,No
+Ryomyong Street 70-Storey Building,Pyongyang,240,787,70,2016,2017,1,Concrete,240,No
+Ryomyong Street 55-Storey Building,Pyongyang,210,689,55,2016,2017,1,Concrete,210,No
+Ryomyong Street 50-Storey Building,Pyongyang,200,656,50,2016,2017,1,Concrete,200,No
+Mirae Scientists Street Residential Tower,Pyongyang,210,689,53,2014,2015,1,Concrete,210,No
+The Belcher's Tower 5,Hong Kong,"226,7",744,61,2000,2001,1,Concrete,"226,7",No
+The Belcher's Tower 6,Hong Kong,"226,7",744,61,2000,2001,1,Concrete,"226,7",No
+The Belcher's Tower 8,Hong Kong,"214,4",704,61,2000,2001,1,Concrete,"214,4",No
+The Belcher's Tower 2,Hong Kong,"220,6",724,63,1999,2000,1,Concrete,"220,6",No
+The Belcher's Tower 3,Hong Kong,"214,4",704,61,1999,2000,1,Concrete,"214,4",No
+60 Wall Street,New York City,"227,1",745,55,1988,1989,1,Steel,"227,1",No
+Empire State Building,New York City,381,"1,25",102,1930,1931,"1,1",Steel,"346,363636363636",No
+500 Fifth Avenue,New York City,"212,5",697,59,1930,1931,1,Steel,"212,5",No
+The Trump Building,New York City,"282,6",927,71,1929,1930,1,Steel,"282,6",No
+ASHTON Chula-Silom,Bangkok,"203,8",669,57,2016,2018,2,Concrete,"101,9",No
+Das Intellitech Headquarters,Shenzhen,200,656,40,2016,2018,2,Concrete,100,No
+The-W 101,Busan,"246,4",808,69,2015,2017,2,Concrete,"123,2",No
+The-W 102,Busan,"246,4",808,69,2015,2017,2,Concrete,"123,2",No
+The-W 103,Busan,"246,4",808,69,2015,2017,2,Concrete,"123,2",No
+The-W 104,Busan,"246,4",808,69,2015,2017,2,Concrete,"123,2",No
+Madison Square Park Tower,New York City,237,777,61,2015,2017,2,Concrete,"118,5",No
+3 Manhattan West,New York City,"222,5",730,64,2015,2017,2,Concrete,"111,25",No
+Light House,Melbourne,218,715,69,2015,2017,2,Concrete,109,No
+Fortune Financial Centre,Chongqing,210,689,45,2015,2017,2,Concrete,105,No
+Akasaka Intercity AIR,Tokyo,"205,1",673,37,2015,2017,2,Steel,"102,55",No
+Horizon Tower A,Abu Dhabi,205,673,63,2015,2017,2,Concrete,"102,5",No
+252 East 57th Street,New York City,"217,9",715,65,2014,2016,2,Concrete,"108,95",No
+International Towers Sydney Tower 1,Sydney,217,712,51,2014,2016,2,Concrete,"108,5",No
+Jersey City Urby,Jersey City,"213,5",700,70,2014,2016,2,Concrete,"106,75",No
+Millennium Tower,Boston,"207,5",681,54,2014,2016,2,Concrete,"103,75",No
+Jinshui Wanda Center Office Tower,Zhengzhou,200,656,43,2014,2016,2,Concrete,100,No
+Qingxiu Wanda Mansion 1,Nanning,"216,4",710,60,2013,2015,2,Concrete,"108,2",No
+Qingxiu Wanda Mansion 4,Nanning,"216,4",710,60,2013,2015,2,Concrete,"108,2",No
+U-Residence Tower 2,Tangerang,209,686,59,2013,2015,2,Concrete,"104,5",No
+Prima Pearl Apartments,Melbourne,254,833,72,2012,2014,2,Concrete,127,No
+Courtyard & Residence Inn Manhattan/Central Park,New York City,"229,6",753,67,2011,2013,2,Concrete,"114,8",No
+Olaya Tower 2,Riyadh,"203,4",667,36,2011,2013,2,Concrete,"101,7",No
+The Yomiuri Shimbun Building,Tokyo,200,656,33,2011,2013,2,Steel,100,No
+Asia Square Tower 1,Singapore,229,751,43,2009,2011,2,Concrete,"114,5",No
+Hotel Riu Plaza Guadalajara,Guadalajara,215,705,44,2009,2011,2,Concrete,"107,5",No
+201 Tower,Guiyang,201,659,39,2009,2011,2,Steel,"100,5",No
+Aqua at Lakeshore East,Chicago,"261,8",859,86,2007,2009,2,Concrete,"130,9",No
+L'Arc New World Hotel,Macau,217,712,56,2007,2009,2,Concrete,"108,5",No
+BM Plaza Office Tower,Shanghai,203,666,50,2007,2009,2,Concrete,"101,5",No
+Nestle Plaza,Sharjah,225,738,58,2006,2008,2,Concrete,"112,5",No
+Sovereign,Atlanta,"202,7",665,48,2006,2008,2,Concrete,"101,35",No
+Barclay Tower,New York City,"205,1",673,56,2005,2007,2,Concrete,"102,55",No
+340 on the Park,Chicago,"204,9",672,64,2005,2007,2,Concrete,"102,45",No
+Millennium Tower,Dubai,"285,1",935,59,2004,2006,2,Concrete,"142,55",No
+Times Square Excellence,Shenzhen,218,715,52,2004,2006,2,Concrete,109,No
+Le Reve,Dubai,210,689,50,2004,2006,2,Concrete,105,No
+Marina Heights,Dubai,"208,4",684,55,2004,2006,2,Concrete,"104,2",No
+Aurora,Brisbane,207,679,69,2004,2006,2,Concrete,"103,5",No
+Tamani Hotel Marina,Dubai,207,679,54,2004,2006,2,Concrete,"103,5",No
+Marina Crown,Dubai,207,679,52,2004,2006,2,Concrete,"103,5",No
+Chelsea Tower,Dubai,250,820,49,2003,2005,2,Concrete,125,No
+Al Seef Tower,Dubai,215,705,44,2003,2005,2,Concrete,"107,5",No
+New York New York,Chongqing,228,748,46,2002,2004,2,Concrete,114,No
+Ernst & Young Tower at Latitude,Sydney,222,728,45,2002,2004,2,Concrete,111,No
+May House,Hong Kong,"205,5",674,47,2002,2004,2,Concrete,"102,75",No
+Trump World Tower,New York City,"262,4",861,72,1999,2001,2,Concrete,"131,2",No
+China Merchants Bank Tower,Shenzhen,249,817,53,1999,2001,2,Steel,"124,5",No
+383 Madison Avenue,New York City,"230,3",755,47,1999,2001,2,Steel,"115,15",No
+GT International Tower,Makati,"217,2",713,43,1999,2001,2,Concrete,"108,6",No
+Island Resort Towers 1 & 2,Hong Kong,"202,2",663,60,1999,2001,2,Concrete,"101,1",No
+Island Resort Towers 3 & 5,Hong Kong,"202,2",663,60,1999,2001,2,Concrete,"101,1",No
+Island Resort Towers 6 & 7,Hong Kong,"202,2",663,60,1999,2001,2,Concrete,"101,1",No
+Island Resort Towers 8 & 9,Hong Kong,"202,2",663,60,1999,2001,2,Concrete,"101,1",No
+Park Tower,Chicago,"257,4",844,68,1998,2000,2,Concrete,"128,7",No
+Citigroup Centre,Sydney,243,797,50,1998,2000,2,Concrete,"121,5",No
+The Belcher's Tower 1,Hong Kong,"220,6",724,63,1998,2000,2,Concrete,"110,3",No
+Aurora Place,Sydney,"218,9",718,41,1998,2000,2,Concrete,"109,45",No
+Millennium Tower,Vienna,202,663,50,1997,1999,2,Concrete,101,No
+Tregunter Tower III,Hong Kong,"219,9",721,68,1991,1993,2,Concrete,"109,95",No
+One Canada Square,London,236,774,50,1989,1991,2,Steel,118,No
+Two Prudential Plaza,Chicago,"303,3",995,64,1988,1990,2,Concrete,"151,65",No
+311 South Wacker Drive,Chicago,"292,9",961,65,1988,1990,2,Concrete,"146,45",No
+MesseTurm,Frankfurt am Main,"256,5",842,64,1988,1990,2,Concrete,"128,25",No
+33 South 6th Street,Minneapolis,"203,6",668,52,1981,1983,2,Concrete,"101,8",No
+Trump Tower,New York City,"202,4",664,58,1980,1982,2,Concrete,"101,2",No
+First Canadian Place,Toronto,"298,1",978,72,1973,1975,2,Steel,"149,05",No
+Shinjuku Mitsui Building,Tokyo,225,738,55,1972,1974,2,Steel,"112,5",No
+Comcast Building,New York City,"259,1",850,70,1931,1933,2,Steel,"129,55",No
+70 Pine,New York City,"290,2",952,67,1930,1932,2,Steel,"145,1",No
+Twenty Exchange,New York City,"225,9",741,57,1929,1931,2,Steel,"112,95",No
+Chrysler Building,New York City,"318,9","1,046",77,1928,1930,2,Steel,"159,45",No
+Metropolitan Life Tower,New York City,"213,4",700,50,1907,1909,2,Steel,"106,7",No
+111 Murray Street,New York City,"241,4",792,58,2015,2018,3,Concrete,"80,4666666666667",No
+Frasers Tower,Singapore,235,771,38,2015,2018,3,Concrete,"78,3333333333333",No
+Nurol Life,Istanbul,220,722,60,2015,2018,3,Concrete,"73,3333333333333",No
+Marina Gate I,Dubai,"206,5",677,52,2015,2018,3,Concrete,"68,8333333333333",No
+Menara Astra,Jakarta,"261,5",858,50,2014,2017,3,Concrete,"87,1666666666667",No
+Menam Residence,Bangkok,"239,3",785,59,2014,2017,3,Concrete,"79,7666666666667",No
+609 Main at Texas,Houston,"230,1",755,48,2014,2017,3,Concrete,"76,7",No
+Rongchao Headquarters Tower,Shenzhen,230,755,54,2014,2017,3,Concrete,"76,6666666666667",No
+Elite 500 Dos Mares,Panama City,228,748,60,2014,2017,3,Concrete,76,No
+Suzhou Center Plaza 1,Suzhou,"221,6",727,56,2014,2017,3,Concrete,"73,8666666666667",No
+The Altus,Johor Bahru,220,722,60,2014,2017,3,Concrete,"73,3333333333333",No
+Mistral Office Tower,Izmir,216,709,48,2014,2017,3,Concrete,72,No
+Lodha Venezia Tower A,Mumbai,"213,5",700,68,2014,2017,3,Concrete,"71,1666666666667",No
+The Beekman Hotel & Residences,New York City,"209,4",687,47,2014,2017,3,Concrete,"69,8",No
+Horizon Skyline Garden Office Tower,Shenzhen,"209,2",686,44,2014,2017,3,Concrete,"69,7333333333333",No
+Rosewood Sanya and Sanya Forum,Sanya,"207,2",680,46,2014,2017,3,Concrete,"69,0666666666667",No
+Triumph One #1,Nanning,"202,9",666,47,2014,2017,3,Concrete,"67,6333333333333",No
+Triumph One #2,Nanning,"202,9",666,47,2014,2017,3,Concrete,"67,6333333333333",No
+"Eq, Tower",Melbourne,202,663,63,2014,2017,3,Concrete,"67,3333333333333",No
+Triumph One #3,Nanning,"200,3",657,46,2014,2017,3,Concrete,"66,7666666666667",No
+Triumph One #4,Nanning,"200,3",657,46,2014,2017,3,Concrete,"66,7666666666667",No
+Seoul Trimage Tower I,Seoul,200,656,47,2014,2017,3,Concrete,"66,6666666666667",No
+Seoul Trimage Tower II,Seoul,200,656,47,2014,2017,3,Concrete,"66,6666666666667",No
+1 William Street,Brisbane,"259,8",852,46,2013,2016,3,Concrete,"86,6",No
+Sumitomo Roppongi Grand Tower,Tokyo,230,755,40,2013,2016,3,Steel,"76,6666666666667",No
+Ilsan Yojin Y-City Tower 103,Goyang,230,755,59,2013,2016,3,Concrete,"76,6666666666667",No
+Ilsan Yojin Y-City Tower 105,Goyang,230,755,59,2013,2016,3,Concrete,"76,6666666666667",No
+Vision Apartments,Melbourne,229,751,70,2013,2016,3,Concrete,"76,3333333333333",No
+Ilsan Yojin Y-City Tower 102,Goyang,225,738,58,2013,2016,3,Concrete,75,No
+Ilsan Yojin Y-City Tower 104,Goyang,225,738,58,2013,2016,3,Concrete,75,No
+BTPN Office Tower,Jakarta,223,732,48,2013,2016,3,Concrete,"74,3333333333333",No
+Ilsan Yojin Y-City Tower 106,Goyang,221,725,57,2013,2016,3,Concrete,"73,6666666666667",No
+Park Lane Manor 5,Nanning,220,722,60,2013,2016,3,Concrete,"73,3333333333333",No
+Park Lane Manor 6,Nanning,220,722,60,2013,2016,3,Concrete,"73,3333333333333",No
+Ilsan Yojin Y-City Tower 101,Goyang,214,702,55,2013,2016,3,Concrete,"71,3333333333333",No
+The Tower,Jakarta,"211,8",695,50,2013,2016,3,Concrete,"70,6",No
+Fortune Center Residential Tower 1,Liuzhou,210,689,60,2013,2016,3,Concrete,70,No
+Gateway Towers AQ-1,Doha,201,659,43,2013,2016,3,Concrete,67,No
+Gateway Towers AQ-2,Doha,201,659,43,2013,2016,3,Concrete,67,No
+Sahid Sudirman Center,Jakarta,258,846,59,2012,2015,3,Concrete,86,No
+Artwin I,Incheon,"247,8",813,72,2012,2015,3,Concrete,"82,6",No
+Artwin II,Incheon,"247,8",813,72,2012,2015,3,Concrete,"82,6",No
+Sinarmas MSIG Tower,Jakarta,245,804,48,2012,2015,3,Concrete,"81,6666666666667",No
+BDO Corporate Center Ortigas,Mandaluyong,"210,5",690,47,2012,2015,3,Concrete,"70,1666666666667",No
+Allianz Tower,Milan,"209,2",686,50,2012,2015,3,Concrete,"69,7333333333333",No
+Zhongtian Exhibition City 1,Guiyang,"204,8",672,43,2012,2015,3,Concrete,"68,2666666666667",No
+Zhongtian Exhibition City 2,Guiyang,"204,8",672,43,2012,2015,3,Concrete,"68,2666666666667",No
+Vanke Jinyu Central Tower 1,Fuzhou,"202,9",666,64,2012,2015,3,Concrete,"67,6333333333333",No
+Ichon Rex Tower A,Seoul,201,659,56,2012,2015,3,Concrete,67,No
+Tunjungan Plaza 5,Surabaya,201,659,50,2012,2015,3,Concrete,67,No
+Pinnacle One,Chengdu,200,656,47,2012,2015,3,Concrete,"66,6666666666667",No
+Busan International Finance Center Landmark Tower,Busan,289,948,63,2011,2014,3,Concrete,"96,3333333333333",No
+Toranomon Hills,Tokyo,"255,5",838,52,2011,2014,3,Steel,"85,1666666666667",No
+The Pakubuwono Signature,Jakarta,252,827,50,2011,2014,3,Concrete,84,No
+Skysuites @ Anson Enggor Street,Singapore,250,820,72,2011,2014,3,Concrete,"83,3333333333333",No
+Global Harbor North Tower,Shanghai,245,804,45,2011,2014,3,Concrete,"81,6666666666667",No
+Global Harbor South Tower,Shanghai,245,804,45,2011,2014,3,Concrete,"81,6666666666667",No
+Tianjin International Trade Tower 1,Tianjin,235,771,57,2011,2014,3,Steel,"78,3333333333333",No
+Ligao International,Nanchang,"231,5",760,42,2011,2014,3,Concrete,"77,1666666666667",No
+Grand Riviera Suites,Manila,230,755,57,2011,2014,3,Concrete,"76,6666666666667",No
+The Leadenhall Building,London,224,735,52,2011,2014,3,Steel,"74,6666666666667",No
+Cathay Landmark,Taipei,212,696,46,2011,2014,3,Steel,"70,6666666666667",No
+Folkart Tower A,Izmir,200,656,40,2011,2014,3,Concrete,"66,6666666666667",No
+Suzhou Center,Suzhou,268,879,52,2010,2013,3,Concrete,"89,3333333333333",No
+Reflection Jomtien Beach Oceanfront Tower 1,Pattaya,234,768,57,2010,2013,3,Concrete,78,No
+Tanhyun Doosan We've the Zenith 105,Goyang,230,755,59,2010,2013,3,Concrete,"76,6666666666667",No
+Tanhyun Doosan We've the Zenith 104,Goyang,224,735,57,2010,2013,3,Concrete,"74,6666666666667",No
+Asia Square Tower 2,Singapore,"221,5",727,46,2010,2013,3,Concrete,"73,8333333333333",No
+DC Tower I,Vienna,220,722,60,2010,2013,3,Concrete,"73,3333333333333",No
+Tanhyun Doosan We've the Zenith 102,Goyang,215,705,54,2010,2013,3,Concrete,"71,6666666666667",No
+Tanhyun Doosan We've the Zenith 103,Goyang,215,705,54,2010,2013,3,Concrete,"71,6666666666667",No
+Tanhyun Doosan We've the Zenith 106,Goyang,215,705,54,2010,2013,3,Concrete,"71,6666666666667",No
+Tanhyun Doosan We've the Zenith 101,Goyang,212,696,53,2010,2013,3,Concrete,"70,6666666666667",No
+Tanhyun Doosan We've the Zenith 107,Goyang,212,696,53,2010,2013,3,Concrete,"70,6666666666667",No
+Farglory Financial Center,Taipei,"208,3",683,32,2010,2013,3,Steel,"69,4333333333333",No
+Far Eastern Banqiao Tower,Banciao City,"207,4",680,50,2010,2013,3,Steel,"69,1333333333333",No
+Tanhyun Doosan We've the Zenith 108,Goyang,206,676,51,2010,2013,3,Concrete,"68,6666666666667",No
+Golden Mansion Center,Tianjin,203,666,36,2010,2013,3,Concrete,"67,6666666666667",No
+ASE Center R2,Chongqing,"202,8",665,58,2010,2013,3,Concrete,"67,6",No
+Innovation & Entrepenuership Tower,Harbin,201,659,40,2010,2013,3,Concrete,67,No
+Palm Springs International Center Tower 1,Chengdu,200,656,41,2010,2013,3,Concrete,"66,6666666666667",No
+Yingli International Finance Centre,Chongqing,288,945,58,2009,2012,3,Concrete,96,No
+Devon Energy Center,Oklahoma City,"257,2",844,52,2009,2012,3,Concrete,"85,7333333333333",No
+Marina Bay Financial Centre Office Tower III,Singapore,239,784,46,2009,2012,3,Concrete,"79,6666666666667",No
+Rivage,Panama City,"233,2",765,70,2009,2012,3,Concrete,"77,7333333333333",No
+The City Center @ Batavia City,Jakarta,208,682,47,2009,2012,3,Concrete,"69,3333333333333",No
+Huarun Tower,Chengdu,201,659,39,2009,2012,3,Concrete,67,No
+Japan Post Tower,Tokyo,"200,1",656,40,2009,2012,3,Steel,"66,7",No
+Yatai Fortune Center,Changzhou,200,656,42,2009,2012,3,Concrete,"66,6666666666667",No
+WBC The Palace 1,Busan,265,869,51,2008,2011,3,Concrete,"88,3333333333333",No
+WBC The Palace 2,Busan,265,869,51,2008,2011,3,Concrete,"88,3333333333333",No
+International Finance Center,Nanchang,239,784,48,2008,2011,3,Concrete,"79,6666666666667",No
+Xinhua International Building,Chongqing,"238,6",783,53,2008,2011,3,Concrete,"79,5333333333333",No
+F&F Tower,Panama City,"232,7",763,53,2008,2011,3,Concrete,"77,5666666666667",No
+Tower Financial Center,Panama City,231,758,52,2008,2011,3,Concrete,77,No
+Salesforce Tower,London,230,755,46,2008,2011,3,Steel,"76,6666666666667",No
+Megapolis Torre 1,Panama City,230,755,63,2008,2011,3,Concrete,"76,6666666666667",No
+Al Faisal Tower,Doha,227,745,54,2008,2011,3,Concrete,"75,6666666666667",No
+White Tower,Panama City,218,715,62,2008,2011,3,Concrete,"72,6666666666667",No
+LOHAS Park Le Prestige Tower B,Hong Kong,215,705,70,2008,2011,3,Concrete,"71,6666666666667",No
+Asan SK Pentaport Residential Tower 3,Chonan,215,705,66,2008,2011,3,Concrete,"71,6666666666667",No
+Keangnam Hanoi Residential Tower 1,Hanoi,212,696,49,2008,2011,3,Concrete,"70,6666666666667",No
+Keangnam Hanoi Residential Tower 2,Hanoi,212,696,49,2008,2011,3,Concrete,"70,6666666666667",No
+Tower 185,Frankfurt am Main,200,656,50,2008,2011,3,Concrete,"66,6666666666667",No
+Al Nakheel Tower,Riyadh,200,656,26,2008,2011,3,Concrete,"66,6666666666667",No
+Ocean Heights,Dubai,310,"1,017",83,2007,2010,3,Concrete,"103,333333333333",No
+Radisson Royal Hotel Dubai,Dubai,269,883,60,2007,2010,3,Concrete,"89,6666666666667",No
+The Legacy at Millennium Park,Chicago,"249,3",818,73,2007,2010,3,Concrete,"83,1",No
+Rolex Tower,Dubai,"246,8",810,59,2007,2010,3,Concrete,"82,2666666666667",No
+Tianjin Junlin Tianxia Building,Tianjin,239,784,64,2007,2010,3,Concrete,"79,6666666666667",No
+Suseong Leader's View Tower A,Daegu,225,738,57,2007,2010,3,Concrete,75,No
+Suseong Leader's View Tower B,Daegu,225,738,57,2007,2010,3,Concrete,75,No
+Equity Tower,Jakarta,220,722,44,2007,2010,3,Concrete,"73,3333333333333",No
+Onelink Center,Guangzhou,218,715,53,2007,2010,3,Concrete,"72,6666666666667",No
+The Austonian,Austin,"208,2",683,56,2007,2010,3,Concrete,"69,4",No
+Vertical City,Guangzhou,208,682,51,2007,2010,3,Concrete,"69,3333333333333",No
+East Pacific Center Tower C,Shenzhen,206,676,40,2007,2010,3,Concrete,"68,6666666666667",No
+Nassima Tower,Dubai,204,669,49,2007,2010,3,Concrete,68,No
+The Ritz-Carlton Los Angeles,Los Angeles,"203,3",667,54,2007,2010,3,Steel,"67,7666666666667",No
+LOHAS Park Le Prestige Tower A,Hong Kong,200,656,65,2007,2010,3,Concrete,"66,6666666666667",No
+Al Tayer Tower,Dubai,225,738,55,2006,2009,3,Concrete,75,No
+Keraton at the Plaza,Jakarta,225,738,48,2006,2009,3,Concrete,75,No
+Palm Tower 1,Sharjah,223,732,56,2006,2009,3,Concrete,"74,3333333333333",No
+Bakrie Tower,Jakarta,214,702,50,2006,2009,3,Concrete,"71,3333333333333",No
+Shining Heights,Hong Kong,213,699,55,2006,2009,3,Concrete,71,No
+LOHAS Park The Capitol Oslo,Hong Kong,210,689,69,2006,2009,3,Concrete,70,No
+LOHAS Park The Capitol Whistler,Hong Kong,210,689,69,2006,2009,3,Concrete,70,No
+Waldorf Astoria Chicago,Chicago,209,686,60,2006,2009,3,Concrete,"69,6666666666667",No
+LOHAS Park The Capitol Madrid,Hong Kong,206,676,67,2006,2009,3,Concrete,"68,6666666666667",No
+LOHAS Park The Capitol Milan,Hong Kong,206,676,67,2006,2009,3,Concrete,"68,6666666666667",No
+The Citadel,Dubai,201,659,48,2006,2009,3,Concrete,67,No
+LOHAS Park The Capitol Florence,Hong Kong,200,656,65,2006,2009,3,Concrete,"66,6666666666667",No
+The Plaza Office Tower,Jakarta,200,656,42,2006,2009,3,Concrete,"66,6666666666667",No
+Almas Tower,Dubai,360,"1,181",68,2005,2008,3,Concrete,120,No
+The Address,Dubai,"302,2",991,63,2005,2008,3,Concrete,"100,733333333333",No
+Emirates Crown,Dubai,296,971,63,2005,2008,3,Concrete,"98,6666666666667",No
+Business Central Tower 1,Dubai,265,869,53,2005,2008,3,Concrete,"88,3333333333333",No
+Business Central Tower 2,Dubai,265,869,53,2005,2008,3,Concrete,"88,3333333333333",No
+The Sail @ Marina Bay,Singapore,245,804,70,2005,2008,3,Concrete,"81,6666666666667",No
+Arenco Tower,Dubai,"243,8",800,46,2005,2008,3,Concrete,"81,2666666666667",No
+Federation Tower - Zapad Tower,Moscow,"242,5",796,63,2005,2008,3,Concrete,"80,8333333333333",No
+Angsana Hotel Tower,Dubai,"220,7",724,49,2005,2008,3,Concrete,"73,5666666666667",No
+Fortune Tower,Shenzhen,218,715,54,2005,2008,3,Concrete,"72,6666666666667",No
+Central Park Tower,Singapore,215,705,63,2005,2008,3,Concrete,"71,6666666666667",No
+Jahoo Hong Kong City,Chongqing,211,692,56,2005,2008,3,Concrete,"70,3333333333333",No
+New York Times Tower,New York City,"318,8","1,046",52,2004,2007,3,Steel,"106,266666666667",No
+Dubai Marriott Harbour Hotel and Suites,Dubai,"253,8",833,63,2004,2007,3,Concrete,"84,6",No
+Future International,Chongqing,236,774,50,2004,2007,3,Concrete,"78,6666666666667",No
+Park Place,Dubai,234,768,56,2004,2007,3,Concrete,78,No
+China Merchants Financial Center,Nanjing,232,761,51,2004,2007,3,Concrete,"77,3333333333333",No
+Abraj Al Bait Safa Tower,Mecca,232,761,46,2004,2007,3,Concrete,"77,3333333333333",No
+Victory Plaza Tower A,Guangzhou,223,732,54,2004,2007,3,Concrete,"74,3333333333333",No
+Angsana Suites Tower,Dubai,"220,7",724,49,2004,2007,3,Concrete,"73,5666666666667",No
+Circle on Cavill North Tower,Gold Coast,"219,5",720,70,2004,2007,3,Concrete,"73,1666666666667",No
+Diwang International Commerce Center,Nanning,276,906,54,2003,2006,3,Concrete,92,No
+Al Fattan Tower,Dubai,245,804,51,2003,2006,3,Concrete,"81,6666666666667",No
+Oasis Beach Tower,Dubai,245,804,51,2003,2006,3,Concrete,"81,6666666666667",No
+New World Center,Shenzhen,238,781,53,2003,2006,3,Concrete,"79,3333333333333",No
+Plaza 66 Tower 2,Shanghai,"228,2",749,46,2003,2006,3,Concrete,"76,0666666666667",No
+1180 Peachtree,Atlanta,"200,2",657,41,2003,2006,3,Concrete,"66,7333333333333",No
+Q1 Tower,Gold Coast,"322,5","1,058",78,2002,2005,3,Concrete,"107,5",No
+Grand Promenade Towers 2-3-5,Hong Kong,"218,9",718,66,2002,2005,3,Concrete,"72,9666666666667",No
+Grosvenor House West Marina Beach,Dubai,"210,4",690,48,2002,2005,3,Concrete,"70,1333333333333",No
+Grand Promenade Tower 1,Hong Kong,209,686,63,2002,2005,3,Concrete,"69,6666666666667",No
+Grand Promenade Tower 6,Hong Kong,209,686,63,2002,2005,3,Concrete,"69,6666666666667",No
+Freshwater Place Residential Tower,Melbourne,205,673,63,2002,2005,3,Concrete,"68,3333333333333",No
+Four Seasons Place,Hong Kong,205,673,55,2002,2005,3,Concrete,"68,3333333333333",No
+30 Hudson Street,Jersey City,"238,1",781,42,2001,2004,3,Steel,"79,3666666666667",No
+World Tower,Sydney,230,755,73,2001,2004,3,Concrete,"76,6666666666667",No
+Times Square Tower,New York City,"221,3",726,47,2001,2004,3,Steel,"73,7666666666667",No
+Sorrento 1,Hong Kong,"256,4",841,75,2000,2003,3,Concrete,"85,4666666666667",No
+Highcliff,Hong Kong,"252,3",828,73,2000,2003,3,Concrete,"84,1",No
+The Harbourside,Hong Kong,"251,2",824,73,2000,2003,3,Concrete,"83,7333333333333",No
+Four Seasons Hotel & Tower,Miami,"240,4",789,64,2000,2003,3,Concrete,"80,1333333333333",No
+Sorrento 2,Hong Kong,"235,7",773,66,2000,2003,3,Concrete,"78,5666666666667",No
+Sorrento 3,Hong Kong,218,715,64,2000,2003,3,Concrete,"72,6666666666667",No
+Shiodome City Center,Tokyo,"215,8",708,43,2000,2003,3,Steel,"71,9333333333333",No
+Victoria Towers I,Hong Kong,213,699,62,2000,2003,3,Concrete,71,No
+Victoria Towers II,Hong Kong,213,699,62,2000,2003,3,Concrete,71,No
+Victoria Towers III,Hong Kong,213,699,62,2000,2003,3,Concrete,71,No
+Sorrento 5,Hong Kong,"212,1",696,62,2000,2003,3,Concrete,"70,7",No
+Random House Tower,New York City,"208,5",684,52,2000,2003,3,Steel,"69,5",No
+Sorrento 6,Hong Kong,"206,1",676,60,2000,2003,3,Concrete,"68,7",No
+Shangmao Century Plaza,Nanjing,218,715,56,1999,2002,3,Concrete,"72,6666666666667",No
+Dentsu Headquarters Building,Tokyo,"213,3",700,48,1999,2002,3,Steel,"71,1",No
+Menara TM,Kuala Lumpur,310,"1,017",55,1998,2001,3,Concrete,"103,333333333333",No
+Moshe Aviv Tower,Ramat Gan,244,801,68,1998,2001,3,Concrete,"81,3333333333333",No
+Pudong International Information Port,Shanghai,211,692,41,1998,2001,3,Steel,"70,3333333333333",No
+Dalian World Trade Center,Dalian,242,794,50,1997,2000,3,Steel,"80,6666666666667",No
+4 Times Square,New York City,"246,5",809,48,1996,1999,3,Steel,"82,1666666666667",No
+Main Tower,Frankfurt am Main,200,656,55,1996,1999,3,Concrete,"66,6666666666667",No
+The Center,Hong Kong,346,"1,135",73,1995,1998,3,Steel,"115,333333333333",No
+85 Sky Tower,Kaohsiung,"347,5","1,14",85,1994,1997,3,Steel,"115,833333333333",No
+Westendstrasse 1,Frankfurt am Main,208,682,53,1990,1993,3,Concrete,"69,3333333333333",No
+Four Seasons Hotel,New York City,"207,9",682,52,1990,1993,3,Concrete,"69,3",No
+Central Plaza,Hong Kong,"373,9","1,227",78,1989,1992,3,Concrete,"124,633333333333",No
+Bank of America Corporate Center,Charlotte,"265,5",871,60,1989,1992,3,Concrete,"88,5",No
+SunTrust Plaza,Atlanta,"264,3",867,60,1989,1992,3,Concrete,"88,1",No
+Central Park Tower,Perth,249,817,52,1989,1992,3,Concrete,83,No
+Citibank Plaza 1,Hong Kong,"205,5",674,51,1989,1992,3,Concrete,"68,5",No
+Tokyo Metropolitan Government Building,Tokyo,"243,4",799,48,1988,1991,3,Concrete,"81,1333333333333",No
+Carnegie Hall Tower,New York City,"230,7",757,60,1988,1991,3,Concrete,"76,9",No
+Deloitte,Los Angeles,"228,3",749,52,1988,1991,3,Steel,"76,1",No
+777 Tower,Los Angeles,221,725,53,1988,1991,3,Steel,"73,6666666666667",No
+"U,S, Bank Tower",Los Angeles,"310,3","1,018",73,1987,1990,3,Steel,"103,433333333333",No
+Seattle Municipal Tower,Seattle,"220,1",722,57,1987,1990,3,Steel,"73,3666666666667",No
+Salesforce Tower,Indianapolis,"213,7",701,49,1987,1990,3,Steel,"71,2333333333333",No
+1 Worldwide Plaza,New York City,"237,1",778,47,1986,1989,3,Steel,"79,0333333333333",No
+Figueroa at Wilshire,Los Angeles,"218,5",717,52,1986,1989,3,Steel,"72,8333333333333",No
+BankWest Tower,Perth,214,702,52,1985,1988,3,Concrete,"71,3333333333333",No
+Shinjuku Sumitomo Building,Tokyo,"210,3",690,52,1971,1974,3,Steel,"70,1",No
+"U,S, Steel Tower",Pittsburgh,"256,3",841,64,1967,1970,3,Steel,"85,4333333333333",No
+Chase Tower,Chicago,"264,6",868,61,1966,1969,3,Steel,"88,2",No
+TD Tower,Toronto,"222,8",731,56,1964,1967,3,Steel,"74,2666666666667",No
+MetLife Building,New York City,"246,3",808,59,1960,1963,3,Steel,"82,1",No
+JPMorgan Chase Tower,New York City,"215,5",707,52,1957,1960,3,Steel,"71,8333333333333",No
+Palace of Culture and Science,Warsaw,"230,7",757,42,1952,1955,3,Steel,"76,9",No
+Woolworth Building,New York City,"241,4",792,57,1910,1913,3,Steel,"80,4666666666667",No
+The Astaka Tower A,Johor Bahru,"278,8",915,73,2014,2018,4,Concrete,"69,7",No
+The Astaka Tower B,Johor Bahru,"255,6",839,67,2014,2018,4,Concrete,"63,9",No
+Panorama Tower,Miami,"252,4",828,81,2014,2018,4,Concrete,"63,1",No
+Victoria One,Melbourne,"246,8",810,76,2014,2018,4,Concrete,"61,7",No
+181 Fremont,San Francisco,"244,5",802,54,2014,2018,4,Steel,"61,125",No
+Equatorial Plaza,Kuala Lumpur,"229,7",754,55,2014,2018,4,Concrete,"57,425",No
+Ten York,Toronto,224,735,65,2014,2018,4,Concrete,56,No
+Meera Tower,Dubai,213,699,52,2014,2018,4,Concrete,"53,25",No
+Sequis Tower,Jakarta,210,689,39,2014,2018,4,Concrete,"52,5",No
+China Life Tower 1,Jinan,200,656,47,2014,2018,4,Concrete,50,No
+China Life Tower 2,Jinan,200,656,47,2014,2018,4,Concrete,50,No
+Skyland Office Tower,Istanbul,284,932,65,2013,2017,4,Concrete,71,No
+Skyland Residential Tower,Istanbul,284,932,64,2013,2017,4,Concrete,71,No
+Metropol Tower Istanbul,Istanbul,280,919,58,2013,2017,4,Concrete,70,No
+Torre KOI,San Pedro Garza García,"279,1",916,65,2013,2017,4,Concrete,"69,775",No
+Victoria Dockside,Hong Kong,"273,5",897,66,2013,2017,4,Concrete,"68,375",No
+Hunan Daily Media Center,Changsha,238,781,54,2013,2017,4,Concrete,"59,5",No
+Harbour Plaza Residences East,Toronto,233,764,66,2013,2017,4,Concrete,"58,25",No
+Lanzhou Center Office Tower,Lanzhou,229,751,40,2013,2017,4,Concrete,"57,25",No
+Shenyang New World Center Tower C,Shenyang,"224,4",736,57,2013,2017,4,Concrete,"56,1",No
+Harbour Plaza Residences West,Toronto,224,735,62,2013,2017,4,Concrete,56,No
+MARQUE Sukhumvit,Bangkok,222,728,50,2013,2017,4,Concrete,"55,5",No
+Kaisa Center Phase 3,Huizhou,220,722,45,2013,2017,4,Concrete,55,No
+Fortune Center Residential Tower 2,Liuzhou,210,689,60,2013,2017,4,Concrete,"52,5",No
+Eternity Apartment @ District 8,Jakarta,205,673,51,2013,2017,4,Concrete,"51,25",No
+Infinity Apartment @ District 8,Jakarta,205,673,51,2013,2017,4,Concrete,"51,25",No
+Al Rajhi Bank Tower,Riyadh,205,673,36,2013,2017,4,Concrete,"51,25",No
+Hotel Estelar Bocagrande,Cartagena,202,663,52,2013,2017,4,Concrete,"50,5",No
+The Shahar Tower,Givatayim,"201,5",661,52,2013,2017,4,Concrete,"50,375",No
+Britam Tower,Nairobi,"200,1",656,31,2013,2017,4,Concrete,"50,025",No
+Victoria Mansion Tower 1,Dalian,200,656,57,2013,2017,4,Concrete,50,No
+Oriental Plaza T1,Chongqing,262,860,56,2012,2016,4,Concrete,"65,5",No
+Grand Hyatt Metrocenter,Taguig City,"258,5",848,66,2012,2016,4,Concrete,"64,625",No
+Waldorf Astoria + Magnolias Ratchaprasong,Bangkok,242,794,60,2012,2016,4,Concrete,"60,5",No
+Banyan Tree Signatures,Kuala Lumpur,240,787,55,2012,2016,4,Concrete,60,No
+ASE Center R3,Chongqing,"236,8",777,69,2012,2016,4,Concrete,"59,2",No
+Hilton Double Tree Sinyar Tower,Doha,230,755,53,2012,2016,4,Concrete,"57,5",No
+Wyndham Centre,Chongqing,226,741,48,2012,2016,4,Concrete,"56,5",No
+China Resources Building,Chongqing,"223,7",734,44,2012,2016,4,Concrete,"55,925",No
+Alphaland Makati Place,Makati,220,722,55,2012,2016,4,Concrete,55,No
+Warsaw Spire,Warsaw,220,722,49,2012,2016,4,Concrete,55,No
+Oriental Hope Intertek Plaza 1,Chengdu,219,719,45,2012,2016,4,Concrete,"54,75",No
+Oriental Hope Intertek Plaza 2,Chengdu,219,719,45,2012,2016,4,Concrete,"54,75",No
+China Resources Center 1,Hefei,"218,2",716,43,2012,2016,4,Concrete,"54,55",No
+Causeway Bay International Plaza,Nanchang,218,715,42,2012,2016,4,Concrete,"54,5",No
+Zhejiang Television Center,Hangzhou,218,715,42,2012,2016,4,Concrete,"54,5",No
+Capital Place Office Tower,Jakarta,"215,2",706,47,2012,2016,4,Concrete,"53,8",No
+International Financial Centre Tower 2,Jakarta,"213,2",699,49,2012,2016,4,Concrete,"53,3",No
+JR Gate Tower,Nagoya,"211,1",693,46,2012,2016,4,Steel,"52,775",No
+Huijin International Plaza,Guiyang,202,663,40,2012,2016,4,Concrete,"50,5",No
+China Oceanwide International Center Tower 1,Wuhan,200,656,46,2012,2016,4,Concrete,50,No
+Burj DAMAC,Riyadh,200,656,36,2012,2016,4,Concrete,50,No
+432 Park Avenue,New York City,"425,7","1,397",85,2011,2015,4,Concrete,"106,425",No
+OKO - Residential Tower,Moscow,"353,6","1,16",90,2011,2015,4,Concrete,"88,4",No
+ÏCE Condominiums at York Centre 2,Toronto,"234,2",768,67,2011,2015,4,Concrete,"58,55",No
+1818 Center,Wuhan,232,761,42,2011,2015,4,Concrete,58,No
+UpperHills North Tower 1A,Shenzhen,"230,4",756,62,2011,2015,4,Concrete,"57,6",No
+UpperHills North Tower 2A,Shenzhen,"230,4",756,62,2011,2015,4,Concrete,"57,6",No
+The Leaf,Abu Dhabi,"227,9",748,57,2011,2015,4,Concrete,"56,975",No
+OKO - Office Tower,Moscow,"224,5",736,46,2011,2015,4,Concrete,"56,125",No
+South Beach South Tower,Singapore,"217,5",714,45,2011,2015,4,Concrete,"54,375",No
+South Beach North Tower,Singapore,"217,5",714,35,2011,2015,4,Concrete,"54,375",No
+Naza Tower 1,Kuala Lumpur,"215,5",707,50,2011,2015,4,Concrete,"53,875",No
+The Paramount,Panama City,214,702,59,2011,2015,4,Concrete,"53,5",No
+Tianhebei Tower,Guangzhou,212,696,55,2011,2015,4,Concrete,53,No
+Suning Ruicheng Phase 1 E06 #1,Nanjing,210,689,46,2011,2015,4,Concrete,"52,5",No
+Suning Ruicheng Phase 1 E07 #2,Nanjing,210,689,46,2011,2015,4,Concrete,"52,5",No
+Suning Ruicheng Phase 1 E08 #2,Nanjing,210,689,34,2011,2015,4,Concrete,"52,5",No
+Seaview Condominium @ Green Bay Pluit Tower J,Jakarta,208,682,48,2011,2015,4,Concrete,52,No
+Seaview Condominium @ Green Bay Pluit Tower K,Jakarta,208,682,48,2011,2015,4,Concrete,52,No
+Seaview Condominium @ Green Bay Pluit Tower L,Jakarta,208,682,48,2011,2015,4,Concrete,52,No
+Seaview Condominium @ Green Bay Pluit Tower M,Jakarta,208,682,48,2011,2015,4,Concrete,52,No
+HSBC Tower Soho Mall,Panama City,207,679,41,2011,2015,4,Concrete,"51,75",No
+Chongqing Plaza T1,Chongqing,"206,5",677,40,2011,2015,4,Concrete,"51,625",No
+Central Spring,Nanchang,200,656,40,2011,2015,4,Concrete,50,No
+Folkart Tower B,Izmir,200,656,40,2011,2015,4,Concrete,50,No
+Burj Rafal,Riyadh,"307,9","1,01",68,2010,2014,4,Concrete,"76,975",No
+Abeno Harukas,Osaka,300,984,60,2010,2014,4,Steel,75,No
+Aura at College Park,Toronto,"271,9",892,78,2010,2014,4,Concrete,"67,975",No
+Altez @ Enggor Street,Singapore,250,820,62,2010,2014,4,Concrete,"62,5",No
+Infinity,Brisbane,249,817,81,2010,2014,4,Concrete,"62,25",No
+Discovery Primea,Makati,"238,8",783,67,2010,2014,4,Concrete,"59,7",No
+Louvre International Furniture Headquarters Building,Foshan,236,774,43,2010,2014,4,Concrete,59,No
+One Shangri-La Place North Tower,Mandaluyong,"222,3",729,65,2010,2014,4,Concrete,"55,575",No
+One Shangri-la Place South Tower,Mandaluyong,"222,3",729,65,2010,2014,4,Concrete,"55,575",No
+Xindi Center Office Tower 1,Hefei,211,692,50,2010,2014,4,Concrete,"52,75",No
+Jushang Plaza,Liuzhou,"210,7",691,42,2010,2014,4,Concrete,"52,675",No
+The Knightsbridge Residences,Makati,"209,4",687,62,2010,2014,4,Concrete,"52,35",No
+ÏCE Condominiums at York Centre 1,Toronto,"202,3",664,57,2010,2014,4,Concrete,"50,575",No
+Maslak Spine Tower,Istanbul,202,663,47,2010,2014,4,Concrete,"50,5",No
+Nanhu Mingdu Plaza,Nanning,218,715,47,2009,2013,4,Concrete,"54,5",No
+AVIC Center Office Tower,Shenzhen,"216,4",710,41,2009,2013,4,Concrete,"54,1",No
+Peace Hotel Tower B,Nanchang,210,689,64,2009,2013,4,Concrete,"52,5",No
+Lot G Office Towers,Kuala Lumpur,200,656,45,2009,2013,4,Concrete,50,No
+The Pinnacle,Guangzhou,"350,3","1,149",60,2008,2012,4,Concrete,"87,575",No
+Keangnam Hanoi Landmark Tower,Hanoi,"328,6","1,078",72,2008,2012,4,Concrete,"82,15",No
+Nation Towers Residential Lofts,Abu Dhabi,268,879,64,2008,2012,4,Concrete,67,No
+Bank of Guangzhou Tower,Guangzhou,"267,8",878,57,2008,2012,4,Concrete,"66,95",No
+Petronas Tower 3,Kuala Lumpur,267,876,60,2008,2012,4,Concrete,"66,75",No
+The River South Tower,Bangkok,258,846,74,2008,2012,4,Concrete,"64,5",No
+Soleil,Brisbane,243,797,79,2008,2012,4,Concrete,"60,75",No
+Soul,Gold Coast,"242,6",796,76,2008,2012,4,Concrete,"60,65",No
+Zhongshan International Finance Center Tower 1,Zhongshan,220,722,55,2008,2012,4,Concrete,55,No
+Zhongshan International Finance Center Tower 2,Zhongshan,220,722,55,2008,2012,4,Concrete,55,No
+Unicredit Tower,Milan,"217,7",714,33,2008,2012,4,Concrete,"54,425",No
+"Menara Felda, Platinum Park",Kuala Lumpur,"215,5",707,50,2008,2012,4,Concrete,"53,875",No
+Latifa Tower,Dubai,210,689,45,2008,2012,4,Concrete,"52,5",No
+Oasis on the Bay,Panama City,209,686,58,2008,2012,4,Concrete,"52,25",No
+Oceania Business Plaza 1,Panama City,"207,3",680,53,2008,2012,4,Concrete,"51,825",No
+Baiguan Plaza,Shangyu,207,679,50,2008,2012,4,Concrete,"51,75",No
+Four Seasons Private Residences West Tower,Toronto,204,669,55,2008,2012,4,Concrete,51,No
+Denpasar Residence Kintamani Tower,Jakarta,"203,2",667,53,2008,2012,4,Concrete,"50,8",No
+Denpasar Residence Ubud Tower,Jakarta,"203,2",667,53,2008,2012,4,Concrete,"50,8",No
+Al Baker Executive Tower 1,Doha,200,656,53,2008,2012,4,Concrete,50,No
+Al Baker Executive Tower 2,Doha,200,656,48,2008,2012,4,Concrete,50,No
+Shenzhen Kerry Centre II,Shenzhen,200,656,42,2008,2012,4,Concrete,50,No
+Etihad Towers T2,Abu Dhabi,"305,3","1,002",80,2007,2011,4,Concrete,"76,325",No
+Doosan Haeundae We've the Zenith Tower A,Busan,300,984,80,2007,2011,4,Concrete,75,No
+JW Marriott,Panama City,284,932,70,2007,2011,4,Concrete,71,No
+Doosan Haeundae We've the Zenith Tower B,Busan,"281,5",924,75,2007,2011,4,Concrete,"70,375",No
+Etihad Towers T1,Abu Dhabi,"277,6",911,69,2007,2011,4,Concrete,"69,4",No
+NEO Tower A,Shenzhen,273,896,56,2007,2011,4,Concrete,"68,25",No
+Doosan Haeundae We've the Zenith Tower C,Busan,265,869,70,2007,2011,4,Concrete,"66,25",No
+Etihad Towers T3,Abu Dhabi,"260,3",854,60,2007,2011,4,Concrete,"65,075",No
+Ocean Financial Centre,Singapore,245,804,43,2007,2011,4,Concrete,"61,25",No
+Pearl Tower,Panama City,"242,2",794,70,2007,2011,4,Concrete,"60,55",No
+Etihad Towers T4,Abu Dhabi,234,768,66,2007,2011,4,Concrete,"58,5",No
+Torre Waters,Panama City,232,761,69,2007,2011,4,Concrete,58,No
+Tour First,Courbevoie,231,758,56,2007,2011,4,Concrete,"57,75",No
+Q Tower,Panama City,"225,8",741,68,2007,2011,4,Concrete,"56,45",No
+Etihad Towers T5,Abu Dhabi,"217,5",714,61,2007,2011,4,Concrete,"54,375",No
+Riviera TwinStar Square 1,Shanghai,"215,8",708,49,2007,2011,4,Concrete,"53,95",No
+Riviera TwinStar Square 2,Shanghai,"215,8",708,49,2007,2011,4,Concrete,"53,95",No
+One Shenton Tower 1,Singapore,214,702,50,2007,2011,4,Concrete,"53,5",No
+Grosvenor House The Residence,Dubai,"210,4",690,48,2007,2011,4,Concrete,"52,6",No
+Ritz-Carlton Hotel & Residences,Toronto,"209,5",687,54,2007,2011,4,Concrete,"52,375",No
+Seomyeon Central Star A,Busan,207,679,58,2007,2011,4,Concrete,"51,75",No
+One Rockwell West Tower,Makati,"201,9",662,55,2007,2011,4,Concrete,"50,475",No
+Blue Tower,Dubai,"317,6","1,042",72,2006,2010,4,Concrete,"79,4",No
+Sky Tower,Abu Dhabi,"292,2",959,74,2006,2010,4,Concrete,"73,05",No
+Sulafa Tower,Dubai,288,945,76,2006,2010,4,Concrete,72,No
+Bitexco Financial Tower,Ho Chi Minh City,"262,5",861,68,2006,2010,4,Concrete,"65,625",No
+Sapphire Tower,Istanbul,261,856,55,2006,2010,4,Concrete,"65,25",No
+Lanko Conference & Exhibition International Plaza Yage,Chongqing,258,846,54,2006,2010,4,Concrete,"64,5",No
+Hwaseong Dongtan Metapolis 101,Hwaseong,"248,7",816,66,2006,2010,4,Concrete,"62,175",No
+Hwaseong Dongtan Metapolis 104,Hwaseong,"247,4",812,66,2006,2010,4,Concrete,"61,85",No
+Marina Bay Financial Centre Office Tower II,Singapore,245,804,50,2006,2010,4,Concrete,"61,25",No
+Sun Tower,Abu Dhabi,"237,6",779,64,2006,2010,4,Concrete,"59,4",No
+Churchill Residence,Dubai,235,771,61,2006,2010,4,Concrete,"58,75",No
+MAG 218 Tower,Dubai,"231,8",760,66,2006,2010,4,Concrete,"57,95",No
+Ningbo International Trade Center,Ningbo,228,748,42,2006,2010,4,Concrete,57,No
+Marina Bay Residences,Singapore,"227,1",745,55,2006,2010,4,Concrete,"56,775",No
+Hwaseong Dongtan Metapolis 102,Hwaseong,"223,8",734,60,2006,2010,4,Concrete,"55,95",No
+The Pano,Bangkok,220,722,57,2006,2010,4,Concrete,55,No
+Sheraton International Business Center 2,Chongqing,218,715,42,2006,2010,4,Concrete,"54,5",No
+The Orchard Residences,Singapore,"210,9",692,56,2006,2010,4,Concrete,"52,725",No
+Al Rostamani Maze Tower,Dubai,210,689,57,2006,2010,4,Concrete,"52,5",No
+The Troika Tower 3,Kuala Lumpur,204,669,50,2006,2010,4,Concrete,51,No
+Hwaseong Dongtan Metapolis 103,Hwaseong,"203,2",667,55,2006,2010,4,Concrete,"50,8",No
+MBK Tower,Dubai,200,656,59,2006,2010,4,Concrete,50,No
+Trump International Hotel & Tower,Chicago,"423,2","1,389",98,2005,2009,4,Concrete,"105,8",No
+Arraya Tower,Kuwait City,300,984,60,2005,2009,4,Concrete,75,No
+RunHua International Building,Wuxi,248,814,55,2005,2009,4,Concrete,62,No
+Neo China Top City A1,Chongqing,"242,4",795,54,2005,2009,4,Concrete,"60,6",No
+The Met,Bangkok,"230,6",756,69,2005,2009,4,Concrete,"57,65",No
+One Museum Park,Chicago,"221,3",726,62,2005,2009,4,Concrete,"55,325",No
+Marquis,Miami,214,702,63,2005,2009,4,Concrete,"53,5",No
+"The St, Francis Shangri-la Place Tower 1",Mandaluyong,"212,9",698,60,2005,2009,4,Concrete,"53,225",No
+"The St, Francis Shangri-la Place Tower 2",Mandaluyong,"212,9",698,60,2005,2009,4,Concrete,"53,225",No
+Executive Towers Building M,Dubai,210,689,52,2005,2009,4,Concrete,"52,5",No
+Majestic Tower,Sharjah,207,679,52,2005,2009,4,Concrete,"51,75",No
+One Corporate Center,Pasig,202,663,54,2005,2009,4,Concrete,"50,5",No
+Shangri-La Vancouver,Vancouver,"200,9",659,59,2005,2009,4,Concrete,"50,225",No
+Torre de Cristal,Madrid,249,817,50,2004,2008,4,Concrete,"62,25",No
+Torre PwC,Madrid,236,774,52,2004,2008,4,Concrete,59,No
+Abraj Al Bait Marwah Tower,Mecca,232,761,46,2004,2008,4,Concrete,58,No
+Torre Espacio,Madrid,"224,2",735,56,2004,2008,4,Concrete,"56,05",No
+The Pinnacle,Jakarta,213,699,52,2004,2008,4,Concrete,"53,25",No
+Centum Star B,Busan,212,696,60,2004,2008,4,Concrete,53,No
+Torre Aqualina,Panama City,210,689,61,2004,2008,4,Concrete,"52,5",No
+K Residence,Kuala Lumpur,202,663,52,2004,2008,4,Concrete,"50,5",No
+China International Center Tower B,Guangzhou,"269,5",884,62,2003,2007,4,Concrete,"67,375",No
+Dual Towers 1,Manama,260,853,53,2003,2007,4,Concrete,65,No
+Dual Towers 2,Manama,260,853,53,2003,2007,4,Concrete,65,No
+Midtown Tower,Tokyo,"247,9",813,54,2003,2007,4,Steel,"61,975",No
+Midland Square,Nagoya,247,810,48,2003,2007,4,Steel,"61,75",No
+Pullman Shanghai Skyway Hotel,Shanghai,226,741,52,2003,2007,4,Concrete,"56,5",No
+Beijing Television Center,Beijing,239,784,42,2002,2006,4,Steel,"59,75",No
+Triumph Palace,Moscow,"264,1",866,61,2001,2005,4,Concrete,"66,025",No
+The Arch,Hong Kong,231,758,65,2001,2005,4,Concrete,"57,75",No
+Paradise by the River A,Chongqing,207,679,54,2001,2005,4,Concrete,"51,75",No
+Paradise by the River B,Chongqing,207,679,54,2001,2005,4,Concrete,"51,75",No
+Riparian Plaza,Brisbane,200,656,53,2001,2005,4,Concrete,50,No
+Shanglong Building,Shenzhen,228,748,50,2000,2004,4,Concrete,57,No
+Hangzhou Telecom Mansion,Hangzhou,248,814,41,1999,2003,4,Concrete,62,No
+Mokdong Hyperion Tower B,Seoul,"239,3",785,63,1999,2003,4,Concrete,"59,825",No
+Torre Mayor,Mexico City,225,738,55,1999,2003,4,Steel,"56,25",No
+Raffles Square Tower,Shanghai,222,728,49,1999,2003,4,Concrete,"55,5",No
+Mokdong Hyperion Tower C,Seoul,"201,2",660,54,1999,2003,4,Concrete,"50,3",No
+Empire Tower,Bangkok,"226,8",744,62,1995,1999,4,Steel,"56,7",No
+Shinjuku Park Tower,Tokyo,"232,6",763,52,1990,1994,4,Steel,"58,15",No
+Shin Kong Life Tower,Taipei,"244,8",803,51,1989,1993,4,Steel,"61,2",No
+Chifley Tower,Sydney,244,801,50,1988,1992,4,Steel,61,No
+Le 1250 Boulevard Rene-Levesque,Montreal,"226,5",743,47,1988,1992,4,Concrete,"56,625",No
+Rialto Towers,Melbourne,"251,1",824,63,1982,1986,4,Concrete,"62,775",No
+Hopewell Centre,Hong Kong,222,728,64,1977,1981,4,Concrete,"55,5",No
+Detroit Marriott at the Renaissance Center,Detroit,"221,5",727,70,1973,1977,4,Concrete,"55,375",No
+Water Tower Place,Chicago,"261,9",859,74,1972,1976,4,Concrete,"65,475",No
+200 Clarendon,Boston,"240,8",790,62,1972,1976,4,Steel,"60,2",No
+Willis Tower,Chicago,"442,1","1,451",108,1970,1974,4,Steel,"110,525",No
+875 North Michigan Avenue,Chicago,"343,7","1,128",100,1965,1969,4,Steel,"85,925",No
+General Motors Building,New York City,"214,9",705,50,1964,1968,4,Steel,"53,725",No
+28 Liberty,New York City,"247,8",813,60,1957,1961,4,Steel,"61,95",No
+MV Lomonosov State University,Moscow,239,784,39,1949,1953,4,Steel,"59,75",No
+Four Seasons Place,Kuala Lumpur,"342,5","1,124",65,2013,2018,5,Concrete,"68,5",No
+Burj Vista Tower 1,Dubai,272,892,63,2013,2018,5,Concrete,"54,4",No
+DAMAC Paramount Hotel & Residences,Dubai,"268,1",879,69,2013,2018,5,Concrete,"53,62",No
+"DAMAC Towers by Paramount, Tower 1",Dubai,"268,1",879,69,2013,2018,5,Concrete,"53,62",No
+"DAMAC Towers By Paramount, Tower 2",Dubai,"268,1",879,69,2013,2018,5,Concrete,"53,62",No
+"DAMAC Towers by Paramount, Tower 3",Dubai,"268,1",879,69,2013,2018,5,Concrete,"53,62",No
+Lodha Altamount,Mumbai,240,787,48,2013,2018,5,Concrete,48,No
+Kuwait Investment Authority Headquarters,Kuwait City,231,758,50,2013,2018,5,Concrete,"46,2",No
+Casa Domaine Tower 1,Jakarta,230,755,61,2013,2018,5,Concrete,46,No
+Fortune Center Residential Tower 3,Liuzhou,210,689,60,2013,2018,5,Concrete,42,No
+Casa Domaine Tower 2,Jakarta,"209,9",689,57,2013,2018,5,Concrete,"41,98",No
+Burj Alshaya West Tower,Kuwait City,205,673,45,2013,2018,5,Concrete,41,No
+Victoria Mansion Tower 2,Dalian,200,656,57,2013,2018,5,Concrete,40,No
+Jumeirah Hangzhou Hotel,Hangzhou,200,656,43,2013,2018,5,Concrete,40,No
+The Address Boulevard,Dubai,370,"1,214",73,2012,2017,5,Concrete,74,No
+China Resources Center 2,Hefei,280,919,65,2012,2017,5,Concrete,56,No
+Trump Tower At Century City,Makati,"250,7",822,58,2012,2017,5,Concrete,"50,14",No
+The Shang Salcedo,Makati,"249,8",820,67,2012,2017,5,Concrete,"49,96",No
+Setia Eco City - Vogue Suite One,Kuala Lumpur,243,797,63,2012,2017,5,Concrete,"48,6",No
+Azrieli Sarona,Tel Aviv,"238,4",782,56,2012,2017,5,Concrete,"47,68",No
+Shenzhen Energy Headquarters North Tower,Shenzhen,222,728,43,2012,2017,5,Steel,"44,4",No
+Horoy Times Square A,Shenzhen,220,722,46,2012,2017,5,Concrete,44,No
+Evolution Tower,Panama City,"217,9",715,54,2012,2017,5,Concrete,"43,58",No
+Three Central,Makati,200,656,51,2012,2017,5,Concrete,40,No
+MahaNakhon,Bangkok,"314,2","1,031",75,2011,2016,5,Concrete,"62,84",No
+Gama Tower,Jakarta,"285,5",937,64,2011,2016,5,Concrete,"57,1",No
+Shangri-La at the Fort,Taguig City,"229,3",752,63,2011,2016,5,Concrete,"45,86",No
+Chongqing Rural Commercial Bank Financial Building,Chongqing,218,715,42,2011,2016,5,Concrete,"43,6",No
+Park Terraces Point Tower,Makati,210,689,59,2011,2016,5,Concrete,42,No
+"St, Regis Hotel & Residences",Kuala Lumpur,205,673,48,2011,2016,5,Concrete,41,No
+United Tower,Manama,200,656,47,2011,2016,5,Concrete,40,No
+Ilham Tower,Kuala Lumpur,274,899,58,2010,2015,5,Concrete,"54,8",No
+Four Seasons Hotel,Manama,"269,7",885,50,2010,2015,5,Concrete,"53,94",No
+Torre BBVA Bancomer,Mexico City,"234,9",771,50,2010,2015,5,Steel,"46,98",No
+Ying Li International Plaza T1,Chongqing,"218,9",718,52,2010,2015,5,Concrete,"43,78",No
+Iset Tower,Yekaterinburg,209,686,52,2010,2015,5,Concrete,"41,8",No
+Vietcombank Tower,Ho Chi Minh City,206,676,40,2010,2015,5,Concrete,"41,2",No
+Pabellon M,Monterrey,"205,6",674,45,2010,2015,5,Concrete,"41,12",No
+Bicsa Financial Center,Panama City,267,876,66,2008,2013,5,Concrete,"53,4",No
+Conrad Dubai,Dubai,"251,2",824,51,2008,2013,5,Concrete,"50,24",No
+Gramercy Residences,Makati,"243,9",800,71,2008,2013,5,Concrete,"48,78",No
+The Gate Residential Tower 1,Abu Dhabi,238,781,66,2008,2013,5,Concrete,"47,6",No
+The Gate Residential Tower 2,Abu Dhabi,238,781,66,2008,2013,5,Concrete,"47,6",No
+The Gate Residential Tower 3,Abu Dhabi,238,781,66,2008,2013,5,Concrete,"47,6",No
+"St, Regis Luxury Hotel",Abu Dhabi,"233,2",765,51,2008,2013,5,Concrete,"46,64",No
+Marina Bay Suites,Singapore,"226,9",744,66,2008,2013,5,Concrete,"45,38",No
+ASPIN Tower,Dubai,"225,6",740,60,2008,2013,5,Concrete,"45,12",No
+Century Plaza Tower 1,Liuzhou,"202,5",664,57,2008,2013,5,Concrete,"40,5",No
+Elite Residence,Dubai,"380,5","1,248",87,2007,2012,5,Concrete,"76,1",No
+Torre Vitri,Panama City,"280,7",921,75,2007,2012,5,Concrete,"56,14",No
+"The St, Regis Toronto",Toronto,"276,9",908,63,2007,2012,5,Concrete,"55,38",No
+Bucheon Kumho Richensia Tower 1,Bucheon,"240,7",790,66,2007,2012,5,Concrete,"48,14",No
+Bucheon Kumho Richensia Tower 2,Bucheon,"240,7",790,66,2007,2012,5,Concrete,"48,14",No
+The Bow,Calgary,"237,5",779,57,2007,2012,5,Steel,"47,5",No
+Revel Resort and Casino,Atlantic City,"218,9",718,53,2007,2012,5,Concrete,"43,78",No
+Shangri-La Hotel Toronto,Toronto,214,702,65,2007,2012,5,Concrete,"42,8",No
+House on Mosfilmovskaya Tower A,Moscow,"213,3",700,53,2007,2012,5,Concrete,"42,66",No
+Dhahran Tower,Al Khobar,200,656,46,2007,2012,5,Concrete,40,No
+Eight Spruce Street,New York City,"265,2",870,76,2006,2011,5,Concrete,"53,04",No
+U-Bora Tower 1,Dubai,"262,8",862,58,2006,2011,5,Concrete,"52,56",No
+Vision Tower,Dubai,260,853,60,2006,2011,5,Concrete,52,No
+Ten Tower,Panama City,221,725,54,2006,2011,5,Concrete,"44,2",No
+Capital Plaza Residential Towers,Abu Dhabi,210,689,51,2006,2011,5,Concrete,42,No
+Capital Plaza Office Tower,Abu Dhabi,200,656,40,2006,2011,5,Concrete,40,No
+The Index,Dubai,326,"1,07",80,2005,2010,5,Concrete,"65,2",No
+Capital City Moscow Tower,Moscow,"301,8",990,76,2005,2010,5,Concrete,"60,36",No
+"Capital City St, Petersburg Tower",Moscow,"257,2",844,65,2005,2010,5,Concrete,"51,44",No
+Ocean Two,Panama City,"245,7",806,73,2005,2010,5,Concrete,"49,14",No
+Goldman Sachs Headquarters,New York City,"228,3",749,44,2005,2010,5,Steel,"45,66",No
+Sheraton International Business Center 1,Chongqing,218,715,42,2005,2010,5,Concrete,"43,6",No
+The First World Tower 1,Incheon,"236,6",776,67,2004,2009,5,Concrete,"47,32",No
+The First World Tower 2,Incheon,"236,6",776,67,2004,2009,5,Concrete,"47,32",No
+The First World Tower 3,Incheon,"236,6",776,67,2004,2009,5,Concrete,"47,32",No
+The First World Tower 4,Incheon,"236,6",776,67,2004,2009,5,Concrete,"47,32",No
+Xindi Center,Nanjing,232,761,53,2004,2009,5,Concrete,"46,4",No
+Shimao International Plaza,Shanghai,"333,3","1,094",60,2001,2006,5,Concrete,"66,66",No
+Eureka Tower,Melbourne,"297,3",975,91,2001,2006,5,Concrete,"59,46",No
+Lanko Grand Hyatt Hotel,Chongqing,258,846,60,2000,2005,5,Concrete,"51,6",No
+Harbourfront Landmark,Hong Kong,"232,6",763,69,1998,2003,5,Concrete,"46,52",No
+Guangdong Telecom Plaza,Guangzhou,260,853,68,1997,2002,5,Concrete,52,No
+120 Collins Street,Melbourne,"264,9",869,52,1986,1991,5,Concrete,"52,98",No
+Olympia Centre,Chicago,"222,9",731,63,1981,1986,5,Concrete,"44,58",No
+MLC Centre,Sydney,228,748,60,1972,1977,5,Concrete,"45,6",No
+1251 Avenue of the Americas,New York City,"228,6",750,54,1967,1972,5,Steel,"45,72",No
+277 Park Avenue,New York City,"209,4",687,50,1958,1963,5,Steel,"41,88",No
+WKL Hotel and Tropicana The Residences,Kuala Lumpur,235,771,55,2012,2018,6,Concrete,"39,1666666666667",No
+One Bloor Street East,Toronto,"257,3",844,75,2011,2017,6,Concrete,"42,8833333333333",No
+Marina One,Singapore,"225,5",740,34,2011,2017,6,Concrete,"37,5833333333333",No
+World Crest,Mumbai,"222,5",730,57,2011,2017,6,Concrete,"37,0833333333333",No
+The Sentral Residences Tower A,Kuala Lumpur,"210,4",690,58,2011,2017,6,Concrete,"35,0666666666667",No
+The Sentral Residences Tower B,Kuala Lumpur,"210,4",690,58,2011,2017,6,Concrete,"35,0666666666667",No
+ADNOC Headquarters,Abu Dhabi,342,"1,122",65,2009,2015,6,Concrete,57,No
+Kaisa Center,Huizhou,288,945,66,2009,2015,6,Concrete,48,No
+City of Lights C1 Tower,Abu Dhabi,"282,1",926,62,2009,2015,6,Concrete,"47,0166666666667",No
+Raffles Hotel,Jakarta,"253,3",831,52,2009,2015,6,Concrete,"42,2166666666667",No
+Crystal Tower,Kuwait City,240,787,52,2008,2014,6,Concrete,40,No
+Crowne Plaza Tower 1,Chongqing,210,689,50,2008,2014,6,Concrete,35,No
+Crowne Plaza Tower 2,Chongqing,210,689,50,2008,2014,6,Concrete,35,No
+Ciputra World Residential Tower,Jakarta,"206,9",679,49,2008,2014,6,Concrete,"34,4833333333333",No
+48 Burj Gate,Dubai,"203,2",667,51,2008,2014,6,Concrete,"33,8666666666667",No
+HNA&POLY International Centre,Chongqing,"286,8",941,61,2007,2013,6,Concrete,"47,8",No
+YooPanama Inspired by Starck,Panama City,"246,8",810,78,2007,2013,6,Concrete,"41,1333333333333",No
+Longemont Asia Pacific Center Tower A,Shenyang,"245,2",804,56,2007,2013,6,Concrete,"40,8666666666667",No
+Longemont Asia Pacific Center Tower B,Shenyang,"245,2",804,56,2007,2013,6,Concrete,"40,8666666666667",No
+Sky Tower B2,Wroclaw,212,696,50,2007,2013,6,Concrete,"35,3333333333333",No
+23 Marina,Dubai,"392,4","1,287",88,2006,2012,6,Concrete,"65,4",No
+JW Marriott Marquis Hotel Dubai Tower 1,Dubai,"355,4","1,166",82,2006,2012,6,Concrete,"59,2333333333333",No
+InterContinental Hotel West Bay,Doha,220,722,59,2006,2012,6,Concrete,"36,6666666666667",No
+Al Hamra Tower,Kuwait City,"412,6","1,354",80,2005,2011,6,Concrete,"68,7666666666667",No
+The Torch,Dubai,352,"1,155",86,2005,2011,6,Concrete,"58,6666666666667",No
+Marina Pinnacle,Dubai,280,919,73,2005,2011,6,Concrete,"46,6666666666667",No
+Kipco Tower,Kuwait City,240,787,60,2005,2011,6,Concrete,40,No
+Kempinski Hotel,Guiyang,228,748,53,2005,2011,6,Concrete,38,No
+Dubai Tower,Dubai,210,689,45,2005,2011,6,Concrete,35,No
+Marriott Marquis City Center Doha Hotel,Doha,200,656,50,2005,2011,6,Concrete,"33,3333333333333",No
+Marriott Marquis City Center Doha Hotel South Tower,Doha,200,656,50,2005,2011,6,Concrete,"33,3333333333333",No
+Beijing Yintai Centre - Park Tower,Beijing,250,820,63,2002,2008,6,Steel,"41,6666666666667",No
+Paradise by the River C,Chongqing,207,679,54,2001,2007,6,Concrete,"34,5",No
+Shaanxi Information Mansion,Xi’an,228,748,51,2000,2006,6,Concrete,38,No
+Tomorrow Square,Shanghai,"284,6",934,60,1997,2003,6,Concrete,"47,4333333333333",No
+Berjaya Times Square Tower A,Kuala Lumpur,"203,1",666,48,1997,2003,6,Concrete,"33,85",No
+Berjaya Times Square Tower B,Kuala Lumpur,"203,1",666,48,1997,2003,6,Concrete,"33,85",No
+The Summit,Hong Kong,"219,8",721,69,1996,2002,6,Concrete,"36,6333333333333",No
+"Star Tower, Gangnam Finance Center",Seoul,204,669,45,1995,2001,6,Concrete,34,No
+Solow Building,New York City,210,689,49,1968,1974,6,Steel,35,No
+Radisson Royal Hotel,Moscow,206,676,34,1949,1955,6,Steel,"34,3333333333333",No
+DAMAC Heights,Dubai,"335,1","1,099",88,2011,2018,7,Concrete,"47,8714285714286",No
+BD Bacata Torre 1,Bogota,260,853,67,2011,2018,7,Concrete,"37,1428571428571",No
+BD Bacata Torre 2,Bogota,216,709,56,2011,2018,7,Concrete,"30,8571428571429",No
+Southern Bosera Building,Shenzhen,208,682,42,2011,2018,7,Concrete,"29,7142857142857",No
+One Avighna Park,Mumbai,247,810,61,2010,2017,7,Concrete,"35,2857142857143",No
+Regent Emirates Pearl,Abu Dhabi,255,837,52,2009,2016,7,Concrete,"36,4285714285714",No
+Jia Fa Centre,Chongqing,"247,2",811,52,2008,2015,7,Concrete,"35,3142857142857",No
+Evolution Tower,Moscow,246,807,55,2008,2015,7,Concrete,"35,1428571428571",No
+Sky,New York City,206,676,61,2008,2015,7,Concrete,"29,4285714285714",No
+Burj Mohammed Bin Rashid,Abu Dhabi,"381,2","1,251",88,2007,2014,7,Concrete,"54,4571428571429",No
+World Trade Center Abu Dhabi - The Offices,Abu Dhabi,"276,6",907,60,2007,2014,7,Concrete,"39,5142857142857",No
+SunnyWorld Center,Shenyang,260,853,59,2007,2014,7,Concrete,"37,1428571428571",No
+Forebase Financial Plaza,Chongqing,"245,3",805,54,2007,2014,7,Concrete,"35,0428571428571",No
+The Bay Gate,Dubai,221,725,53,2007,2014,7,Concrete,"31,5714285714286",No
+JW Marriott Marquis Hotel Dubai Tower 2,Dubai,"355,4","1,166",82,2006,2013,7,Concrete,"50,7714285714286",No
+Mercury City Tower,Moscow,"338,8","1,112",75,2006,2013,7,Concrete,"48,4",No
+Al Yaqoub Tower,Dubai,328,"1,076",69,2006,2013,7,Concrete,"46,8571428571429",No
+The Landmark,Abu Dhabi,324,"1,063",72,2006,2013,7,Concrete,"46,2857142857143",No
+Cayan Tower,Dubai,"306,4","1,005",73,2006,2013,7,Concrete,"43,7714285714286",No
+Millennium Hotel,Dubai,294,965,66,2004,2011,7,Concrete,42,No
+Shanghai Wheelock Square,Shanghai,"270,5",887,55,2003,2010,7,Concrete,"38,6428571428571",No
+Minsheng Bank Building,Wuhan,331,"1,086",68,2001,2008,7,Steel,"47,2857142857143",No
+Nina Tower,Hong Kong,"320,4","1,051",80,1999,2006,7,Concrete,"45,7714285714286",No
+Plaza 66,Shanghai,"288,2",945,66,1994,2001,7,Concrete,"41,1714285714286",No
+Raffles City Hangzhou Tower 1,Hangzhou,"257,6",845,61,2009,2017,8,Concrete,"32,2",No
+Shenyang New World Center Tower E,Shenyang,"217,8",714,55,2009,2017,8,Concrete,"27,225",No
+30 Park Place,New York City,"282,2",926,67,2008,2016,8,Concrete,"35,275",No
+Wenzhou Zhixin Plaza,Wenzhou,255,837,53,2008,2016,8,Concrete,"31,875",No
+56 Leonard,New York City,"250,2",821,57,2008,2016,8,Concrete,"31,275",No
+D1 Tower,Dubai,"277,5",911,78,2007,2015,8,Concrete,"34,6875",No
+Arady Office Tower,Dubai,"237,2",778,49,2007,2015,8,Concrete,"29,65",No
+Arady Residential Tower,Dubai,"215,7",708,51,2007,2015,8,Concrete,"26,9625",No
+Torre Costanera,Santiago,300,984,62,2006,2014,8,Concrete,"37,5",No
+Burj Daman,Dubai,235,771,65,2006,2014,8,Concrete,"29,375",No
+City Centre Rotana Doha,Doha,200,656,58,2006,2014,8,Concrete,25,No
+Shangri-La Hotel,Doha,200,656,58,2006,2014,8,Concrete,25,No
+Merweb Hotel City Center,Doha,200,656,51,2006,2014,8,Concrete,25,No
+The Imperial I,Mumbai,256,840,60,2002,2010,8,Concrete,32,No
+The Imperial II,Mumbai,256,840,60,2002,2010,8,Concrete,32,No
+50 West,New York City,"237,1",778,64,2008,2017,9,Concrete,"26,3444444444444",No
+Wenzhou Trade Center,Wenzhou,"321,9","1,056",68,2002,2011,9,Concrete,"35,7666666666667",No
+The Masterpiece,Hong Kong,257,843,64,2000,2009,9,Concrete,"28,5555555555556",No
+100 East 53rd Street,New York City,"216,7",711,61,2008,2018,10,Concrete,"21,67",No
+Grand Hyatt Colombo,Colombo,"229,5",753,47,2007,2017,10,Concrete,"22,95",No
+Imperia Tower,Moscow,"238,7",783,60,2001,2011,10,Concrete,"23,87",No
+Marina 101,Dubai,425,"1,394",101,2006,2017,11,Concrete,"38,6363636363636",No
+66 Tower 1,Shanghai,"261,8",859,54,1994,2005,11,Concrete,"23,8",No
+66 Tower 2,Shanghai,"261,8",859,54,1994,2005,11,Concrete,"23,8",No
+United International Mansion,Chongqing,287,942,67,1998,2013,15,Concrete,"19,1333333333333",No
+BSA Twin Tower 1,Mandaluyong,"221,2",726,54,1995,2011,16,Concrete,"13,825",No
+BSA Twin Tower 2,Mandaluyong,"221,2",726,54,1995,2011,16,Concrete,"13,825",No
+Foshan International Plaza,Foshan,208,683,51,1992,2008,16,Concrete,13,No
+One Grand Central Place,New York City,"205,1",673,53,-,1930,-,Steel,#VALUE!,No
+Prudential Tower,Boston,"228,6",750,52,-,1964,-,Steel,#VALUE!,No
+Marine Midland Building,New York City,"209,7",688,52,-,1967,-,Steel,#VALUE!,No
+555 California Street,San Francisco,"237,4",779,52,-,1969,-,Steel,#VALUE!,No
+Paramount Plaza,New York City,"204,2",670,48,-,1970,-,Steel,#VALUE!,No
+City National Tower,Los Angeles,"213,1",699,52,-,1971,-,Steel,#VALUE!,No
+Paul Hastings Tower,Los Angeles,"213,1",699,52,-,1971,-,Steel,#VALUE!,No
+One Penn Plaza,New York City,"228,6",750,57,-,1972,-,Steel,#VALUE!,No
+One Liberty Plaza,New York City,"226,5",743,54,-,1972,-,Steel,#VALUE!,No
+55 Water Street,New York City,"209,4",687,53,-,1972,-,Steel,#VALUE!,No
+McGraw-Hill Building,New York City,"205,4",674,51,-,1972,-,Steel,#VALUE!,No
+Aon Center,Los Angeles,"261,5",858,62,-,1974,-,Steel,#VALUE!,No
+Bank of America Plaza,Los Angeles,224,735,55,-,1975,-,Steel,#VALUE!,No
+BOK Tower,Tulsa,"203,3",667,52,-,1975,-,Steel,#VALUE!,No
+NTT DoCoMo Yoyogi Building,Tokyo,240,787,33,-,2000,-,Steel,#VALUE!,No
+Cheung Kong Centre,Hong Kong,"282,8",928,63,-,1999,-,Steel,#VALUE!,No
+One International Finance Centre,Hong Kong,210,689,38,-,1999,-,Steel,#VALUE!,No
+Centerpoint Energy Plaza,Houston,"225,9",741,53,-,1996,-,Steel,#VALUE!,No
+Jewelry Trade Center,Bangkok,"220,7",724,59,-,1996,-,Steel,#VALUE!,No
+Xinjinqiao Mansion,Shanghai,212,696,38,-,1996,-,Steel,#VALUE!,No
+ACT Tower,Hamamatsu,"212,8",698,45,-,1994,-,Steel,#VALUE!,No
+ORC 200,Osaka,200,656,51,-,1994,-,Steel,#VALUE!,No
+Landmark Tower,Yokohama,"296,3",972,73,-,1993,-,Steel,#VALUE!,No
+United Overseas Bank Plaza One,Singapore,280,919,66,-,1992,-,Steel,#VALUE!,No
+Two California Plaza,Los Angeles,"228,6",750,52,-,1992,-,Steel,#VALUE!,No
+Americas Tower,New York City,"210,9",692,48,-,1992,-,Steel,#VALUE!,No
+Three Logan,Philadelphia,"225,3",739,55,-,1991,-,Steel,#VALUE!,No
+Melbourne Central,Melbourne,211,692,53,-,1991,-,Steel,#VALUE!,No
+Two Liberty Place,Philadelphia,"258,5",848,58,-,1990,-,Steel,#VALUE!,No
+One Court Square,New York City,"205,1",673,50,-,1990,-,Steel,#VALUE!,No
+One Shell Plaza,Houston,"217,6",714,50,-,1970,-,Concrete,#VALUE!,No
+Telstra Corporate Building,Melbourne,218,715,47,-,1992,-,Concrete,#VALUE!,No
+Metro Plaza Tower II,Hong Kong,"208,9",685,47,-,1992,-,Concrete,#VALUE!,No
+Jinlitong Financial Center Tower 1,Shenzhen,225,738,46,-,2018,-,Concrete,#VALUE!,No
+Jinlitong Financial Center Tower 2,Shenzhen,225,738,46,-,2018,-,Concrete,#VALUE!,No
+World Trade Center 3,Jakarta,"209,1",686,44,-,2018,-,Concrete,#VALUE!,No
+Al Asmakh Tower,Doha,227,745,34,-,2017,-,Concrete,#VALUE!,No
+Federation Tower,Moscow,"373,7","1,226",93,-,2016,-,Concrete,#VALUE!,No
+Qatar Petroleum District Tower 7,Doha,"222,8",731,47,-,2016,-,Concrete,#VALUE!,No
+Asia-Pacific Center,Guiyang,210,689,55,-,2016,-,Concrete,#VALUE!,No
+The 118,Dubai,"207,9",682,46,-,2016,-,Concrete,#VALUE!,No
+"Chengdu Fantasia Meinian Plaza, Tower C",Chengdu,"204,1",670,48,-,2016,-,Concrete,#VALUE!,No
+"Chengdu Fantasia Meinian Plaza, Tower D",Chengdu,"204,1",670,48,-,2016,-,Concrete,#VALUE!,No
+Jinan Center Financial City A3-5,Jinan,202,663,44,-,2016,-,Concrete,#VALUE!,No
+Greatwall Tower 1,Wuhan,240,787,40,-,2015,-,Concrete,#VALUE!,No
+New Victory Hotel Tower,Lanzhou,230,755,51,-,2015,-,Concrete,#VALUE!,No
+StarView Condo Tower B,Bangkok,204,669,54,-,2015,-,Concrete,#VALUE!,No
+Jiahe Plaza,Dalian,205,673,54,-,2013,-,Concrete,#VALUE!,No
+Abraj Al Bait ZamZam Tower,Mecca,279,915,58,-,2012,-,Concrete,#VALUE!,No
+Abraj Al Bait Hajar Tower,Mecca,276,906,54,-,2012,-,Concrete,#VALUE!,No
+Abraj Al Bait Maqam Tower,Mecca,"232,4",762,61,-,2012,-,Concrete,#VALUE!,No
+Abraj Al Bait Qibla Tower,Mecca,"232,4",762,61,-,2012,-,Concrete,#VALUE!,No
+LOHAS Park Le Prestige Tower C,Hong Kong,200,656,65,-,2012,-,Concrete,#VALUE!,No
+Batumi Technological University Tower,Batumi,200,656,35,-,2012,-,Concrete,#VALUE!,No
+The Point,Panama City,266,873,67,-,2011,-,Concrete,#VALUE!,No
+Zesheng Twin Tower A,Chongqing,"207,7",681,48,-,2011,-,Concrete,#VALUE!,No
+Zesheng Twin Tower B,Chongqing,"207,7",681,48,-,2011,-,Concrete,#VALUE!,No
+Kaina Business Plaza,Changzhou,228,748,56,-,2010,-,Concrete,#VALUE!,No
+Corniche Tower,Ajman,213,699,53,-,2010,-,Concrete,#VALUE!,No
+Taehwa River Iaan Exordium 1,Ulsan,201,659,54,-,2010,-,Concrete,#VALUE!,No
+Taehwa River Iaan Exordium 2,Ulsan,201,659,54,-,2010,-,Concrete,#VALUE!,No
+Kempinski Residences and Suites,Doha,"253,3",831,64,-,2009,-,Concrete,#VALUE!,No
+Hongdou International Plaza,Wuxi,248,814,45,-,2009,-,Concrete,#VALUE!,No
+Huanghe River Center Building,Dongguan,230,755,62,-,2009,-,Concrete,#VALUE!,No
+Shenyang Royal Wan Xin International Mansion Tower A,Shenyang,219,719,45,-,2009,-,Concrete,#VALUE!,No
+The Kitahama,Osaka,209,686,54,-,2009,-,Concrete,#VALUE!,No
+One Island East,Hong Kong,"298,1",978,68,-,2008,-,Concrete,#VALUE!,No
+The Cullinan I,Hong Kong,"269,9",886,68,-,2008,-,Concrete,#VALUE!,No
+The Cullinan II,Hong Kong,"269,9",886,68,-,2008,-,Concrete,#VALUE!,No
+One Lujiazui,Shanghai,"269,1",883,47,-,2008,-,Concrete,#VALUE!,No
+Centara Grand,Bangkok,235,771,57,-,2008,-,Concrete,#VALUE!,No
+Al Ayaan Sharjah Gate Tower,Sharjah,"223,6",734,56,-,2008,-,Concrete,#VALUE!,No
+Kempinski Residences,Jakarta,215,705,57,-,2008,-,Concrete,#VALUE!,No
+Ocean One,Panama City,208,682,54,-,2008,-,Concrete,#VALUE!,No
+Golden Landmark,Shanghai,206,676,41,-,2008,-,Concrete,#VALUE!,No
+R&F Center,Guangzhou,243,797,54,-,2007,-,Concrete,#VALUE!,No
+New Times Business Center,Wuhan,208,682,48,-,2007,-,Concrete,#VALUE!,No
+New Century Plaza Tower 1,Nanjing,"255,2",837,48,-,2006,-,Concrete,#VALUE!,No
+The Peak at Sudirman,Jakarta,"218,5",717,55,-,2006,-,Concrete,#VALUE!,No
+Metro Town Tower 1,Hong Kong,205,673,62,-,2006,-,Concrete,#VALUE!,No
+Metro Town Tower 2,Hong Kong,205,673,62,-,2006,-,Concrete,#VALUE!,No
+Chongqing World Trade Center,Chongqing,"283,1",929,60,-,2005,-,Concrete,#VALUE!,No
+Suzhou Xindi Center,Suzhou,232,761,54,-,2005,-,Concrete,#VALUE!,No
+International Chamber of Commerce Tower,Shenzhen,216,708,55,-,2005,-,Concrete,#VALUE!,No
+Indi Home,Hong Kong,212,696,56,-,2005,-,Concrete,#VALUE!,No
+Ritz-Carlton Jakarta,Jakarta,212,696,48,-,2005,-,Concrete,#VALUE!,No
+Bellagio Tower 1-5,Hong Kong,206,676,64,-,2005,-,Concrete,#VALUE!,No
+Langham Place Office Tower,Hong Kong,"255,1",837,59,-,2004,-,Concrete,#VALUE!,No
+Tianjin Xinda Plaza,Tianjin,238,781,51,-,2004,-,Concrete,#VALUE!,No
+Union Bank Plaza,Pasig,206,676,49,-,2004,-,Concrete,#VALUE!,No
+Center Plaza,Guangzhou,"202,1",663,47,-,2004,-,Concrete,#VALUE!,No
+Mokdong Hyperion Tower A,Seoul,256,840,69,-,2003,-,Concrete,#VALUE!,No
+Radisson New World Hotel,Shanghai,208,682,47,-,2003,-,Concrete,#VALUE!,No
+1322 Golden Empire Tower,Manila,203,666,57,-,2002,-,Concrete,#VALUE!,No
+State Tower,Bangkok,"247,2",811,68,-,2001,-,Concrete,#VALUE!,No
+CRC Tower,Bangkok,210,689,53,-,2001,-,Concrete,#VALUE!,No
+Emirates Tower Two,Dubai,309,"1,014",56,-,2000,-,Concrete,#VALUE!,No
+SEG Plaza,Shenzhen,"291,6",957,71,-,2000,-,Concrete,#VALUE!,No
+BOCOM Financial Towers,Shanghai,"230,4",756,50,-,1999,-,Concrete,#VALUE!,No
+Philamlife Tower,Makati,200,656,47,-,1999,-,Concrete,#VALUE!,No
+J57 Mini Sky City,Changsha,"207,8",682,57,2015,2015,"0,054794520547945",Steel,"3792,35",Yes
+T30 Hotel,Changsha,"99,9",328,30,2012,2012,"0,041095890410959",Steel,"2430,9",Yes
+S30 apartment,Changsha,"99,8",327,30,2012,2012,"0,041095890410959",Steel,"2428,46666666667",Yes
+New Ark Hotel,Changsha,"50,4",165,15,2010,2010,"0,019178082191781",Steel,2628,Yes
+Sky city(p),Changsha,838,2749,202,-1,-1,"0,246575342465753",Steel,"3398,55555555556",Yes
