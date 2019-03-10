@@ -37,7 +37,7 @@ Sometimes we might doubt whether or not a paper (or book, as google scholar also
 I will be writing a separate post on this, but for now I'll say that it is worth, before starting the research process, to think about the topic and what variables may be of interest, what things one should control for. With this a priori model then we can judge the papers, and update the model with what we read. For example for
 
 - War and innovation, we have to take into account different kinds of innovations, whether or not an innovation not happening on year X will be much delayed, there's also the idea of misallocation of resources that may happen because of war, the fact that the number of scientists and engineers is not infinite, and so on.
-- For social science studies in general, we want to pay attention at least at the sample size, the p-values, and the design of the study. Randomized studies or natural experiments are preferable to mere correlational designs. And keep in mind the golden rule of literature reviews: For every paper claiming X, there is an opposite paper claiming not X, so we have to be careful not run run away with just one paper.
+- For social science studies in general, we want to pay attention at least at the sample size, the p-values, and the design of the study. Randomized studies or natural experiments are preferable to mere correlational designs. And keep in mind the golden rule of literature reviews: For every paper claiming X, there is an opposite paper claiming not X, so we have to be careful not to run away with just one paper.
 
 ## Step by step
 
@@ -53,3 +53,5 @@ I will be writing a separate post on this, but for now I'll say that it is worth
 You only live once, so you better spend your time wisely. What if you just want a good enough overview of a topic and are time constrained?
 
 Then, stick to the systematic reviews and meta-analysis, instead of reading the papers, read their literature reviews. Limit your search in google scholar to recent material (eg last 5 years).
+
+Or, find experts and ask them!
