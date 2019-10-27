@@ -1,0 +1,96 @@
+Intervention,Median lifespan increase (treated/control),Year Published,Notes,Reference
+Senescent cell removal,135%,2016,"Does not affect rotarod performance, object discrimination. Slight delay in wound closure.",1
+Rapamycin,110%,2009,Late-life rapamyicn treatment extends lifespan (pooled females from multiple-site NIA study),2
+NR,105%,2016,Claim an increase in running distance,3
+Catalase,117%,2005,Mitochondrially-targeted catalase expression extended mouse lifespan compared to control,4
+Sirt6 overexpression,115%,2012,Sirt6-overexpression increases male mouse lifespan,5
+Metformin,106%,2013,"In males, small but significant lifespan extension after metformin application",6
+DN-IκBα,110%,2013,"Dominant negative to downregulate IKK-beta activity, delivered to hypothalamus of middle-aged mice",7
+Klotho,120%,2005,"Overexpression under human elongation factor 1α promoter increases lifespan, slight fertility loss",8
+S6K1,118%,2009,KO of S6K1 extends lifspan compared to wildtype mice,9
+p66,128%,1999,"Mutation of a p66shc, member of proto-oncogene locus SHC, extends lifespan. May be just due to cancer effect.",10
+Lowering protein:carbohydrate ratio,128%,2014,"Varied protein, carbohydrate, and total energy levels.",11
+Fat-specific insulin receptor knockout mice,111%,2003,Fat-specific insulin receptor knockout mice show a significant increase in lifespan,12
+C57BL/6 mice with NZB/OlaHsd mitochondrial mutations,120%,2016,"Same nuclear, different mitochondrial DNA.",13
+Fasting mimicking diet,112%,2015,"FMD followed by 10 days of normal, then repeat",14
+Rapamycin,127%,2014,"Rapamycin from 9 months of age, weight decreased ~30% at highest dose",15
+Brain-specific Sirt1 expression,116%,2013,Brain-specific Sirt1 expression in female mice increases lifespan over wildtype,16
+SRT1720,104%,2014,"Start diet at 28 weeks of age, very small increase on lifespan",17
+Spermidine,111%,2016,"Polyamine, administered in drinking water",18
+Atg5 overexpression,117%,2013,Transgenic mice ubiquitously expressing Atg5 (crucial for autophagasome confirmation) live longer.,19
+Telomerase,124%,2012,Paper showing telomerase therapy increasing life,20
+Insulin receptor substrate null,132%,2008,Insulin receptor substrate 1 null mouse lifespan extension in females,21
+Snell Dwarf Mice,142%,2001,Snell dwarf mouse paper showing life extension,22
+Ames Dwarf Mice,168%,1996,Original Ames dwarf mouse paper showing life extension,23
+s-Arf/p53,113%,2007,An extra copy of p53 and upstream regulator Arf/p16Ink4a increases lifespan,24
+Slow growth during lactation,106%,2004,Male mice suckled by dams fed a low-protein diet lived longer than their control cohort,25
+Methionine restriction,111%,2005,"Methionine restriction increases mouse lifespan, here median lifespan increase in mice that survived at least 1 yr.",26
+Rapamycin (3 months),114%,2016,"Lifespan given from time of treatment which was 23-24 mo, used 24 mo to get percentage so this is an estimate",27
+GHR-BP,138%,2000,"Mice deficient in growth hormone receptor / binding protein live longer (female mean, not median, lifespan shown here)",28
+mTOR,116%,2013,mTOR depletion extends lifespan,29
+PTEN overexpression,112%,2012,"Overexpression of PTEN, a tumor suppressor which counteracts PI3K, extends mouse lifespan",30
+Myc (+/-),121%,2015,Claim no correlation between weight and lifespan,31
+FGF-21,139%,2012,"Hepatic-specific expression of FGF-21 (which suppresses growth hormone and reduces the production of IGF) increases lifespan, female lifespan shown here",32
+BubR1 overexpression,114%,2012,"Kinase which localizes to kinetochore, overexpression increases lifespan",33
+AC5 KO,132%,2007,"AC5 knockount mice lived longer than control, potentially linked to effects on cAMP production and beta-adrenergic receptor signaling.",34
+17-alpha-estradiol,112%,2013,"17-alpha-estradiol extended lifespan in males, but not females (as expected)",35
+Acarbose,122%,2013,Acarbose extended male more than female lifespan,36
+TRPV1 -/-,114%,2014,Resting exchange ratio similar at 16 mo to 3 mo,37
+SRT2104,106%,2014,"Start diet at 28 weeks of age, very small increase if there",38
+Hcrt-UCP2,128%,2006,"UCP2 under hypocretin promoter lowers core body temp, increases lifespan",39
+G6PD overexpression,114%,2016,Reduces NADP+,40
+IGF-1 Receptor Brain KO (+/-),109%,2008,Brain-specific IGF-1 Receptor +/- mice live longer than WT,41
+SURF-1 KO,121%,2007,"Mutations in SURF1, a cytochrome c oxidase assembly factor, extend lifespan. Mitochondrial.",42
+Litter enlargemnet (CR),118%,2009,"50% enlargement of litter in first 20 days, to induce caloric restriction",43
+mclk-1 heterozygous,115%,2005,A heterozygous knockout of mclk1 (important in mitochondrial respiration) results in mouse lifespan extension compared to wildtype,44
+Nordihydroguairaitic acid,112%,2008,NDGA and aspirin extend lifespan by a little bit. Small molecule.,45
+Aspirin,108%,2008,NDGA and aspirin extend lifespan by a little bit. Small molecule.,46
+SOD mimetic carboxyfullerene,115%,2008,"Carboxyfullerene, described as an SOD mimetic, increased the lifespan of treated mice compared to wildtype control",47
+Removal of visceral fat tissue,108%,2008,Removal of visceral fat tissue increases lifespan over control,48
+Low glycotoxin diet,112%,2007,Low glycotoxin (low levels of AGE's) shown to extend lifespan,49
+Per2 (-/-),118%,2016,Lifespan study incomplete,50
+Neonatal metformin,120%,2015,"Animals recieved on 3, 5, 7th day after birth - bad for females, good for males.",51
+GHRH KO,146%,2013,"GHRH (Growth-Hormone Releasing Hormone) disruption extends lifespan, presumably through the insulin/IGF pathway axis",52
+Sod-2 overexpresion,104%,2007,Overexpression of SOD-2 targeted to the mitochondrion increases mouse lifespan relative to wildtype,53
+Metallothionein cardiac-specific expression,114%,2006,Cardiac-specific expression of antioxidant metallothionein extended the lifespan of wildtype mice compared to WT FVB control.,54
+IGF1R(+/-),121%,2013,Tyrosine kinase receptor activated by IGF1/2,55
+Ink4a/Arf/Ink4b,116%,2009,"Encodes 2 CDKs (p16 and p15), and Arf (upstream of p53)",56
+Adult-onset Ghr (-/-),100%,2016,Male mice have >2x higher insulin than female mice,57
+Ovary Transplantation,117%,2003,Original paper showing that transplantation of young ovaries into old animals could result in lifespan increase,58
+UCP-1 transgenic,111%,2007,Transgenic mice with skeletal muscle-specific UCP1 had increased longevity. Small increase if there.,59
+PAPP,131%,2010,"Knockout of PAPP-A (which enhances IGF-1 activity by degrading the inhibitory IGF-binding protein) increases lifespan over wildtype, female lifespan shown here",60
+CR diet with lard,132%,2015,40% decrease starting at 4 months,61
+loss of function of Riib (PKA subunit),114%,2009,"Knockout of RIIbeta, a subunit of PKA, increased lifespan in mice compared to wildtype",62
+Myostatin (+/-),109%,2015,Knockout induces double-muscle mice,63
+Akt1 +/-,113%,2013,Haploinsufficiency of Akt1 increases mouse lifespan relative to wildtype. Insulin/IGF-1 pathway.,64
+miR-17,117%,2014,Not clear if there is a main function for miR-17,65
+NDGA,111%,2015,Makes up ~12.5% of the dry weight of leaves,66
+FAT10ko,119%,2014,Ubiquitin-like protein which can signal for protein to go to proteasome.,67
+Intranasal Hsp70,116%,2015,Seemed to extend lifespan when started at 17 months,68
+RasGRF1(-/-),120%,2011,Ras-guanine nucleotide exchange factor (Ras-GRF1) -/- mice displayed increased lifespan compared to wildtype.,69
+Lmna-Lcs (Lamin C alone),113%,2014,Body weight and tumor incidence increase in mice expressing only Lamin-C,70
+Cisd2 overexpression,119%,2011,Cisd2 transgenic mice (expressing more of it) lived longer than wildtype. Cisd2 is a transmembrane protein expressed on the mitochondrial outer membrane and associated with a human longevity locus.,71
+metoprolol,110%,2013,Administration of the beta-adrenerginc receptor blocker metoprolol to mice increased lifespan compared to wildtype,72
+nebivolol,106%,2013,Administration of the beta-adrenerginc receptor blocker nebivolol to mice increased lifespan compared to wildtype,73
+uPA (in ocular lens/CNS nerve cells),118%,1997,"uPA expression under alpha-crystallin promoter increases lifespan, small/eat less",74
+MIF-1 KO,116%,2010,MIF-1 knockout mutant (T-cell derived cytokine) extends lifespan,75
+mGsta4-null,113%,2009,"Enzyme protects against lipid peroxidation, weird that less of its activity might increase lifespan",76
+Muscle-specific GHRKO,109%,2015,Knockout under muscle creatinine kinase promoter,77
+CAM-α(1A)AR mice,110%,2011,Mice with a constitutively active mutant form of the alpha1-adrenergic receptor (CAM-alpha1aAR) lived longer than wildtype control,78
+Cardiac-specific catalase overexpression,113%,2007,Overexpression of catalase specifically in the heart in mice,79
+Icariin,108%,2015,Flavonoid,80
+miR-29 brain-specific KO,112%,2016,miR-29 highly expresed in brain during development,81
+Bi-maternal mice,128%,2010,Mice prepared to be bi-maternal were found longer-lived than their normal cohort,82
+RNase-L(-/-),127%,2007,"Knockout of RNase-L, which accelerates cell senescence when expressed, increases lifespan in mice compared to wildtype",83
+hMTH1-Tg,116%,2013,"Express high levels of hMTH1 hydrolase, thought to degrade 8-oxodGTP and 8-oxoGTP. Oxidative stress.",84
+DGAT-1 -/-,126%,2012,"Knockout of DGAT1, which catalyzes triglyceride synthesis, extends mouse lifespan relative to wildtype",85
+IGFBP-2 overexpression,105%,2016,"Proteins bind IGF1/2, degraded during pregnancy, delay in sexual maturity",86
+PAPP-A on high-fat diet,105%,2015,Males chosen so no adverse developmental effect on fat depots,87
+clk-1(-/-) with clk-1 transgene,128%,2014,"clk-1 functions in ubiquinone synthesis, but levels weren't very affected.",88
+AgRP -/-,110%,2006,"Neuropeptide that is appetite stimulator, overexpression leads to hyperphagia and obesity.",89
+Bone marrow transplantation,106%,2013,Bone marrow transplantation from young to old mice was claimed to extend lifespan,90
+Young blood injections,94%,2014,Resulted in decreased lifespan,91
+Nas(-/-) mice,125%,2011,Hyposulfatemic NaS1 null mice (Nas1 -/-) had an increased lifespan compared to wildtype control.,92
+Cyclophilin D (+/-),119%,2017,Decrease in maximum lifespan,93
+PAPP-A in adults,120%,2017,Tamoxifen-induced knockdown,94
+Mtbp (+/-),120%,2016,"Rotarod, open field, blood glucose, insulin, IGF-1 were the same.",95
