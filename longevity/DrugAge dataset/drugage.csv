@@ -1,0 +1,1822 @@
+compound_name,species,strain,dosage,avg_lifespan_change,max_lifespan_change,gender,significance,pubmed_id
+L-Carnitine,Saccharomyces cerevisiae,BY4741,1 mM,140,,,NS,20550520
+L-Carnitine,Saccharomyces cerevisiae,BY4741,1 mM,260,,,NS,20550520
+L-Carnitine,Saccharomyces cerevisiae,CM39L-11A,1 mM,50,,,NS,20550520
+L-Carnitine,Saccharomyces cerevisiae,CM39L-11A,1 mM,42.8,,,NS,20550520
+L-Carnitine,Saccharomyces cerevisiae,CM39L-11A,1 mM,62.4,,,NS,20550520
+L-Carnitine,Saccharomyces cerevisiae,CM39L-11A,1 mM,21.4,,,NS,20550520
+Spermidine,Drosophila melanogaster,w1118,1 mM,30,,,,19801973
+Spermidine,Saccharomyces cerevisiae,,4 mM,233,,,,19801973
+Spermidine,Caenorhabditis elegans,N2,0.2 mM,15,,,,19801973
+Spermidine,Mus musculus,C57BL/6,Drinking water supplemented with 3mM,23.79,,Male,0.02,28386016
+Spermidine,Mus musculus,C57BL/6J,0.3mM,11.3,,Female,<0.02,27841876
+Spermidine,Mus musculus,C57BL/6J,3 mM,6.5,,,S,27841876
+Aspirin,Mus musculus,UM-HET3,2.5g /kg food,8,0,Male,,18631321
+Aspirin,Caenorhabditis elegans,N2,0.5 µM,23,,,,22866967
+Aspirin,Caenorhabditis elegans,N2,1 µM,20.9,,,,22866967
+Aspirin,Caenorhabditis elegans,N2,100 µM,16,,,,23485446
+Aspirin,Acheta domesticus,,2.263x10^4 g aspirin/g food,49,,Female,,25833406
+Aspirin,Acheta domesticus,,5.65x10^5 g aspirin/g food,67,,Male,,25833406
+Aspirin,Acheta domesticus,,2.263x10^4 g aspirin/g food,77,,Male,,25833406
+Aspirin,Acheta domesticus,,5.65x10^5 g aspirin/g food,52,,Female,,25833406
+Aspirin,Acheta domesticus,,5.65x10^5 g aspirin/g food,134,,,,25833406
+Aspirin,Acheta domesticus,,2.263x10^4 g aspirin/g food,111,,,,25833406
+Aspirin,Caenorhabditis elegans,N2,100 µM,14.24,,,S,28910305
+Lithocholic acid,Saccharomyces cerevisiae,BY4741,50 µM ,100,,,,20622262
+Lithocholic acid,Saccharomyces cerevisiae,BY4742,50 µM,105.5,93,,S,30405886
+Lithocholic acid,Drosophila melanogaster,w1118,50 μM,24.94,15.39,Male,S,30051966
+SkQ1,Drosophila melanogaster,,20 pM-20 nM,14,,,,19120018
+SkQ1,Ceriodaphnia affinis,,0.55 nM,100,,,,19120018
+SkQ1,Podospora anserina,,100 nM,50,,,,19120018
+C60,Rattus norvegicus,,1.7 mg/kg of body weight,90,,,,22498298
+Caffeine,Drosophila melanogaster,Oregon R,0.01 mg/ml,-10.1,,Male,NS,8326745
+Caffeine,Drosophila melanogaster,Oregon R,1 mg/ml,-3.3,,Male,NS,8326745
+Caffeine,Drosophila melanogaster,Oregon R,0.1 mg/ml,1.7,,Male,NS,8326745
+Caffeine,Saccharomyces cerevisiae,BY4741,0.2-0.4 mM,86,,,,18513215
+Caffeine,Caenorhabditis elegans,N2,100 mM,-89.5,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,75 mM,-82.8,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,7.5 mM,-11.6,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,30 mM,-24.4,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,5 mM,-13.6,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,0.5 mM,7.7,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,7.5 mM,8.7,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,10 mM,16.9,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,2.5 mM,17.2,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,7.5 mM,19.6,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,20 mM,21.6,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,50 mM,-40.9,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,5 mM,10.8,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,10 mM,36.7,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,5 mM,28.5,,,,24764514
+Caffeine,Caenorhabditis elegans,N2,60 mM,-96,,,,26696878
+Caffeine,Caenorhabditis elegans,N2,45 mM,-92,,,,26696878
+Caffeine,Caenorhabditis elegans,N2,30 mM,-60,,,,26696878
+Caffeine,Caenorhabditis elegans,N2,5 mM,0,,,NS,26696878
+Caffeine,Caenorhabditis elegans,N2,15 mM,24,,,,26696878
+Caffeine,Caenorhabditis elegans,N2,5 mM,8,,,,26696878
+Caffeine,Caenorhabditis elegans,N2,5 mM,35,,,,26696878
+Caffeine,Caenorhabditis elegans,N2,5 mM,0,,,NS,26696878
+Caffeine,Caenorhabditis elegans,N2,5 mM,65,,,,26696878
+Caffeine,Drosophila melanogaster,Canton-S,0.03%,-22.86,-11.6,Male,P<0.05,29093334
+Caffeine,Drosophila melanogaster,Canton-S,0.05%,-17.14,-11.6,Male,P<0.05,29093334
+Caffeine,Caenorhabditis elegans,N2,50 µg/mL,15.39,,,S,30061824
+Kinetin,Zaprionus paravittiger,,3125 ppm,-71,-47.1,Male,,7488181
+Kinetin,Zaprionus paravittiger,,625 ppm,-20,0,Male,,7488181
+Kinetin,Zaprionus paravittiger,,3125 ppm,-65.7,-55.2,Female,,7488181
+Kinetin,Zaprionus paravittiger,,125 ppm,-2.9,17.1,Male,,7488181
+Kinetin,Zaprionus paravittiger,,625 ppm,-2.9,-13.2,Female,,7488181
+Kinetin,Zaprionus paravittiger,,125 ppm,22.9,15.8,Female,,7488181
+Kinetin,Zaprionus paravittiger,,25 ppm,14.2,12.9,Male,,7488181
+Kinetin,Zaprionus paravittiger,,25 ppm,80,19.7,Female,,7488181
+Metformin,Rattus norvegicus,Fischer 344,300 mg/kg/day,2.3,2.1,,NS,20304770
+Metformin,Caenorhabditis elegans,N2,50 mM,40,0,,,20090912
+Metformin,Drosophila melanogaster,Dahomey,100 mM,-66,,Female,,23077661
+Metformin,Drosophila melanogaster,Dahomey,25 mM,-7,,Female,,23077661
+Metformin,Drosophila melanogaster,Dahomey,50 mM,-22,,Female,,23077661
+Metformin,Drosophila melanogaster,Dahomey,10 mM,-3,,Female,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,50 mM,-6,,Male,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,1 mM,0,,Female,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,10 mM,-6,,Male,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,2.5 mM,-4,,Male,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,100 mM,-31,,Male,,23077661
+Metformin,Drosophila melanogaster,Dahomey,5 mM,0,,Male,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,5 mM,0,,Female,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,1 mM,4,,Male,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,25 mM,-6,,Male,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,5 mM,7,,Male,NS,23077661
+Metformin,Drosophila melanogaster,Dahomey,2.5 mM,0,,Female,NS,23077661
+Metformin,Mus musculus,C57BL/6J,0.001,5.8,,,,23900241
+Metformin,Caenorhabditis elegans,N2,100 mM,6.3,,,NS,24889636
+Metformin,Caenorhabditis elegans,N2,12.5 mM,13,,,,24889636
+Metformin,Caenorhabditis elegans,N2,6.25 mM,17,,,,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,29.7,,,,24889636
+Metformin,Caenorhabditis elegans,N2,50 mM,9.4,,,NS,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,30.6,,,,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,44,,,,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,47.4,,,,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,-4.7,,,NS,24889636
+Metformin,Caenorhabditis elegans,N2,25 mM,57.3,,,,24889636
+Metformin,Acheta domesticus,,1.78x10^3 g metformin/g diet,39,,Male,,25833406
+Metformin,Acheta domesticus,,1.78x10^3 g metformin/g diet,79,,,,25833406
+Metformin,Caenorhabditis elegans,N2,20 mM,13.79,,,S,29263362
+Metformin,Caenorhabditis elegans,N2,50 mM,43.65,,,S,29027899
+Metformin,Mus musculus,C57BL/6,1% In Standard Diet Every Other Week,-1,-6,Male,N/A,29167747
+Metformin,Mus musculus,C57BL/6, 1%in Standard Diet on 2 Consecutive Weeks Each Month,-5,-3,Male,N/A,29167747
+Metformin,Caenorhabditis elegans,N2,50 mM,24.46,,,,27984722
+EGTA,Mytilina brevispina,,0.25% on alternate days,75.9,,,,804507
+Hydrogen Sulphide,Caenorhabditis elegans,N2,50 ppm,74,,,,18077331
+Resveratrol,Saccharomyces cerevisiae,PSY316AT MATα,10 µM,60.7,,,,12939617
+Resveratrol,Saccharomyces cerevisiae,PSY316AT MATα,100 µM,40,,,,12939617
+Resveratrol,Saccharomyces cerevisiae,PSY316AT MATα,500 µM,39.5,,,,12939617
+Resveratrol,Saccharomyces cerevisiae,PSY316AT MATα,10 µM,70,,,,12939617
+Resveratrol,Caenorhabditis elegans,N2,100 µm,10,,,,15254550
+Resveratrol,Drosophila melanogaster,Canton S,100 µm,16,,Male,,15254550
+Resveratrol,Drosophila melanogaster,Canton S,100 µm,20,,Female,,15254550
+Resveratrol,Saccharomyces cerevisiae,BY4741,100 mg/ml,0,,,NS,15684413
+Resveratrol,Saccharomyces cerevisiae,PSY316,100 mg/ml,0,,,NS,15684413
+Resveratrol,Saccharomyces cerevisiae,W303R,100 mg/ml,0,,,NS,15684413
+Resveratrol,Caenorhabditis elegans,N2,0.5 mM,14,,,,16256736
+Resveratrol,Caenorhabditis elegans,N2,1 mM,17.8,,,,16256736
+Resveratrol,Caenorhabditis elegans,N2,0.1 mM,9.3,,,,16256736
+Resveratrol,Nothobranchius furzeri,Gonarezhou,600 µg/g food,56,59,,,16461283
+Resveratrol,Saccharomyces cerevisiae,PSY316ATα,10 µM,41.6,,,,17156081
+Resveratrol,Saccharomyces cerevisiae,PSY316ATα,10 µM,33.9,,,,17156081
+Resveratrol,Caenorhabditis elegans,N2,50 µM,50.8,29.2,,,17460219
+Resveratrol,Caenorhabditis elegans,N2,100 µM,7.4,,,,17875315
+Resveratrol,Caenorhabditis elegans,N2,100 µM,8.1,,,NS,17875315
+Resveratrol,Caenorhabditis elegans,N2,100 µM,7.5,,,,17875315
+Resveratrol,Caenorhabditis elegans,N2,100 µM,3.4,,,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,10 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,32 µM,-3.4,,Female,,17875315
+Resveratrol,Drosophila melanogaster,Canton S,100 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,200 µM,0,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1000 µM,3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1 µM,0,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,3.2 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,3.2 µM,0,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,10 µM,-7.7,,Female,,17875315
+Resveratrol,Drosophila melanogaster,Canton S,100 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,32 µM,-15.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,200 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1000 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,10 µM,-8.3,,Male,,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1 µM,2.8,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,32 µM,-13.9,,Male,,17875315
+Resveratrol,Drosophila melanogaster,Canton S,3.2 µM,-2.8,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,100 µM,2.8,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1 µM,-6.8,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1000 µM,-8.3,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,3.2 µM,4.5,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,200 µM,0,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,10 µM,-4.5,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,32 µM,9.1,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,200 µM,-4.5,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1000 µM,4.5,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,100 µM,0,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,10 µM,0,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,3.2 µM,8.2,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,100 µM,0,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,32 µM,-2,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,200 µM,2,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1000 µM,-2,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,3.2 µM,-2.8,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1 µM,-5.6,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Canton S,1 µM,0,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,10 µM,-5.6,,Female,,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,32 µM,-2.8,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,200 µM,-2.8,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1 µM,6.9,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,100 µM,2.8,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1000 µM,-5.6,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,3.2 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,10 µM,3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,100 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1 µM,-3.7,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,32 µM,-3.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1000 µM,6.9,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,200 µM,0,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,3.2 µM,-7.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,32 µM,-7.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,10 µM,0,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,100 µM,-3.7,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1000 µM,-7.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,3.2 µM,-3,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,10 µM,15.2,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,200 µM,-7.4,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,32 µM,9.1,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,100 µM,0,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,200 µM,12.1,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1000 µM,3,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,3.2 µM,2.8,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1 µM,1.4,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1 µM,15.2,,Female,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,100 µM,-1.4,,Male,,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,32 µM,0,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,200 µM,-1.4,,Male,,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,1000 µM,-2.8,,Male,NS,17875315
+Resveratrol,Drosophila melanogaster,Dahomey,10 µM,0,,Male,NS,17875315
+Resveratrol,Anastrepha ludens,,100 µM,-25.3,-9.5,Female,,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-14.5,-14.4,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-5.8,-7.3,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM ,-4.6,-12.4,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-2.8,-4.8,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-3.3,-12.1,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-0.5,3.7,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-1.4,-12,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-2.3,16.7,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,0,-3.4,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,1.3,16.6,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,2.3,5,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,2.6,17.5,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,1.5,10,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,2.5,-7.7,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,3.8,5.7,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,11.2,-1.4,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,8,36.3,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-4.9,5.4,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,2.6,13.9,Male,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,6.2,7.3,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,15.6,22.5,Female,,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-2.3,26.5,Female,NS,19264118
+Resveratrol,Anastrepha ludens,,100 µM,-5.6,10.2,Female,NS,19264118
+Resveratrol,Caenorhabditis elegans,N2,100 ug/ml,11,11.5,,,21364612
+Resveratrol,Drosophila melanogaster,Canton S,200 µM,-2.1,,Male,NS,22083438
+Resveratrol,Drosophila melanogaster,Canton S,100 µM ,1,,Male,NS,22083438
+Resveratrol,Drosophila melanogaster,Canton S,200 µM,-1.5,,Female,NS,22083438
+Resveratrol,Drosophila melanogaster,Canton S,100 µM ,1.8,,Female,NS,22083438
+Resveratrol,Mus musculus,UM-HET3,300 mg/kg of food,3.4,,,NS,22451473
+Resveratrol,Mus musculus,UM-HET3,300 mg/kg of food,4.7,,Female,NS,22451473
+Resveratrol,Saccharomyces cerevisiae,BY4741,10 µM,33.8,,,,22484922
+Resveratrol,Apis mellifera,,30 µM,38,,,,22868943
+Resveratrol,Nothobranchius guentheri,TZ 97-2,100 µL,13,23,Female,,22960591
+Resveratrol,Nothobranchius guentheri,TZ 97-2,100 µL,23,32,Male,,22960591
+Resveratrol,Nothobranchius guentheri,,12 µg,42.9,17,,,23220248
+Resveratrol,Saccharomyces cerevisiae,K6001,10 µM,17.4,,,,23439553
+Resveratrol,Caenorhabditis elegans,N2,100 µM,11.3,,,,23698443
+Resveratrol,Daphnia pulex clone TCO,,0.3 µM,-6.5,,,NS,24133070
+Resveratrol,Daphnia pulex clone TCO,,3 µM,-32.3,,,,24133070
+Resveratrol,Daphnia pulex clone TCO,,3 µM,0,,,NS,24133070
+Resveratrol,Daphnia pulex clone TCO,,0.3 µM,0,,,NS,24133070
+Resveratrol,Nothobranchius guentheri,TZ 97-2,200 µg/g,14,,Female,,25569124
+Resveratrol,Nothobranchius guentheri,TZ 97-2,200 µg/g,19,,Male,,25569124
+Resveratrol,Caenorhabditis elegans,N2,10 µM,12.8,9.1,,,25976661
+Resveratrol,Caenorhabditis elegans,N2,50 µM,15.4,14.3,,,25976661
+Resveratrol,Caenorhabditis elegans,N2,1 µM,6.3,9.1,,NS,25976661
+Resveratrol,Drosophila melanogaster,w1118,500 µmol/L,-9.9,-5.28,Male,,29324667
+Resveratrol,Caenorhabditis elegans,N2,100 µM,0.87,,,S,27882602
+Resveratrol,Caenorhabditis elegans,N2,100 μM,22.2,,,S,27190265
+Resveratrol,Caenorhabditis elegans,N2,500 μM,23.7,,,S,27190265
+Resveratrol,Caenorhabditis elegans,N2,1 mM,30.4,,,S,27190265
+Resveratrol,Caenorhabditis elegans,N2,50 µM,6.24,18.75,,S,27683245
+Resveratrol,Caenorhabditis elegans,N2,250 μM,16.66,3.13,,S,27683245
+Resveratrol,Caenorhabditis elegans,CB5586,10 μg/ml,5,,,S,28727758
+Resveratrol,Saccharomyces cerevisiae,FY631,10 μg/ml,20,,,,28727758
+Resveratrol,Saccharomyces cerevisiae,W303-1A,100 μM,-34.8,-25,,S,28412652
+Resveratrol,Caenorhabditis elegans,N2,50 µM,60.23,,,S,30320257
+Resveratrol,Caenorhabditis elegans,N2,100 μM,13.5,,,S,29874838
+Nordihydroguaiaretic acid,Aedes aegypti,,0.001% (w/v),42.7,,Female,,3749035
+Nordihydroguaiaretic acid,Aedes aegypti,,0.005% (w/v),6.7,,Female,NS,3749035
+Nordihydroguaiaretic acid,Aedes aegypti,,0.01% (w/v),13.6,,Female,NS,3749035
+Nordihydroguaiaretic acid,Aedes aegypti,,0.005% (w/v),64.3,,Male,,3749035
+Nordihydroguaiaretic acid,Aedes aegypti,,0.001% (w/v),11.9,,Male,NS,3749035
+Nordihydroguaiaretic acid,Mus musculus,UM-HET3,2.5 g/kg food,12,0,Male,,18631321
+Nordihydroguaiaretic acid,Mus musculus,B6C3F1,3.5 g/kg diet,12,,Male,,25380600
+Nordihydroguaiaretic acid,Mus musculus,B6C3F1,1.5 g/kg diet,,,Male,NS,25380600
+Nordihydroguaiaretic acid,Mus musculus,B6C3F1,2.5 g/kg diet,,,Male,NS,25380600
+Nordihydroguaiaretic acid,Drosophila melanogaster,Oregon-R-C,3 mg/ml,23,,,,25380600
+Nordihydroguaiaretic acid,Mus musculus,B6C3F1,4.5 g/kg diet,,,Male,NS,25380600
+Nordihydroguaiaretic acid,Drosophila melanogaster,Oregon-R-C,1 mg/ml,,,,NS,25380600
+Glucose,Saccharomyces cerevisiae,PSY316,10%,19.8,,,,12391171
+Glucose,Saccharomyces cerevisiae,PSY316,20%,63.1,,,,12391171
+Glucose,Caenorhabditis elegans,N2,2%,-19,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-19,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-11,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,0,,,NS,19883616
+Glucose,Caenorhabditis elegans,N2,2%,11,,,NS,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-9,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-24,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-15,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-20,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-31,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-15,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-17,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-28,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-23,,,,19883616
+Glucose,Caenorhabditis elegans,N2,2%,-16,,,,19883616
+Glucose,Caenorhabditis elegans,N2,102%,-17,,,,19883616
+Glucose,Caenorhabditis elegans,N2,111 mM,-46.8,,,S,27680107
+Glucose,Caenorhabditis elegans,N2,400 mM,-18.69,,,S,27776915
+Glucose,Caenorhabditis elegans,N2,2%,0,0,,0.3862,26764305
+Glucose,Caenorhabditis elegans,N2,4%,-23.6,-17.24,,P<0.0001,26764305
+Glucose,Caenorhabditis elegans,N2,1%,-5.88,12.5,,n.s. 0.7242,26764305
+Glucose,Caenorhabditis elegans,N2,2%,-5.88,12.5,,0.0448,26764305
+Glucose,Caenorhabditis elegans,N2,4%,-17.65,-8.33,,<0.0001,26764305
+Glucose,Caenorhabditis elegans,N2,1%,12.5,0,,n.s. 0.6619,26764305
+Glucose,Caenorhabditis elegans,N2,2%,31.25,14.29,,<0.0001,26764305
+Glucose,Caenorhabditis elegans,N2,4%,37.5,7.14,,<0.0001,26764305
+Glucose,Caenorhabditis elegans,N2,2%,-23.75,-20.97,,<0.0001,26764305
+Minocycline,Drosophila melanogaster,Oregon,0.05 mM,49,,Male,,22330257
+Minocycline,Drosophila melanogaster,Oregon R,0.87 mM,50,25,,,23185716
+Minocycline,Drosophila melanogaster,Oregon R,0.87 mM,50,66,,,23185716
+Minocycline,Drosophila melanogaster,Oregon,0.05 mM,63,,Male,,23947005
+Minocycline,Drosophila melanogaster,Canton S,0.05mM,26.7,,Male,p<1E-10,29152127
+Minocycline,Drosophila melanogaster,Canton S,0.36mM,15.7,,Male,p<1E-10,29152127
+Minocycline,Drosophila melanogaster,Canton S,0.05mM,13.6,,Female,p<1E-10,29152127
+Minocycline,Drosophila melanogaster,Canton S,0.36mM,7.7,,Female,p = 5.3E-8,29152127
+Minocycline,Drosophila melanogaster,w1118,0.05mM,16.9,,Male,p<1E-10,29152127
+Minocycline,Drosophila melanogaster,w1118,0.36mM,6,,Male,p = 0.0039,29152127
+Minocycline,Drosophila melanogaster,w1118,0.05mM,22.9,,Female,p<1E-10,29152127
+Minocycline,Drosophila melanogaster,w1118,0.36mM,15.6,,Female,p<1E-10,29152127
+Minocycline,Caenorhabditis elegans,N2,50 μM,5,,,NS,30479271
+Minocycline,Caenorhabditis elegans,N2,100 μM,36,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,200 μM,43,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,50 μM,6,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,100 μM,33,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,200 μM,12,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,50 μM,43,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,100 μM,51,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,200 μM,10,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,50 μM,6,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,100 μM,30,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,200 μM,14,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,50 μM,33,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,100 μM,48,,,S,30479271
+Minocycline,Caenorhabditis elegans,N2,200 μM,30,,,S,30479271
+Carbonylcyanide-3-chlorophenylhydrazone,Caenorhabditis elegans,N2,10 µM,60,,,,19442682
+Thioflavin T,Caenorhabditis elegans,N2,50-100 µM,60,78,,,21451522
+Paraquat,Caenorhabditis elegans,N2,0.1 mM,58,48,,,21151885
+Paraquat,Caenorhabditis elegans,N2,200 µM,24.6,13.58,,S,28992589
+Paraquat,Drosophila melanogaster,Dahomey,1 mM,-41.4,,,S,27076081
+Paraquat,Caenorhabditis elegans,N2,100 µM,13.53,,,S,28054425
+Paraquat,Caenorhabditis elegans,N2,100 µM,23.73,30.77,,S,27683245
+Rifampicin,Caenorhabditis elegans,N2,5 µM,42.6,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,1 µM,34.8,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,50 µM,37.9,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,200 µM,43.4,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,100 µM,49.2,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,10 µM,45.3,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,20 µM,50.8,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,50 µM,55.8,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,50 µM,45.4,,,,25720500
+Rifampicin,Caenorhabditis elegans,N2,30 µM,56.1,,,,25720500
+Fisetin,Saccharomyces cerevisiae,PSY316AT MATα,10 µM,55,,,,12939617
+Fisetin,Drosophila melanogaster,Canton S,100 µm,23,,,,15254550
+EUK-134,Caenorhabditis elegans,N2,0.05 mM,29,,,,10968795
+EUK-134,Caenorhabditis elegans,N2,0.5 mM,38,,,,10968795
+EUK-134,Caenorhabditis elegans,N2,5 mM,52,,,,10968795
+EUK-134,Caenorhabditis elegans,N2,5 mM,42,,,,10968795
+EUK-134,Caenorhabditis elegans,N2,0.05 mM,38,,,,10968795
+EUK-134,Caenorhabditis elegans,N2,10 mM,52,,,,10968795
+EUK-134,Caenorhabditis elegans,N2,0.5 mM,54,,,,10968795
+EUK-134,Aeolosoma viride,,3.1 µM,48.8,,,,25190068
+EUK-134,Aeolosoma viride,,12.5 µM,20.2,,,,25190068
+EUK-134,Aeolosoma viride,,1.6 µM,26.4,,,,25190068
+Citrate,Mytilina brevispina,,0.25% on alternate days,51.7,,,,804507
+Citrate,Caenorhabditis elegans,N2,10 mM,-2,,,NS,25643626
+D-glycerol,Saccharomyces cerevisiae,PSY316,1 M,49.8,,,,12391171
+Glycerol,Caenorhabditis elegans,N2,1%,-36,,,,19883616
+Glycerol,Caenorhabditis elegans,N2,1%,-23,,,,19883616
+Glycerol,Caenorhabditis elegans,N2,1%,-24,,,,19883616
+Glycerol,Brachionus manjavacas,,274 mM,51,,,,24835191
+Glycerol,Caenorhabditis elegans,N2,10 mM,21,,,,25643626
+Glycerol,Caenorhabditis elegans,N2,500 mM,33.55,31.58,,S,26854551
+Taxifolin,Caenorhabditis elegans,N2,820 µM,51,,,,18755260
+N-acetylglucosamine,Caenorhabditis elegans,N2,10 mM,50,,,,24630720
+Edetate Calcium Disodium,Mytilina brevispina,,0.25% on alternate days,49.4,,,,804507
+Edetate Calcium Disodium,Caenorhabditis elegans,N2,,21.4,,,,25554795
+Curcumin,Drosophila melanogaster,Canton S,100 µM,19,,Female,,20645870
+Curcumin,Drosophila melanogaster,Ives,250 µM,18,,Male,,20645870
+Curcumin,Caenorhabditis elegans,N2,20 µM,39,,,,21855561
+Curcumin,Mus musculus,UM-HET3,300 mg/kg of food,4.5,,,NS,22451473
+Curcumin,Mus musculus,UM-HET3,300 mg/kg of food,2.8,,,NS,22451473
+Curcumin,Drosophila melanogaster,Oregon R,1 mg/g,12.6,13,Female,,22653297
+Curcumin,Drosophila melanogaster,Oregon R,1 mg/g,25.8,-5.2,Male,,22653297
+Curcumin,Drosophila melanogaster,Oregon R,0.5 mg/g,6.2,-5.2,Male,NS,22653297
+Curcumin,Drosophila melanogaster,Oregon R,0.5 mg/g,15.5,-1.9,Female,,22653297
+Curcumin,Drosophila melanogaster,Ra,100 mM,-23.4,,Female,NS,23063786
+Curcumin,Drosophila melanogaster,Ra,100 mM,-10.2,,Male,NS,23063786
+Curcumin,Drosophila melanogaster,Ra,100 mM,25,20.2,,,23063786
+Curcumin,Drosophila melanogaster,Ra,100 mM,-17,3,Female,,23063786
+Curcumin,Drosophila melanogaster,Ra,100 mM,-8.2,25,Male,,23063786
+Curcumin,Drosophila melanogaster,Ra,100 mM,25.5,0,Female,,23063786
+Curcumin,Drosophila melanogaster,Ra,100 mM,49,49,Male,,23063786
+Curcumin,Drosophila melanogaster,Ra,100 mM,16.3,25,Male,,23063786
+Curcumin,Drosophila melanogaster,Ra,10 mM,,,,NS,23063786
+Curcumin,Drosophila melanogaster,Ra,200 mM,,,,,23063786
+Curcumin,Drosophila melanogaster,Ra,100 mM,46.8,38,Female,,23063786
+Curcumin,Drosophila melanogaster,Wild 1-A,1 mg/g,20.3,,,,23675008
+Curcumin,Drosophila melanogaster,Wild 1-A,0.5 mg/g,,,Male,NS,23675008
+Curcumin,Drosophila melanogaster,Canton S,50 µM,3,,Female,,25173182
+Curcumin,Drosophila melanogaster,Canton S,50 µM,-1,,Male,,25173182
+Curcumin,Drosophila melanogaster,Canton S,25 µM,9,,Female,,25173182
+Curcumin,Drosophila melanogaster,Canton S,25 µM,4,,Male,,25173182
+Curcumin,Drosophila melanogaster,Canton S,5 µM,2,,Male,,25173182
+Curcumin,Drosophila melanogaster,Canton S,10 µM,19,,Male,,25173182
+Curcumin,Drosophila melanogaster,Canton S,10 µM,34,,Female,,25173182
+Curcumin,Drosophila melanogaster,Canton S,5 µM,6,,Female,,25173182
+Curcumin,Caenorhabditis elegans,N2,100 µM,22.5,,,,25959406
+Curcumin,Drosophila melanogaster,Ra,100 mM,25.5,0,Female,,26136617
+Curcumin,Drosophila melanogaster,Ra,100 mM,-17,-3,Female,,26136617
+Curcumin,Drosophila melanogaster,Ra,100 mM,-23.4,,Female,,26136617
+Curcumin,Drosophila melanogaster,Ra,100 mM,46.8,38,Female,,26136617
+Curcumin,Drosophila melanogaster,Canton-S,0.2 mg/g,3.01,4.91,Male,NS,30488487
+Curcumin,Drosophila melanogaster,Canton-S,0.2 mg/g,6.74,8.77,Female,S,30488487
+Acetaminophen,Caenorhabditis elegans,N2,0.10%,48.6,66,,P<0.01,22114686
+Acetaminophen,Mus musculus,C57BL/6J,242 μg/mL,3.7,-11,Female,NS,4788962
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,8 mM,29.4,,,,24828042
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,100 µM,10,,,,25643626
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,10 mM,7,,,NS,25643626
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,5 mM,11,,,,25643626
+Alpha-ketoglutarate,Caenorhabditis elegans,N2,1 mM,15,,,,25643626
+Alpha-ketoglutarate,Caenorhabditis elegans,,8 mM,47.9,,,,26190651
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,24,29,,,15653505
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,-7,-10,,NS,15653505
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,39,33,,,15653505
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,41,23,,,15653505
+Trimethadione,Caenorhabditis elegans,N2,4 mg/ml,47,57,,,15653505
+Trimethadione,Caenorhabditis elegans,N2,25 µL Liposomes + 0.6mg trimethadione,,50,,,19580823
+Baicalein,Caenorhabditis elegans,N2,0.001,36.7,52,,,22114686
+Baicalein,Caenorhabditis elegans,N2,100 µM,45,24,,,23339711
+Baicalein,Drosophila melanogaster,w1118,0.04mg/ml,8.53,5.7,,S,26778291
+Baicalein,Drosophila melanogaster,w1118,0.2mg/ml,19.8,3.97,Male,<0.001,26778291
+Baicalein,Drosophila melanogaster,w1118,1 mg/ml,9.32,4.66,,S,26778291
+Loxapine succinate,Caenorhabditis elegans,,88 µM,43,,,,24134630
+(R)-2-hydroxyglutarate,Caenorhabditis elegans,,8 mM,42.9,,,,26190651
+Epicatechin,Drosophila melanogaster,Oregon R,0.01 mg/ml,1.8,,Male,NS,8326745
+Epicatechin,Drosophila melanogaster,Oregon R,0.1 mg/ml,3.7,,Male,NS,8326745
+Epicatechin,Drosophila melanogaster,Oregon R,1 mg/ml,7.4,,Male,NS,8326745
+Epicatechin,Caenorhabditis elegans,N2,100 µM,15,11,,NS,20513639
+Epicatechin,Drosophila melanogaster,Canton S,0.1 mM/l,42,,,,21525262
+Epicatechin,Drosophila melanogaster,Canton S,0.3µM,-6.49,-5.22,Female,0.05,28066251
+Epicatechin,Drosophila melanogaster,Canton S,0.5 µM,0,2.24,,NS,28066251
+Epicatechin,Drosophila melanogaster,Canton S,1 µM,-3.78,-4.48,,S,28066251
+Epicatechin,Drosophila melanogaster,Canton S,0.3µM,-9.08,-10,Male,0.05,28066251
+Epicatechin,Drosophila melanogaster,Canton S,0.5 µM,6.95,3.08,,S,28066251
+Epicatechin,Drosophila melanogaster,Canton S,1 µM,-11.44,-2.21,,S,28066251
+Epicatechin,Drosophila melanogaster,Canton S,1 µM,7.5,,,S,28066251
+Epicatechin,Drosophila melanogaster,Canton-S,1 μM,16,,,S,28066251
+Ciclopirox olamine,Caenorhabditis elegans,N2,0.0001,41,52,,,22114686
+4-phenylbutyrate,Drosophila melanogaster,Canton S,5 mM,40,41,,,11792861
+Glyceollin I,Saccharomyces cerevisiae,,12.5 nM,40,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,100000 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,0.5 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,5 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,10 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,50 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,1 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,100 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,1250 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,25000 nM,,,,,24399048
+Glyceollin I,Saccharomyces cerevisiae,,25 nM,,,,,24399048
+Protocatechuic acid,Caenorhabditis elegans,N2,200 µM,38.9,40,,,23780797
+Protocatechuic acid,Caenorhabditis elegans,N2,100 µM,23,25,,,23780797
+Amperozide hydrochloride,Caenorhabditis elegans,,13 µM,38,,,,24134630
+EUK-8,Caenorhabditis elegans,N2,10 mM,29,,,,10968795
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,33,,,,10968795
+EUK-8,Caenorhabditis elegans,N2,5 mM,29,,,,10968795
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,38,,,,10968795
+EUK-8,Caenorhabditis elegans,N2,5 mM,33,,,,10968795
+EUK-8,Caenorhabditis elegans,N2,5 mM,-83.9,,,,12521609
+EUK-8,Caenorhabditis elegans,N2,5 mM,-83.7,,,,12521609
+EUK-8,Caenorhabditis elegans,N2,5 mM,-81,,,,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,-26.5,,,,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,-33.1,,Male,,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,-26.6,,,,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,-21.1,,,,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,-12.9,,Male,,12521609
+EUK-8,Caenorhabditis elegans,N2,0.5 mM,-10.7,,,,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,-6.1,,,,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,-5.7,,,NS,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,-0.9,,,NS,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,-0.9,,,NS,12521609
+EUK-8,Caenorhabditis elegans,N2,0.05 mM,3,,,NS,12521609
+Octoclothepin maleate,Caenorhabditis elegans,,13 µM,38,,,,24134630
+Pergolide methanesulfonate,Caenorhabditis elegans,,13 µM,37,,,,24134630
+Hesperidin,Saccharomyces cerevisiae,BY4741,5 µM,15.4,,,,22484922
+Hesperidin,Saccharomyces cerevisiae,BY4741,10 µM,36.9,,,,22484922
+Hesperidin,Saccharomyces cerevisiae,BY4741,50 µM,4.6,,,,22484922
+D-xylitol,Saccharomyces cerevisiae,PSY316,1 M,36.8,,,,12391171
+Doxycycline,Caenorhabditis elegans,N2,30 µg/ml,36.48,,,,23698443
+Doxycycline,Caenorhabditis elegans,SJ4101,6 µg/ml,12.1,,,,23698443
+Doxycycline,Caenorhabditis elegans,SJ4101,60 µg/ml,23.7,,,,23698443
+Doxycycline,Caenorhabditis elegans,SJ4101,30 µg/ml,25.4,,,,23698443
+Doxycycline,Caenorhabditis elegans,N2,6 µg/ml,17.6,,,,23698443
+Lithium Chloride,Caenorhabditis elegans,N2,10 mM,36,,,,17959600
+Lithium Chloride,Caenorhabditis elegans,JK1107 (glp-1),10 mM,11,,,,24398558
+Lithium Chloride,Caenorhabditis elegans,JK1107,10 mM,0.1,0,,,24398558
+Lithium Chloride,Drosophila melanogaster,Dahomey,10 mM,13,13,,S,27068460
+Lithium Chloride,Drosophila melanogaster,Dahomey,25 mM,18,18,,S,27068460
+Lithium Chloride,Drosophila melanogaster,Dahomey,10 mM,18.5,4,,S,27068460
+Lithium Chloride,Drosophila melanogaster,Dahomey,25 mM,23,13.5,,S,27068460
+Ethosuximide,Caenorhabditis elegans,N2,4 mg/ml,35,37,,,15653505
+Ethosuximide,Caenorhabditis elegans,N2,4 mg/ml,14,-2,,,15653505
+Ethosuximide,Caenorhabditis elegans,N2,4 mg/ml,17,22,,,15653505
+Ethosuximide,Caenorhabditis elegans,N2,4 mg/ml,35,37,,,15653505
+Ethosuximide,Caenorhabditis elegans,N2,2 mg/ml,13,24,,,15653505
+Valproic acid,Caenorhabditis elegans,N2,6 mM,35,42,,,18248662
+Staurosporine,Drosophila melanogaster,Oregon R,30-50 µM,34.8,,,,22363408
+Ampicillin,Caenorhabditis elegans,fem-1(hc17),100 µg/ml,34,,,,16441844
+Curare,Asplanchna brightwelli,,0.00%,-24,,,,3833547
+Curare,Asplanchna brightwelli,,0.00%,26,,,,3833547
+Curare,Asplanchna brightwelli,,0.00%,32,,,,3833547
+Curare,Asplanchna brightwelli,,0.00%,34,,,,3833547
+Dihydroergocristine methanesulfonate,Caenorhabditis elegans,,176 µM,34,,,,24134630
+Sulfamethoxazole,Caenorhabditis elegans,N2,400 µM,18,0,,,24034891
+Sulfamethoxazole,Caenorhabditis elegans,N2,100 µM,34,0,,,24034891
+Sulfamethoxazole,Caenorhabditis elegans,N2,200 µM,28,0,,,24034891
+Amoxapine,Caenorhabditis elegans,,88 µM,33,,,,24134630
+Chlorprothixene hydrochloride,Caenorhabditis elegans,,13 µM,33,,,,24134630
+Dimethyl formamide,Caenorhabditis elegans,N2,0.0075,33,54,,,23313473
+"LY-165,163",Caenorhabditis elegans,,33 µM,33,,,,24134630
+Myricetin,Caenorhabditis elegans,N2,100 µM,32.9,,,,23736695
+Mianserin,Caenorhabditis elegans,N2,50 µM,31,,,,18033297
+Mianserin,Caenorhabditis elegans,,50 µM,32,,,,24134630
+Mianserin,Caenorhabditis elegans,N2,50 µM ,28.3,46,,,26255886
+Myxothiazol,Caenorhabditis elegans,N2,10 μM,32.3,28.6,,,18221415
+Promethazine hydrochloride,Caenorhabditis elegans,,176 µM,32,,,,24134630
+Trehalose,Caenorhabditis elegans,N2,5 mM,32,,,,20477758
+(S)-2-hydroxyglutarate,Caenorhabditis elegans,,8 mM,31.8,,,,26190651
+"3,3-diethyl-2-pyrrolidinone",Caenorhabditis elegans,N2,2 mg/ml,31,49,,,15653505
+"3,3-diethyl-2-pyrrolidinone",Caenorhabditis elegans,N2,2 mg/ml,31,49,,,15653505
+Butein,Saccharomyces cerevisiae,PSY316AT MATα,10 µM,31,,,,12939617
+Epithalamin,Mus musculus,C3H/Sn,NA,31,,,,9701766
+Epithalamin,Drosophila melanogaster,,NA,16,,,,9701766
+Epithalamin,Rattus norvegicus,,NA,25,,,,9701766
+Epitalon,Drosophila melanogaster,Canton S,5*10^-6 %,3.2,,Female,NS,11087911
+Epitalon,Drosophila melanogaster,Canton S,1*10^-9 %,7.1,,Female,NS,11087911
+Epitalon,Drosophila melanogaster,Canton S,1*10^-6 %,3.2,,Female,NS,11087911
+Epitalon,Drosophila melanogaster,Canton S,1*10^-7 %,10.8,,Male,,11087911
+Epitalon,Drosophila melanogaster,Canton S,5*10^-6 %,11.3,,Male,,11087911
+Epitalon,Drosophila melanogaster,Canton S,1*10^-7 %,11.8,,Female,,11087911
+Epitalon,Drosophila melanogaster,Canton S,1*10^-6 %,12.8,,Male,,11087911
+Epitalon,Drosophila melanogaster,Canton S,1*10^-8 %,13.4,,Female,,11087911
+Epitalon,Drosophila melanogaster,Canton S,1*10^-8 %,12,,Male,,11087911
+Epitalon,Drosophila melanogaster,Canton S,1*10^-9 %,16.6,,Male,,11087911
+Reserpine,Caenorhabditis elegans,N2,30 µM,31,,,,18409080
+Reserpine,Caenorhabditis elegans,N2,60 uM,30,,,,22212533
+Reserpine,Caenorhabditis elegans,N2,60 μM,25.75,,,S,27966489
+Thiazolidine carboxylic acid,Drosophila melanogaster,Oregon R,0.3% wt/vol,31,,,,6821144
+Thioridazine hydrochloride,Caenorhabditis elegans,,33 µM,31,,,,24134630
+Trolox,Caenorhabditis elegans,N2,3 mM,31,,,,18755260
+Astragalus polysaccharide,Caenorhabditis elegans,N2,50 µg/ml,7,,,,25186652
+Astragalus polysaccharide,Caenorhabditis elegans,N2,400 µg/ml,19.6,,,,25186652
+Astragalus polysaccharide,Caenorhabditis elegans,N2,100 µg/ml,22.8,,,,25186652
+Astragalus polysaccharide,Caenorhabditis elegans,N2,200 µg/ml,20.7,,,,25186652
+Astragalus polysaccharide,Caenorhabditis elegans,N2,600 µg/ml,30.8,,,,25186652
+Astragalus polysaccharide,Caenorhabditis elegans,N2,200 µg/ml,24.7,,,,25186652
+N-acetyl-L-cysteine,Drosophila melanogaster,Oregon R,1 mg/ml,14.1,15.1,Male,,9447249
+N-acetyl-L-cysteine,Drosophila melanogaster,Oregon R,100 µg/ml,16.8,15.1,Male,,9447249
+N-acetyl-L-cysteine,Drosophila melanogaster,Oregon R,10 mg/ml,26.8,24.5,Male,,9447249
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,25 µL Liposomes + 100 µg NAC,,42.9,,,19580823
+N-acetyl-L-cysteine,Mus musculus,UM-HET3,10 g/L of water,24,45,Male,,20819793
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,2 mM,5.2,9.5,,NS,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,1 mM,6.1,9.5,,NS,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,2 mM,27.1,23.5,,,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,5 mM,14.6,19,,NS,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,1 mM,28.1,17.6,,,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2 CGCb strain,5 mM,30.5,47.1,,,26039957
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,3 mM,9.07,20,,S,27683245
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,6 mM,12.53,12,,S,27683245
+N-acetyl-L-cysteine,Caenorhabditis elegans,N2,9 mM,24.49,64,,S,27683245
+SB203580,Drosophila melanogaster,Oregon R,300 µM,30.3,,,,22363408
+Ethidium bromide,Caenorhabditis elegans,N2,5 µg/ml,30.1,,,,23698443
+Cis-(Z)-Flupenthixol dihydrochloride,Caenorhabditis elegans,,33 µM,30,,,,24134630
+Polydatin,Caenorhabditis elegans,N2,1 mM,30,,,,24305800
+Sorbitol,Saccharomyces cerevisiae,PSY316,1 M,29.9,,,,12391171
+Sorbitol,Caenorhabditis elegans,N2,2%,5,,,NS,19883616
+Sorbitol,Caenorhabditis elegans,N2,2%,-2,,,NS,19883616
+Sorbitol,Caenorhabditis elegans,N2,1%,17.9,,,0.001,26579191
+Sorbitol,Caenorhabditis elegans,N2,2.50%,32.7,,,<0.001,26579191
+Sorbitol,Caenorhabditis elegans,N2,12.50%,16,,,<0.001,26579191
+Sorbitol,Caenorhabditis elegans,N2,5%,27.12,,,<0.001,26579191
+Sorbitol,Caenorhabditis elegans,N2,500 mM,39.35,57.89,,S,26854551
+Diiodomethane,Drosophila melanogaster,,10 µg/ml,29.3,,,,412727
+Dimethyl sulfoxide,Caenorhabditis elegans,N2,0.005,29,18.6,,,20828537
+Juglone,Caenorhabditis elegans,N2,40 µm,29,,,,19597959
+Minocycline hydrochloride,Caenorhabditis elegans,,88 µM,29,,,,24134630
+Phenformin,Mus musculus,C3H/Sn,"2 mg, 5 times a week",21,26,Female,,14618027
+Phenformin,Caenorhabditis elegans,N2,4.5 mM,29,,,,23540700
+Astaxanthin,Caenorhabditis elegans,N2,1 mM,28.6,21.7,,,22013497
+Astaxanthin,Caenorhabditis elegans,N2,6 µg,20.8,14.6,,,22484623
+Sodium hypophosphite,Zaprionus paravittiger,,1 mM,-89.8,-94.9,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,500 mM,-85.3,-78.6,Male,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,100 mM,-58.8,-54.8,Male,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,60 mM,-24.4,-11.2,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,500 mM,-84.1,-78.1,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,10 mM,-8.3,-1.7,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,10 mM,-4.1,-1.4,Male,NS,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,1 mM,-88.5,-91.4,Male,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,1 µM,1,6,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,10 µM,13,13.3,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,100 mM,-46.9,-47.2,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,1 µM,5.3,5.7,Male,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,100 µM,18,21,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,10 µM,13.2,12.4,Male,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,60 mM,-24.2,-8.1,Male,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,5 mM,23.6,21.9,Male,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,5 mM,25.4,19.7,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,1 mM,28.1,27,Female,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,1 mM,28.5,34.3,Male,,3721207
+Sodium hypophosphite,Zaprionus paravittiger,,100 µM,24.9,22.9,Male,,3721207
+FCCP,Caenorhabditis elegans,N2,50 µM,27.8,21.4,,S,18221415
+FCCP,Caenorhabditis elegans,N2,50 µM,17.3,21.6,,,20346071
+Methylergonovine maleate,Caenorhabditis elegans,,88 µM,28,,,,24134630
+Tamarixetin,Caenorhabditis elegans,,NA,28,,,,16872777
+Genistein,Caenorhabditis elegans,N2,50 µM,10,,,,25593647
+Genistein,Caenorhabditis elegans,N2,100 µM,27.9,,,,25593647
+Trichostatin A,Drosophila melanogaster,Canton S, 10 µM,23.3,37,Male,,15346199
+Trichostatin A,Drosophila melanogaster,Canton S, 10 µM,27.3,37.9,Female,,15346199
+Trichostatin A,Drosophila melanogaster,Canton S,10 µmol/L,15.6,,Female,,15695762
+Trichostatin A,Caenorhabditis elegans,N2,100 µM,22.1,,,,26676933
+Kenpaullone,Caenorhabditis elegans,,88 µM,27,,,,24134630
+PD-98059,Drosophila melanogaster,Oregon R,300-1000 µM,27,,,,22363408
+Trequinsin hydrochloride,Caenorhabditis elegans,,88 µM,27,,,,24134630
+Folic acid,Caenorhabditis elegans,N2,50 µM,0.2,,,NS,26546011
+Folic acid,Caenorhabditis elegans,N2,25 µM,26.6,,,,26546011
+Folic acid,Caenorhabditis elegans,N2,10 µM,17.1,,,,26546011
+Folic acid,Caenorhabditis elegans,N2,25 µM,15,,,,26546011
+Carnosine,Drosophila melanogaster,D-32,200 mg/l,24.3,,Male,,12447464
+Carnosine,Drosophila melanogaster,D-32,0.2 mg/l,19.5,,Male,,12447464
+Carnosine,Drosophila melanogaster,D-32,2 mg/l,26.4,,Male,,12447464
+Carnosine,Drosophila melanogaster,D-32,200 mg/l,,,Female,NS,12447464
+Carnosine,Drosophila melanogaster,,50 mg/l,20,,Male,,20681748
+Carnosine,Caenorhabditis elegans,N2,100 µM,4,,,,25643626
+Carnosine,Caenorhabditis elegans,N2,10 µM,1,,,NS,25643626
+Carnosine,Caenorhabditis elegans,N2,1 mM,11,,,,25643626
+Butylated hydroxytoluene,Mus musculus,BaLB/c,0.75%,15.8,,,,448040
+Butylated hydroxytoluene,Mus musculus,BaLB/c,0.75%,18.7,,,,448040
+Butylated hydroxytoluene,Drosophila bipectinata,,100 µM,13,,Female,,6656301
+Butylated hydroxytoluene,Drosophila bipectinata,,10 µM,4.3,,Female,,6656301
+Butylated hydroxytoluene,Drosophila bipectinata,,100 µM,14.3,,Male,,6656301
+Butylated hydroxytoluene,Drosophila bipectinata,,1000 µM,26.1,,Female,,6656301
+Butylated hydroxytoluene,Drosophila bipectinata,,10 µM,4.8,,Male,,6656301
+Butylated hydroxytoluene,Drosophila bipectinata,,1000 µM,19,,Male,,6656301
+D-beta-hydroxybutyrate,Caenorhabditis elegans,N2,20 mM,26,,,,25127866
+Matairesinol,Caenorhabditis elegans,N2,10 µM,14,,,,26141518
+Matairesinol,Caenorhabditis elegans,N2,100 µM,25,,,,26141518
+Nitrendipine,Caenorhabditis elegans,,88 µM,25,,,,24134630
+Oxaloacetate,Mus musculus,UM-HET3,2200 mg/Kg of food,2.7,,Female,NS,22451473
+Oxaloacetate,Mus musculus,UM-HET3,2200 mg/Kg of food,4.2,,Male,NS,22451473
+Oxaloacetate,Caenorhabditis elegans,N2,8 mM,25,13,,,19793063
+Oxatomide,Caenorhabditis elegans,,88 µM,25,,,,24134630
+Simvastatin,Drosophila melanogaster,,240 µM,25,,,,22737247
+Vitamin E,Caenorhabditis elegans,N2,400 µg/ml,4,,,,3374177
+Vitamin E,Caenorhabditis elegans,N2,100 µg/ml,9,,,,3374177
+Vitamin E,Caenorhabditis elegans,N2,200 µg/ml,22,,,,3374177
+Vitamin E,Caenorhabditis elegans,N2,200 µg/ml,17,,,,3374177
+Vitamin E,Caenorhabditis elegans,N2,200 µg/ml,17,,,,3374177
+Vitamin E,Caenorhabditis elegans,N2,200 µg/ml,23,,,,3374177
+Vitamin E,Asplanchna brightwelli,,25 µg/mL,21,,,,6479253
+Vitamin E,Philodina,,concentration of 10^ -4,9.2,0,,,7428854
+Vitamin E,Drosophila melanogaster,Oregon R,0.4% wt/vol,14,,,,6821144
+Vitamin E,Paramecium tetraurelia,,25 mg/L,11.7,17.1,,,9406982
+Vitamin E,Caenorhabditis elegans,N2,80 ug/ml,2.9,,,,10843344
+Vitamin E,Caenorhabditis elegans,N2,400 µg/ml,11,,,,14706236
+Vitamin E,Asplanchna brightwelli,clone 4B61,3 mM,16.4,6.7,,,15374519
+Vitamin E,Asplanchna brightwelli,clone 4B61,3 mM,24.5,,,,15374519
+Vitamin E,Caenorhabditis elegans,N2,200 µg/mL,20.6,0,,,17169403
+Vitamin E,Caenorhabditis elegans,N2,20 µg/mL,16.6,0,,,17169403
+Vitamin E,Drosophila melanogaster,Canton S,100 µg/ml,2,,Female,,17169403
+Vitamin E,Mus musculus,C57BL/6J,550 mg/kg,15,,,,18257658
+Alpha-lipoic acid,Drosophila melanogaster,Canton S,5E-05,12,5,Female,,15328413
+Alpha-lipoic acid,Caenorhabditis elegans,N2,24 µM,24.2,14.3,,,17156833
+Alpha-lipoic acid,Rattus norvegicus,BN/SsNOlaHSD,1.5 g/kg,0,,Male,NS,18486188
+Alpha-lipoic acid,Caenorhabditis elegans,N2,1 mM,21,0,,,18755260
+Dihydroergotamine methanesulfonate,Caenorhabditis elegans,,88 µM,24,,,,24134630
+SP600125,Drosophila melanogaster,Oregon R,10 mM,23.5,,,,22363408
+"3,4-dihydroxybenzaldehyde",Drosophila melanogaster,yw (y1w67c23),0.3 mM,13,,Female,,22809229
+"3,4-dihydroxybenzaldehyde",Drosophila melanogaster,yw (y1w67c23),3 mM,13,,Female,,22809229
+"3,4-dihydroxybenzaldehyde",Drosophila melanogaster,yw (y1w67c23),1 mM,23,,Female,,22809229
+Acetic Acid,Caenorhabditis elegans,N2,50 ppm,23,,,,19837596
+Cyproterone acetate,Caenorhabditis elegans,,33 µM,23,,,,24134630
+Metergoline,Caenorhabditis elegans,,33 µM,23,,,,24134630
+Nicardipine hydrochloride,Caenorhabditis elegans,,176 µM,23,,,,24134630
+Quercetin dihydrate,Drosophila melanogaster,Oregon R,1 mM,23,,,,22363408
+Vitamin D3,Caenorhabditis elegans,N2,1000 µg/ml,23,,,,24304198
+Vitamin D3,Caenorhabditis elegans,N2,25 μM,10.98,,,S,27783938
+Vitamin D3,Caenorhabditis elegans,N2,50 μM,28.77,,,S,27783938
+Vitamin D3,Caenorhabditis elegans,N2,100 μM,23.29,,,S,27783938
+Vitamin D3,Caenorhabditis elegans,N2,250 μM,47.95,,,S,27783938
+Melatonin,Mus musculus,BALB/c,NA,18.1,,Female,,8290600
+Melatonin,Paramecium tetraurelia,,10 mg/L,20.8,14.8,,,9406982
+Melatonin,Paramecium tetraurelia,,10 mg/L,10.8,5.1,,,9406982
+Melatonin,Paramecium tetraurelia,,10 mg/L,22.8,20.9,,,9406982
+Melatonin,Paramecium tetraurelia,,10 mg/L,,17.9,,NS,9406982
+Melatonin,Drosophila melanogaster,Canton S,0.08% per unit mass culture medium,5.5,,Female,,10100152
+Melatonin,Drosophila melanogaster,Canton S,0.08% per unit mass culture medium,4.8,,Male,,10100152
+Melatonin,Mus musculus,CBA,20 mg/l,5.4,7.5,,,11445596
+Melatonin,Drosophila melanogaster,Oregon R,100 µg/ml,14,33,,,11909680
+Tyrphostin AG 1295,Drosophila melanogaster,Oregon R,300-500 µM,22.5,,,,22363408
+Beta-caryophyllene,Caenorhabditis elegans,N2,25 μM,11.2,,,,24835194
+Beta-caryophyllene,Caenorhabditis elegans,N2,50 µM,22.2,,,,24835194
+Beta-caryophyllene,Caenorhabditis elegans,N2,100 µM,14.9,,,,24835194
+Gluconate,Caenorhabditis elegans,N2,5 mM,17,,,,25643626
+Gluconate,Caenorhabditis elegans,N2,10 mM,16,,,,25643626
+Gluconate,Caenorhabditis elegans,N2,1 mM,8,,,,25643626
+Gluconic acid,Drosophila melanogaster,Oregon R,1 M,-9.3,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.1 M,-5.2,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.01 M,0,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.001 M,0,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.001 M,-1.8,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.5M 2x/week,0,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.25M 2x/week,3.8,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.01M 2x/week,3.8,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.01 M,5.3,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.5 M,9.3,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.1 M,12.3,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.1 M,20.8,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.1 M,14.3,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.25 M,22.2,,Male,,110607
+Gluconic acid,Drosophila melanogaster,Oregon R,0.01 M,7.2,,Male,,110607
+Acarbose,Mus musculus,UM-HET3,1000 mg/kgdiet,5,9,Female,,24245565
+Acarbose,Mus musculus,UM-HET3,1000 mg/kg,22,11,Male,,24245565
+Naphthazarin,Caenorhabditis elegans,N2,100 µM,11,12,,,21765926
+Naphthazarin,Caenorhabditis elegans,N2,50 µM,2,0,,NS,21765926
+Naphthazarin,Caenorhabditis elegans,N2,200 µM,19,16,,,21765926
+Naphthazarin,Caenorhabditis elegans,N2,100 µM,10,12,,,21765926
+Naphthazarin,Caenorhabditis elegans,N2,200 µM,10,8,,,21765926
+Naphthazarin,Caenorhabditis elegans,N2,500 µM,9,4,,NS,21765926
+Naphthazarin,Caenorhabditis elegans,N2,100 µM,8,7,,,21765926
+Naphthazarin,Caenorhabditis elegans,N2,200 µM,8,14,,,21765926
+Naphthazarin,Caenorhabditis elegans,N2,500 µM,14,8,,,21765926
+Naphthazarin,Caenorhabditis elegans,N2,500 µM,22,25,,,21765926
+Serine,Caenorhabditis elegans,N2,10 mM,9,,,,25643626
+Serine,Caenorhabditis elegans,N2,1 mM,8,,,,25643626
+Serine,Caenorhabditis elegans,N2,5 mM,18,,,,25643626
+Serine,Caenorhabditis elegans,N2,10 mM,22,,,,25643626
+Allantoin,Caenorhabditis elegans,N2,250 µM,21.9,,,,26676933
+Chicoric acid,Caenorhabditis elegans,N2,100 µM,21,8,,,24244361
+Gamma-tocopherol,Caenorhabditis elegans,fem-1(hc17),20 µg/ml,17,,,,17169403
+Gamma-tocopherol,Caenorhabditis elegans,fem-1(hc17),200 µg/ml,21,,,,17169403
+Gamma-tocopherol,Caenorhabditis elegans,N2,43 µg,10.1,12.3,,,22484623
+Nortriptyline hydrochloride,Caenorhabditis elegans,,88 µM,21,,,,24134630
+Tocotrienol,Caenorhabditis elegans,N2,8 µg/ml,8.7,,,,10843344
+Tocotrienol,Caenorhabditis elegans,N2,80 µg/ml,19.8,,,,10843344
+Tocotrienol,Caenorhabditis elegans,N2,NA,20,,,,16872777
+Tocotrienol,Caenorhabditis elegans,N2,26 µg,8.6,3.5,,,22484623
+Tocotrienol,Caenorhabditis elegans,N2,259 µg,12,11,,,22484623
+Tocotrienol,Caenorhabditis elegans,N2,86 µg,21,18,,,22484623
+LY-294002,Drosophila melanogaster,Canton S,5 µM,14,22.5,Male,,20017609
+LY-294002,Drosophila melanogaster,Canton S,5 µM,14.3,16.3,Female,,20017609
+LY-294002,Caenorhabditis elegans,N2,100 µM,20.9,,,,26676933
+Rifamycin SV,Caenorhabditis elegans,N2,50 µM,20.9,,,,25720500
+Cortisone,Asplanchna brightwelli,clone 4B61,400 µM,-3.2,0,,NS,2782995
+Cortisone,Asplanchna brightwelli,clone 4B61,800 µM,-6.3,0,,NS,2782995
+Cortisone,Asplanchna brightwelli,clone 4B61,50 µM,2.2,0,,NS,2782995
+Cortisone,Asplanchna brightwelli,clone 4B61,100 µM,20.8,0,,,2782995
+Cortisone,Asplanchna brightwelli,clone 4B61,10 µM,0.7,0,,NS,2782995
+Cortisone,Asplanchna brightwelli,clone 4B61,200 µM,19.3,0,,,2782995
+Icariin,Caenorhabditis elegans,N2,45 µM,20.7,,,,22216122
+Icariin,Mus musculus,C57BL/6J,0.02% in food,4,3,Male,,26145038
+Icariin,Mus musculus,C57BL/6J,0.06% in food,8,6,Male,,26145038
+Rapamycin,Mus musculus,Hybrid of CB6F1(F)& C3D2F1(M),2.24 mg/kg/day,13,14,Female,,19587680
+Rapamycin,Mus musculus,C57BL/6J,4 mg/kg,,,Male,,19934433
+Rapamycin,Drosophila melanogaster,white Dahomey,200 µM,13,,Female,,20074526
+Rapamycin,Mus musculus,129/Sv,1.5 mg/kg,10.1,9.3,Female,,22107964
+Rapamycin,Caenorhabditis elegans,N2,100 µM,19,,,,22560223
+Rapamycin,Mus musculus,C57BL/6,14 ppm,4.8,,Female,,23682161
+Rapamycin,Caenorhabditis elegans,N2,1 nM,20.6,,,,23698443
+Rapamycin,Caenorhabditis elegans,N2,1 nM,16.2,,,,23698443
+Rapamycin,Mus musculus,C57BL/6J,14 mg/kg,,,,,23863708
+Rapamycin,Mus musculus,UM-HET3,42 mg of drug per kg of food,23,8,Male,,24341993
+Rapamycin,Mus musculus,UM-HET3, 42 mg of drug per kg of food,26,11,Female,,24341993
+Rapamycin,Mus musculus,C57BL/6J,14 ppm,11,,Male,,24409289
+Rapamycin,Mus musculus,C57BL/6J,14 ppm,16,,Female,,24409289
+Rapamycin,Caenorhabditis elegans,N2,10 µM,18.9,,,,26676933
+Rapamycin,Mus musculus,UM-HET3,14 mg of drug per kg of food,13,8,Male,Y,24341993
+Rapamycin,Mus musculus,UM-HET3,14 mg of drug per kg of food,21,11,Female,Y,24341993
+Rapamycin,Mus musculus,UM-HET3,4.7 mg of drug per kg of food,3,6,Male,N,24341993
+Rapamycin,Mus musculus,UM-HET3,4.7 mg of drug per kg of food,16,5,Female,Y,24341993
+Rapamycin,Drosophila melanogaster,Dahomey,5 µM,16.35,-2.89,,S,28025308
+Rapamycin,Drosophila melanogaster,Dahomey,10 µM,12.98,-2.89,,S,28025308
+Rapamycin,Mus musculus,C57BL/6J.Nia,2 mg/kg every 5 days,13,17.6,,S,27091134
+Rapamycin,Caenorhabditis elegans,N2,100 μM,26,34.84,,S,24332851
+Rapamycin,Mus musculus,C57BL/6JNia,8 mg/kg/day,16,,Male,p=0.02,27549339
+Rapamycin,Mus musculus,C57BL/6JNia,8 mg/kg/day,0,,Female,p=0.261,27549339
+Rapamycin,Mus musculus,C57BL/6JNia,128 ppm,8,,,,27549339
+Rapamycin,Mus musculus,C57BL/6JNia,128 ppm,8,,,,27549339
+Rapamycin,Mus musculus,C57BL/6JNia,8 mg/kg/day,5,,Pooled,,27549339
+Rapamycin,Mus musculus,C57BL/6JNia,128 ppm,13,,,,27549339
+Rapamycin,Caenorhabditis elegans,N2,100 μM,21.3,,,S,29874838
+"2,4-dinitrophenol",Drosophila melanogaster,Oregon R,0.008,20.2,0,,,16266268
+"2,4-dinitrophenol",Mus musculus,Swiss Webster ,1 mg/L,7.1,,Female,,18505478
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,25 µM,4.8,4.8,,NS,17156833
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,NA,12.2,,,,19085685
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,100 µM,20,13,,NS,20513639
+Epigallocatechin-3-gallate,Rattus norvegicus,Wistar,25 mg per kg per day ,13,,,,23834676
+Epigallocatechin-3-gallate,Drosophila melanogaster,,10 mg/ml,15.7,,,,26375250
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,100 µM,13.44,-2.29,,S,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,200 µM,16.6,3.14,,S,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,300 µM,7.11,4,,S,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,800 µM,-7.9,-10.85,,S,28992589
+Epigallocatechin-3-gallate,Caenorhabditis elegans,N2,1 mM,-16.6,-13.14,,S,28992589
+Polyphenols,Mus musculus,C57BL/6J,,6.3,,Male,,22265987
+Green tea extract,Drosophila melanogaster,Oregon R,Instead of water,8.6,,Male,,8326745
+Green tea extract,Drosophila melanogaster,Oregon-R-C,5 mg/ml,7.8,5.3,,,17440995
+Green tea extract,Drosophila melanogaster,Oregon-R-C,10 mg/ml,15.7,5.3,,,17440995
+Green tea extract,Drosophila melanogaster,Oregon-R-C,1 mg/ml,5.9,5.3,,,17440995
+Green tea extract,Mus musculus,UM-HET3,2000 mg/kg of food,6.6,,Female,NS,22451473
+Green tea extract,Mus musculus,UM-HET3,2000 mg/kg of food,4.6,,Male,NS,22451473
+KN-93,Drosophila melanogaster,Oregon R,10-100 µM,20,,,,22363408
+Nicotinamide riboside,Saccharomyces cerevisiae,BY4741,10 µM,20,,,NS,17482543
+Nicotinamide riboside,Mus musculus,C57BL/6J,400 mg/kg/day,4.7,,Not Sp,P < 0.05,27127236
+Pregnenolone,Caenorhabditis elegans,N2,60 µg/mL,20,,,,17266678
+Propionylpromazine hydrochloride,Caenorhabditis elegans,,33 µM,20,,,,24134630
+Ethoxyquin,Mus musculus,C3H,0.5% w/w,18.1,,Male,,4927196
+Ethoxyquin,Mus musculus,C3H,0.5% w/w,19.9,,Female,,4927196
+Tyrphostin AG 1478,Drosophila melanogaster,Oregon R,100 µM,19.5,,,,22363408
+Tyrphostin AG 1478,Caenorhabditis elegans,,33 µM,11,,,,24134630
+Tyrosol,Caenorhabditis elegans,fer-15(b26),250 µM,19.1,10.8,,,22824366
+Celecoxib,Caenorhabditis elegans,N2,10 µM,19,,,,21348927
+Coenzyme Q10,Caenorhabditis elegans,N2,50 µg/ml,6,,,,14706236
+Coenzyme Q10,Caenorhabditis elegans,N2,150 µg/ml,18,,,,14706236
+Coenzyme Q10,Caenorhabditis elegans,N2,150 µg/ml,9,,,,14706236
+Coenzyme Q10,Caenorhabditis elegans,clk-1 (qm30),,19,,,,19428456
+Fenofibrate,Caenorhabditis elegans,N2,10 µM,19,,,,23603800
+Proline,Caenorhabditis elegans,N2,5 µM,5.8,,,,22482728
+Proline,Caenorhabditis elegans,N2,1 mM,17,,,,25643626
+Proline,Caenorhabditis elegans,N2,5 mM,8,,,,25643626
+Proline,Caenorhabditis elegans,N2,5 mM,19,,,,25643626
+Proline,Caenorhabditis elegans,N2,10 mM,18,,,,25643626
+Quercetin,Caenorhabditis elegans,N2,100 µM,19,15,,,18024103
+Quercetin,Caenorhabditis elegans,N2,100 µM,10,,,,18692520
+Quercetin,Caenorhabditis elegans,N2,200 µM,10,,,,18692520
+Quercetin,Caenorhabditis elegans,N2,100 µM,8,-3,,NS,19043800
+Quercetin,Caenorhabditis elegans,N2,100 µM,8,16,,,19043800
+Quercetin,Caenorhabditis elegans,N2,200 µM,9,,,,19043800
+Quercetin,Caenorhabditis elegans,N2,200 µM,10,-8,,NS,19043800
+Quercetin,Caenorhabditis elegans,N2,200 µM,10,,,,19043800
+Quercetin,Caenorhabditis elegans,N2,200 µM,9,0,,,19043800
+Quercetin,Caenorhabditis elegans,N2,200 µM,10,-2,,,19043800
+Quercetin,Caenorhabditis elegans,N2,100 µM,11,25,,,19043800
+Quercetin,Caenorhabditis elegans,N2,200 µM,18,29,,,19043800
+Quercetin,Caenorhabditis elegans,N2,200 µM,11,9,,,19043800
+Quercetin,Caenorhabditis elegans,N2,22 µg/mL,14,,,,21563825
+Quercetin,Caenorhabditis elegans,N2,250 µM,-7,,,,22493606
+Quercetin,Caenorhabditis elegans,N2,50 µM,2,,,NS,22493606
+Quercetin,Caenorhabditis elegans,N2,200 µM,9,,,,22493606
+Quercetin,Caenorhabditis elegans,N2,100 µM,11,,,,22493606
+Quercetin,Caenorhabditis elegans,N2,200 µM,10,,,,22493606
+Quercetin,Mus musculus,LACA,10 mg/day,-9.88,,,S,7140862
+Quercetin,Drosophila melanogaster,Canton S,0.3µM,-2.8,-13.07,Male,0.01,28066251
+Quercetin,Drosophila melanogaster,Canton S,0.5 µM,-12,-13.84,,S,28066251
+Quercetin,Drosophila melanogaster,Canton S,1 µM,-13.79,-14.62,,S,28066251
+Quercetin,Drosophila melanogaster,Canton S,0.3µM,-5.09,-8.2,Female,P<0.05,28066251
+Quercetin,Drosophila melanogaster,Canton S,0.5 µM,-4.55,-6.7,,S,28066251
+Quercetin,Drosophila melanogaster,Canton S,1 µM,-10.2,-8.21,,S,28066251
+Quercetin,Drosophila melanogaster,Canton S,1 µM,13,6,,S,28066251
+Quercetin,Drosophila melanogaster,Canton-S,1 μM,13,,,S,28066251
+Tannic acid,Drosophila melanogaster,Oregon R,1 mg/ml,0,,Male,NS,8326745
+Tannic acid,Drosophila melanogaster,Oregon R,0.1 mg/ml,0,,Male,NS,8326745
+Tannic acid,Drosophila melanogaster,Oregon R,1 mg/ml,-2.9,,Male,NS,8326745
+Tannic acid,Caenorhabditis elegans,N2,100 µM,18,,,,20413530
+Tannic acid,Caenorhabditis elegans,N2,300 µM,1,,,NS,22493606
+Tannic acid,Caenorhabditis elegans,N2,200 µM,8,,,,22493606
+Tannic acid,Caenorhabditis elegans,N2,400 µM,-11,,,,22493606
+Tannic acid,Caenorhabditis elegans,N2,25 µM,10,,,,22493606
+Tannic acid,Caenorhabditis elegans,N2,100 µM,18,,,,22493606
+Tannic acid,Caenorhabditis elegans,N2,100 µM,19,,,,22493606
+Tannic acid,Caenorhabditis elegans,N2,50 µM,16,,,,22493606
+Tyrphostin 1,Drosophila melanogaster,Oregon R,100-300 µM,19,,,,22363408
+BRL 50481,Caenorhabditis elegans,,176 µM,18,,,,24134630
+Cyclosporin A,Caenorhabditis elegans,,88 µM,18,,,,24134630
+D-aspartate,Caenorhabditis elegans,N2,1 mM,7,,,NS,25643626
+D-aspartate,Caenorhabditis elegans,N2,10 mM,8,,,,25643626
+D-aspartate,Caenorhabditis elegans,N2,5 mM,18,,,,25643626
+D-glutamate,Caenorhabditis elegans,N2,10 mM,-3,,,NS,25643626
+D-glutamate,Caenorhabditis elegans,N2,1 mM,14,,,,25643626
+D-glutamate,Caenorhabditis elegans,N2,5 mM,18,,,,25643626
+Doxycycline hydrochloride,Caenorhabditis elegans,,33 µM,18,,,,24134630
+Erbstatin analog,Drosophila melanogaster,Oregon R,5 mM,18,,,,22363408
+HA-1004,Drosophila melanogaster,Oregon R,1-10 µM,18,,,,22363408
+Loratadine,Caenorhabditis elegans,,33 µM,18,,,,24134630
+AG-490,Drosophila melanogaster,Oregon R,300 µM,17.5,,,,22363408
+Celastrol,Caenorhabditis elegans,N2,7 µmol/l,13.8,,,,24416295
+Celastrol,Caenorhabditis elegans,N2,7 µmol/l,17.4,,,,24416295
+Ginkgo biloba extract,Rattus norvegicus,Fischer 344,50 mg/kg,17.4,,Male,,9469738
+Ginkgo biloba extract,Caenorhabditis elegans,N2,100 µg/ml,8,,,,16872777
+Tyrphostin 9,Drosophila melanogaster,Oregon R,300-500 µM,17.3,,,,22363408
+Lamotrigine,Drosophila melanogaster,Ives,12 mg/ml,17.2,,Female,,19430925
+Lamotrigine,Drosophila melanogaster,Ives,12 mg/ml,15.4,,Male,,19430925
+Vitexin,Caenorhabditis elegans,N2,50 µM,8,5.3,,,26535084
+Vitexin,Caenorhabditis elegans,N2,100 µM,17.2,10.5,,,26535084
+D-chiro-inositol,Drosophila melanogaster,Canton S,,16.6,,Male,,22843669
+D-chiro-inositol,Drosophila melanogaster,Canton S,,15,,Female,,22843669
+Inositol,Caenorhabditis elegans,N2,1 mM,3,,,,25643626
+Inositol,Caenorhabditis elegans,N2,10 mM,17,,,,25643626
+L-deprenyl,Rattus norvegicus,Fischer 344,0.0025,16.7,17,,,2118586
+L-deprenyl,Rattus norvegicus,F344/DuCrj,0.5 mg/kg. 3 times a week,5.6,1,Male,,8030852
+L-deprenyl,Mus musculus,B6CBAF1,0.25 mg/kg 3x/week,7,7.5,Male,NS,8914495
+L-deprenyl,Rattus norvegicus,F344/DuCrj,0.5 mg/kg. 3 times a week,15.1,,Male,,8423709
+L-deprenyl,Mus musculus,B6CBAF1,0.25 mg/kg 3x/week,3.9,31.2,Female,NS,8914495
+L-deprenyl,Mus musculus,B6D2F1,0.25 mg/kg 3x/week,2.7,15.3,Male,NS,8914495
+L-deprenyl,Mus musculus,B6D2F1,0.25 mg/kg 3x/week,-0.1,-0.7,Female,NS,8914495
+L-deprenyl,Mesocricetus auratus,,0.05 mg/kg/day,,16.4,Female,,9258898
+L-deprenyl,Canis lupus familiaris,Beagles,1 mg/kg,,,,,9307048
+L-deprenyl,Rattus norvegicus,F344/DuCrj,0.25 mg/kg. 3 times a week,8.1,,Male,,16463106
+L-deprenyl,Rattus norvegicus,F344/DuCrj,0.25 mg/kg. 3 times a week,6.7,,Female,,16463106
+Everolimus,Drosophila melanogaster,Oregon R,3 mM,16.6,,,,22363408
+"3,3'-thiodipropionic acid",Asplanchna brightwelli,clone 4B61,2 mM,10,0,,,15374519
+"3,3'-thiodipropionic acid",Asplanchna brightwelli,clone 4B61,2 mM,16.4,,,,15374519
+Thyroxin,Rattus norvegicus,Wistar,0.5 µg/g bodyweight,-3.5,,Female,,6632988
+Thyroxin,Rattus norvegicus,Wistar,0.5 µg/g bodyweight,6.9,,Male,,6632988
+Thyroxin,Rattus norvegicus,Wistar,1 µg/g bodyweight,8.4,,Female,,6632988
+Thyroxin,Rattus norvegicus,Wistar,2 µg/g bodyweight,11.6,,Female,,6632988
+Thyroxin,Rattus norvegicus,Wistar,2 µg/g bodyweight,11.1,,Male,,6632988
+Thyroxin,Rattus norvegicus,Wistar,1 µg/g bodyweight,16.1,,Male,,6632988
+Agmatine,Caenorhabditis elegans,N2,100 µM,1,,,NS,25643626
+Agmatine,Caenorhabditis elegans,N2,1 mM,16,,,,25643626
+Agmatine,Caenorhabditis elegans,N2,10 mM,-20,,,,25643626
+Clofibrate,Caenorhabditis elegans,N2,10 µM,16,,,,23603800
+Cysteine,Caenorhabditis elegans,N2,1 mM,9,,,,25643626
+Cysteine,Caenorhabditis elegans,N2,5 mM,16,,,,25643626
+Cysteine,Caenorhabditis elegans,N2,10 mM,2,,,NS,25643626
+D-alanine,Caenorhabditis elegans,N2,10 mM,16,,,,25643626
+D-alanine,Caenorhabditis elegans,N2,1 mM,14,,,,25643626
+D-alanine,Caenorhabditis elegans,N2,5 mM,16,,,,25643626
+Demeclocycline hydrochloride,Caenorhabditis elegans,,33 µM,16,,,,24134630
+Eliprodil,Caenorhabditis elegans,,88 µM,16,,,,24134630
+Fumarate,Caenorhabditis elegans,N2,10 mM,16,,,,23472183
+Glutamine,Caenorhabditis elegans,N2,1 mM,15,,,,25643626
+Glutamine,Caenorhabditis elegans,N2,10 mM,-6,,,,25643626
+Glutamine,Caenorhabditis elegans,N2,5 mM,16,,,,25643626
+Leucine,Caenorhabditis elegans,N2,1 mM,16,,,,25643626
+Leucine,Caenorhabditis elegans,N2,5 mM,6,,,,25643626
+Leucine,Caenorhabditis elegans,N2,10 mM,7,,,,25643626
+Pyrrolidine dithiocarbamate,Drosophila melanogaster,,20 mg/l,16,,Female,,21483034
+Pyrrolidine dithiocarbamate,Drosophila melanogaster,,20 mg/l,15,,Male,,21483034
+Pyrrolidine dithiocarbamate,Drosophila melanogaster,Canton S,125 µM,10,,Male,,24096697
+Pyrrolidine dithiocarbamate,Drosophila melanogaster,Canton S,125 µM,12,,Female,,24096697
+Sevelamer,Drosophila melanogaster,yw,1%,16,,Male,,22942172
+Chloramphenicol,Caenorhabditis elegans,N2,100 µg/ml,15.8,,,,23698443
+Dehydroabietic acid,Caenorhabditis elegans,N2,50 µM,4.8,8.3,,NS,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,1 µM,10.3,16.7,,,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,10 µM,11.8,18.1,,,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,10 µM,12.8,20,,,25976661
+Dehydroabietic acid,Caenorhabditis elegans,N2,10 µM,15.5,16.7,,,25976661
+Lactic acid,Drosophila melanogaster,Oregon R,0.5M,-1.9,,Male,,110607
+Lactic acid,Drosophila melanogaster,Oregon R,1 M,-32.7,,,,110607
+Lactic acid,Drosophila melanogaster,Oregon R,0.01M,3.6,,Male,,110607
+Lactic acid,Drosophila melanogaster,Oregon R,0.001 M,3.6,,,,110607
+Lactic acid,Drosophila melanogaster,Oregon R,0.1M,14,,Male,,110607
+Lactic acid,Drosophila melanogaster,Oregon R,0.001 M,8,,,,110607
+Lactic acid,Drosophila melanogaster,Oregon R,0.01M,12,,Male,,110607
+Lactic acid,Drosophila melanogaster,Oregon R,0.1M,15.5,,Male,,110607
+Lactic acid,Drosophila melanogaster,Oregon R,0.25M,15.4,,Male,,110607
+Specioside,Caenorhabditis elegans,N2,25 µM,15.5,,,,25619942
+Specioside,Caenorhabditis elegans,N2,50 µM,11.8,,,,25619942
+Specioside,Caenorhabditis elegans,N2,5 µM,8.9,,,,25619942
+Arctiin,Caenorhabditis elegans,N2,10 µM,8.9,,,,26141518
+Arctiin,Caenorhabditis elegans,N2,100 µM,15.3,,,,26141518
+Propyl gallate,Zaprionus paravittiger,,25 µg/ml,8.7,15.3,Female,,8950031
+Propyl gallate,Zaprionus paravittiger,,25 µg/ml,15.1,12.2,Male,,8950031
+Propyl gallate,Caenorhabditis elegans,N2,1 mM,12,0,,,18755260
+Arginine,Caenorhabditis elegans,N2,1 mM,8,,,,25643626
+Arginine,Caenorhabditis elegans,N2,10 mM,15,,,,25643626
+Arginine,Caenorhabditis elegans,N2,5 mM,11,,,,25643626
+Aurintricarboxylic acid,Drosophila melanogaster,Oregon R,0.5 mM,15,0,Male,,15621204
+Cinnarizine,Caenorhabditis elegans,,33 µM,15,,,,24134630
+DAPH,Caenorhabditis elegans,,13 µM,15,,,,24134630
+Doxazosin mesylate,Caenorhabditis elegans,,33 µM,15,,,,24134630
+Guanfacine hydrochloride,Caenorhabditis elegans,,13 µM,15,,,,24134630
+Hexahydro-sila-diphenidol,Caenorhabditis elegans,,88 µM,15,,,,24134630
+Nicotinamide adenine dinucleotide,Caenorhabditis elegans,N2,100 µM,15,,,,19370397
+Oxoline,Caenorhabditis elegans,N2,1 mM,13,18,,,21765926
+Oxoline,Caenorhabditis elegans,N2,1 mM,12,24,,,21765926
+Oxoline,Caenorhabditis elegans,N2,500 µM,15,12,,,21765926
+Oxoline,Caenorhabditis elegans,N2,1 mM,10,24,,,21765926
+Oxoline,Caenorhabditis elegans,N2,500 µM,15,14,,,21765926
+Oxoline,Caenorhabditis elegans,N2,50 µM,2,1,,NS,21765926
+Oxoline,Caenorhabditis elegans,N2,500 µM,15,10,,,21765926
+Oxoline,Caenorhabditis elegans,N2,100 µM,9,15,,NS,21765926
+Oxoline,Caenorhabditis elegans,N2,100 µM,2,5,,NS,21765926
+Oxoline,Caenorhabditis elegans,N2,100 µM,2,-8,,NS,21765926
+Oxoline,Caenorhabditis elegans,N2,500 µM,3,12,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,2.5 µM,3,5,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,1 µM,1,3,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,5 µM,3,3,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,10 µM,9,2,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,7.5 µM,0,0,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,25 µM,15,5,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,10 µM,7,3,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,25 µM,10,2,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,25 µM,11,6,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,25 µM,11,13,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,50 µM,12,12,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,50 µM,-3,-6,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,100 µM,-16,-15,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,100 µM,1,2,,NS,21765926
+Plumbagin,Caenorhabditis elegans,N2,100 µM,-11,-13,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,150 µM,-23,,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,200 µM,-84,,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,250 µM,-91,,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,50 µM,12,5,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,250 µM,-86,,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,300 µM,-86,,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,400 µM,-90,,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,500 µM,-81,,,,21765926
+Plumbagin,Caenorhabditis elegans,N2,500 µM,-91,,,,21765926
+Vinpocetine,Caenorhabditis elegans,,33 µM,15,,,,24134630
+Dibromoacetic acid,Caenorhabditis elegans,N2,100 µM,14.6,,,,25556763
+Sodium butyrate,Drosophila melanogaster,Ra,10 mM,-9.1,,,NS,23044027
+Sodium butyrate,Drosophila melanogaster,Ra,100 mM,-10.9,,,,23044027
+Sodium butyrate,Drosophila melanogaster,Ra,100 mM,4.2,,,,23044027
+Sodium butyrate,Drosophila melanogaster,Ra,100 mM,-6.3,,,NS,23044027
+Sodium butyrate,Drosophila melanogaster,Ra,10 mM,-6.3,,,NS,23044027
+Sodium butyrate,Drosophila melanogaster,Ra,100 mM,8.3,,,,23044027
+Sodium butyrate,Drosophila melanogaster,Ra,10 mM,8.3,,,,23044027
+Sodium butyrate,Drosophila melanogaster,Ra,10 mM,12.5,,,,23044027
+Sodium butyrate,Drosophila melanogaster,Ra,10 mM,14.6,9.1,Female,,26136617
+Sodium butyrate,Drosophila melanogaster,Ra,10 mM,8.3,12,Female,,26136617
+HA-1077,Drosophila melanogaster,Oregon R,10 µM,14.5,,,,22363408
+Sesamin,Caenorhabditis elegans,N2,3.1 µg,10.5,,,,24549958
+Sesamin,Caenorhabditis elegans,N2,25 µg,0.8,,,NS,24549958
+Sesamin,Caenorhabditis elegans,N2,12.5 µg,10.9,,,,24549958
+Sesamin,Caenorhabditis elegans,N2,6.3 µg,14.1,,,,24549958
+Sesamin,Caenorhabditis elegans,N2,5.75 µg,9.55,,,S,28239780
+Fucoxanthin,Caenorhabditis elegans,N2,5 µM,14,24,,,26292053
+Fucoxanthin,Drosophila melanogaster,Canton S,1 µM,14.9,4.4,,S,29504896
+Fucoxanthin,Drosophila melanogaster,Canton S,1 µM,6.2,0,,S,29504896
+Glutamate,Caenorhabditis elegans,N2,1 mM,14,,,,25643626
+Glutamate,Caenorhabditis elegans,N2,10 mM,-8,,,,25643626
+Glutamate,Caenorhabditis elegans,N2,5 mM,11,,,,25643626
+L-theanine,Caenorhabditis elegans,N2,0.1 µM,3.6,4.4,,,22422488
+L-theanine,Caenorhabditis elegans,N2,100 µM,14,,,,25643626
+L-theanine,Caenorhabditis elegans,N2,1 mM,8,,,,25643626
+L-theanine,Caenorhabditis elegans,N2,5 mM,10,,,,25643626
+L-theanine,Caenorhabditis elegans,N2,10 mM,-15,,,,25643626
+Malate,Caenorhabditis elegans,N2,10 mM,14,,,,23472183
+Methionine,Caenorhabditis elegans,N2,5 mM,8,,,,25643626
+Methionine,Caenorhabditis elegans,N2,1 mM,4,,,NS,25643626
+Methionine,Caenorhabditis elegans,N2,10 mM,14,,,,25643626
+Naftopidil dihydrochloride,Caenorhabditis elegans,,33 µM,14,,,,24134630
+Tryptophan,Caenorhabditis elegans,N2,1 mM,14,,,,25643626
+Tryptophan,Caenorhabditis elegans,N2,5 mM,6,,,,25643626
+Tryptophan,Caenorhabditis elegans,N2,1 mM,9,,,,25643626
+Tryptophan,Caenorhabditis elegans,N2,10 mM,1,,,NS,25643626
+Salicylic acid,Caenorhabditis elegans,N2,1 µM,13.9,,,,22866967
+Sodium pyruvate,Caenorhabditis elegans,N2,2.5 mM,13.9,,,,21040400
+Huperzine A,Caenorhabditis elegans,N2,300 µM,13.8,,,,23523941
+Arctigenin,Caenorhabditis elegans,N2,10 µM,6.7,,,,26141518
+Arctigenin,Caenorhabditis elegans,N2,100 µM,13.7,,,,26141518
+Beta-Guanidinopropionic acid,Drosophila melanogaster,w1118,900 mM,9.1,,Male,,26120775
+Beta-Guanidinopropionic acid,Drosophila melanogaster,w1118,900 mM,13.3,,Female,,26120775
+"3,4-dichloroisocoumarin",Caenorhabditis elegans,,88 µM,13,,,,24134630
+Beta-alanine,Caenorhabditis elegans,N2,5 mM,5,,,NS,25643626
+Beta-alanine,Caenorhabditis elegans,N2,1 mM,13,,,,25643626
+Bezafibrate,Caenorhabditis elegans,N2,10 µM,13,,,,23603800
+Catechin,Drosophila melanogaster,Oregon R,0.1 mg/ml,-8.5,,Male,NS,8326745
+Catechin,Drosophila melanogaster,Oregon R,1 mg/ml,-5.1,,Male,NS,8326745
+Catechin,Drosophila melanogaster,Oregon R,0.01 mg/ml,-5.1,,Male,NS,8326745
+Catechin,Caenorhabditis elegans,N2,200 µm,13,,,,19501612
+Danazol,Caenorhabditis elegans,,33 µM,13,,,,24134630
+Diallyl trisulfide,Caenorhabditis elegans,TJ1060,10 µM,13,,,,21296648
+Homocysteine,Caenorhabditis elegans,N2,5 mM,7,,,,25643626
+Homocysteine,Caenorhabditis elegans,N2,1 mM,13,,,,25643626
+Ketanserin tartrate,Caenorhabditis elegans,,176 µM,13,,,,24134630
+Valine,Caenorhabditis elegans,N2,1 mM,13,,,NS,25643626
+Valine,Caenorhabditis elegans,N2,5 mM,8,,,,25643626
+Valine,Caenorhabditis elegans,N2,10 mM,-1,,,,25643626
+Lappaol F,Caenorhabditis elegans,N2,100 µM,12.5,,,,26141518
+Pinitol,Drosophila melanogaster,Canton S,,12.5,,Female,,22843669
+Pinitol,Drosophila melanogaster,Canton S,,8.7,,Male,,22843669
+"1,2,4-triazolo[1,5-a]pyridine",Caenorhabditis elegans,N2,500 nM,12,,,,22509764
+Branched-Chain Amino Acids,Mus musculus,B6.129S2,1.5 mg/g body weight,12,0,,,20889128
+Guanabenz acetate,Caenorhabditis elegans,,88 µM,12,,,,24134630
+Histidine,Caenorhabditis elegans,N2,5 mM,10,,,,25643626
+Histidine,Caenorhabditis elegans,N2,1 mM,4,,,NS,25643626
+Histidine,Caenorhabditis elegans,N2,5 mM,9,,,,25643626
+Histidine,Caenorhabditis elegans,N2,10 mM,12,,,,25643626
+N-acetyl-l-histidine,Caenorhabditis elegans,N2,100 µM,3,,,NS,25643626
+N-acetyl-l-histidine,Caenorhabditis elegans,N2,10 mM,10,,,NS,25643626
+N-acetyl-l-histidine,Caenorhabditis elegans,N2,1 mM,12,,,,25643626
+Phosphoenolpyruvate,Caenorhabditis elegans,N2,1 mM,12,,,,25643626
+Phosphoenolpyruvate,Caenorhabditis elegans,N2,10 mM,8,,,,25643626
+Phosphoenolpyruvate,Caenorhabditis elegans,N2,5 mM,12,,,,25643626
+Quinidine sulfate,Caenorhabditis elegans,,33 µM,12,,,,24134630
+Trametinib,Drosophila melanogaster,white Dahomey,15.6 µM,12,,,,26119340
+Vincristine sulfate,Caenorhabditis elegans,,88 µM,12,,,,24134630
+Tetrahydrocurcumin,Mus musculus,Sprague-Dawley,0.002,11.7,,Male,,15247057
+Tetrahydrocurcumin,Mus musculus,C57BL/6J,0.002,11.7,6.5,,,17516143
+Lappaol C,Caenorhabditis elegans,N2,10 µM,11.3,,,,26141518
+Lappaol C,Caenorhabditis elegans,N2,100 µM,11.5,,,,26141518
+Lutein,Drosophila melanogaster,,0.1 mg/ml,11.4,,,,23993264
+"7-cyclopentyl-5-(4-phenoxy)phenyl-7H-pyrrolo[2,3-d]pyrimidin-4-ylamine",Caenorhabditis elegans,,33 µM,11,,,,24134630
+Alanine,Caenorhabditis elegans,N2,5 mM,4,,,NS,25643626
+Alanine,Caenorhabditis elegans,N2,1 mM,8,,,,25643626
+Alanine,Caenorhabditis elegans,N2,10 mM,11,,,,25643626
+Caffeic acid,Caenorhabditis elegans,N2,300 µM,11,,,,21503726
+D-glucosamine,Saccharomyces cerevisiae,W303R,0.5 mg/ml,0,,,NS,11805047
+D-glucosamine,Caenorhabditis elegans,N2,10 mM,11,8,,,24714520
+D-glucosamine,Mus musculus,C57BL/6NRj,10 g/kg,5.6,5.5,,,24714520
+Succinate,Caenorhabditis elegans,N2,10 mM,4,,,NS,25643626
+Succinate,Caenorhabditis elegans,N2,5 mM,10,,,,25643626
+Succinate,Caenorhabditis elegans,N2,1 mM,11,,,,25643626
+Taurine,Caenorhabditis elegans,N2,1 mM,11,,,,25643626
+Taurine,Caenorhabditis elegans,N2,5 mM,6,,,,25643626
+Taurine,Caenorhabditis elegans,N2,10 mM,-4,,,,25643626
+Taurine,Drosophila melanogaster,Canton-S,1.50%,-14.29,-23.19,Male,P<0.05,29093334
+10-hydroxy-2-decenoic Acid,Caenorhabditis elegans,N2,25 µM,10,14,,,25789174
+BRL 15572,Caenorhabditis elegans,,33 µM,10,,,,24134630
+Gallic Acid,Caenorhabditis elegans,N2,300 µM,10,,,,21805983
+Glycine,Caenorhabditis elegans,N2,5 mM,3,,,NS,25643626
+Glycine,Caenorhabditis elegans,N2,1 mM,10,,,,25643626
+Glycine,Caenorhabditis elegans,N2,10 mM,-4,,,NS,25643626
+Metoprolol,Mus musculus,C3B6F1,1.1 g/kg diet,10,,Male,,23314750
+Putrescine,Caenorhabditis elegans,N2,1 mM,10,,,,25643626
+Putrescine,Caenorhabditis elegans,N2,10 mM,-13,,,,25643626
+Putrescine,Caenorhabditis elegans,N2,100 µM,1,,,NS,25643626
+Rosmarinic acid,Caenorhabditis elegans,N2,200 µM,10,,,,21503726
+Rotenone,Caenorhabditis elegans,N2,100 nM,10,,Hermaphrodite,,24199155
+Rotenone,Drosophila melanogaster,Dahomey,100 µM,-21.14,,,S,27076081
+Rotenone,Nothobranchius furzeri,MZM-0410,15 pM,8.1,,,S,27135165
+Rotenone,Nothobranchius furzeri,MZM-0410,150 pM,-20.09,,,S,27135165
+Tyrosine,Caenorhabditis elegans,N2,10 mM,2,,,NS,25643626
+Tyrosine,Caenorhabditis elegans,N2,1 mM,10,,,,25643626
+Tyrosine,Caenorhabditis elegans,N2,5 mM,5,,,,25643626
+Betaine,Caenorhabditis elegans,N2,1 mM,9,,,,25643626
+Caffeic acid phenethylester,Caenorhabditis elegans,,,9,17,,,24964141
+L-histidine methyl ester,Caenorhabditis elegans,N2,100 µM,8,,,,25643626
+L-histidine methyl ester,Caenorhabditis elegans,N2,1 mM,9,,,,25643626
+L-histidine methyl ester,Caenorhabditis elegans,N2,10 mM,4,,,NS,25643626
+Ribose,Caenorhabditis elegans,N2,1 mM,9,,,,25643626
+Ribose,Caenorhabditis elegans,N2,5 mM,9,,,,25643626
+Ribose,Caenorhabditis elegans,N2,10 mM,1,,,NS,25643626
+SRT1720,Mus musculus,C57BL/6J,100 mg/kg body weight,8.8,0,,,24582957
+Indirubin,Drosophila melanogaster,Oregon R,3 mM,8.2,,,,22363408
+Creatine,Mus musculus,C57BL/6J,0.01,8,3.5,Female,,17416441
+Creatine,Caenorhabditis elegans,N2,5 mM,-20,,,,25643626
+Creatine,Caenorhabditis elegans,N2,1 mM,-4,,,,25643626
+Creatine,Caenorhabditis elegans,N2,10 mM,-18,,,,25643626
+Lonidamine,Caenorhabditis elegans,,5 µM,8,8,,,21932172
+Lysine,Caenorhabditis elegans,N2,5 mM,8,,,,25643626
+Lysine,Caenorhabditis elegans,N2,10 mM,6,,,,25643626
+Lysine,Caenorhabditis elegans,N2,1 mM,7,,,,25643626
+MPTP,Caenorhabditis elegans,N2,10 nM,8,,Hermaphrodite,,24199155
+Ornithine,Caenorhabditis elegans,N2,100 µM,3,,,NS,25643626
+Ornithine,Caenorhabditis elegans,N2,1 mM,8,,,,25643626
+Ornithine,Caenorhabditis elegans,N2,10 mM,-10,,,,25643626
+Threonine,Caenorhabditis elegans,N2,5 mM,3,,,NS,25643626
+Threonine,Caenorhabditis elegans,N2,10 mM,8,,,,25643626
+Threonine,Caenorhabditis elegans,N2,1 mM,0,,,,25643626
+Dichloroacetate,Caenorhabditis elegans,N2,50 µg/ml,7.9,13.5,,,21153705
+Glaucarubinone,Caenorhabditis elegans,N2,100 nM,7.9,9,,,21264793
+1-methyl nicotinamide,Caenorhabditis elegans,N2,1 µM,7.7,11,,,24077178
+"(R,R)-cis-Diethyl tetrahydro-2,8-chrysenediol",Caenorhabditis elegans,,33 µM,7,,,,24134630
+Beta-Estradiol,Caenorhabditis elegans,,33 µM,7,,,,24134630
+Buformin,Rattus norvegicus,LIO,5 mg/day,7,5.5,Female,,14618027
+Caprylate,Caenorhabditis elegans,N2,100 µM,1,,,NS,25643626
+Caprylate,Caenorhabditis elegans,N2,1 mM,7,,,,25643626
+Caprylate,Caenorhabditis elegans,N2,10 mM,-18,,,,25643626
+Caprylate,Caenorhabditis elegans,N2,5 mM,-5,,,,25643626
+Picolinic acid,Caenorhabditis elegans,N2,1 mM,7,,,,25643626
+Nicotinamide,Caenorhabditis elegans,N2,100 µM,6.5,6,,,24077178
+Nicotinamide,Saccharomyces cerevisiae,W303-1A,1 mM,20.2,19.83,,S,27320176
+Nicotinamide,Saccharomyces cerevisiae,W303-1A,5 mM,35.96,50,,S,27320176
+Nicotinamide,Mus musculus, C57BL/6J,0.5/kg,0,0,Male,N.S,29514072
+Nicotinamide,Mus musculus,C57BL/6J,1 g/kg,0,0,,S,29514072
+Nebivolol,Mus musculus,C3B6F1,0.27 g/kg diet,6.4,,Male,,23314750
+Ivabradine,Mus musculus,C57BL/6J,50 mg/kg/day,6.2,,Male,,25589054
+DL-lactate,Caenorhabditis elegans,N2,5 mM,6,,,,25643626
+DL-lactate,Caenorhabditis elegans,N2,10 mM,2,,,NS,25643626
+DL-lactate,Caenorhabditis elegans,N2,1 mM,3,,,NS,25643626
+Galactose,Musca domestica,,20 mg/ml,-27.1,-27.1,Male,,15547319
+Galactose,Drosophila melanogaster,,6.50%,-16.6,-12.9,Male,,15547319
+Galactose,Musca domestica,,20 mg/ml,-19.8,-21.9,Female,,15547319
+Galactose,Drosophila melanogaster,,6.50%,-15.9,-17.1,Female,,15547319
+Galactose,Caenorhabditis elegans,N2,1 mM,1,,,NS,25643626
+Galactose,Caenorhabditis elegans,N2,10 mM,6,,,,25643626
+Tartaric acid,Drosophila melanogaster,Oregon R,0.001 M,0,,,,110607
+Tartaric acid,Drosophila melanogaster,Oregon R,0.1M,-72,,Male,,110607
+Tartaric acid,Drosophila melanogaster,Oregon R,0.01M,6,,Male,,110607
+Xylose,Caenorhabditis elegans,N2,10 mM,6,,,,25643626
+N-nitrosodimethylamine,Caenorhabditis elegans,N2,50 µM,5.5,,,,25556763
+Asparagine,Caenorhabditis elegans,N2,1 mM,1,,,NS,25643626
+Asparagine,Caenorhabditis elegans,N2,10 mM,-25,,,,25643626
+Asparagine,Caenorhabditis elegans,N2,5 mM,5,,,,25643626
+Piericidin A,Caenorhabditis elegans,N2,100 nM,5,,,,24199155
+SU 4312,Caenorhabditis elegans,,88 µM,5,,,,24134630
+Wortmannin,Drosophila melanogaster,Canton S,5 µM,5,,Male,,24096697
+Wortmannin,Caenorhabditis elegans,N2,1 μM,-4.1,,,S,23543623
+N-tert-butyl-alpha-phenylnitrone,Mus musculus,C57BL/6J,0.25 mg/ml of water,3.8,5,Male,,9614711
+Morphine,Drosophila melanogaster,Oregon R,,3.2,,,,21061062
+Morphine,Drosophila melanogaster,Oregon R,,2.6,,,,21061062
+Isoleucine,Caenorhabditis elegans,N2,1 mM,3,,,NS,25643626
+Isoleucine,Caenorhabditis elegans,N2,5 mM,3,,,NS,25643626
+Isoleucine,Caenorhabditis elegans,N2,10 mM,3,,,,25643626
+N-(3-(aminomethyl)benzyl)acetamidine,Drosophila melanogaster,Canton S,0.03 µM,3,13,Male,,24096697
+Geldanamycin,Caenorhabditis elegans,N2,20 µM,2,,,,26676933
+Calcium lactate,Drosophila melanogaster,Oregon R,0.01 M,-10.7,,Male,,110607
+Calcium lactate,Drosophila melanogaster,Oregon R,0.001 M,1.8,,Male,,110607
+Calcium lactate,Drosophila melanogaster,Oregon R,0.1 M,-66.1,,Male,,110607
+GYY4137,Caenorhabditis elegans,N2,100 µM,0.4,,,,24093496
+Methylene blue,Mus musculus,UM-HET3,27 mg/kg diet,0,6,Female,,24245565
+Calcium gluconate,Drosophila melanogaster,Oregon R,0.001 M,-3.7,,Male,,110607
+Calcium gluconate,Drosophila melanogaster,Oregon R,0.01 M,-13.2,,Male,,110607
+Calcium gluconate,Drosophila melanogaster,Oregon R,0.1 M,-56.6,,Male,,110607
+Glutathione,Caenorhabditis elegans,N2,25 µL Liposomes + 360 µg glutathione,,50,,,19580823
+Myriocin,Saccharomyces cerevisiae,BY4741,600 ng/ml,,,,,23725375
+Myriocin,Saccharomyces cerevisiae,DBY746,600 ng/ml,,,,,23725375
+Spermine,Mus musculus,Crj:CD-1,3 mg.kg-1.dose-1 ,,,Female,,21858192
+Indolepropionamide,Philodina acuticornis,odiosa,10 µM,137.8,,,,20421998
+Indolepropionamide,Philodina acuticornis,odiosa,20 µM,229.7,,,,20421998
+Indolepropionamide,Philodina acuticornis,odiosa,30 µM,267.9,,,,20421998
+Shengmai yin,Caenorhabditis elegans,N2,48.0 g/L,47.3,,,,24952637
+"3,5-dihydroxy-4'-thiomethyl-trans-stilbene",Saccharomyces cerevisiae,PSY316ATα,10 µM,22.7,,,,17156081
+"Bis(1-hydroxy-2,2,6,6-tetramethyl-4-piperidinyl)-decandioate",Aeolosoma viride,,2.5 µM,98.6,,,,25190068
+"Bis(1-hydroxy-2,2,6,6-tetramethyl-4-piperidinyl)-decandioate",Aeolosoma viride,,1.25 µM,157.3,,,,25190068
+Polypeptide Bovine Thymus extract,Mus musculus,C3H/Sn,0.5 mg,28,11.2,Female,,6752596
+Peyssonnelia sp. extract,Brachionus manjavacas,,2 µg/ml,8.5,,,,24120568
+Oregano and Cranberry extracts,Anastrepha ludens,Loew,0.02,43,,,,21455602
+Butylated hydroxyanisole,Zaprionus paravittiger,,100 mM,-63.8,-53.7,Male,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,50 mM,-45.9,-40.7,Female,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,50 mM,-31.7,-46.3,Male,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,1 mM,1.7,0.8,Female,NS,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,1 mM,4,1.3,Male,NS,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,100 mM,-57.2,-55.2,Female,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,5 mM,7.9,6.9,Female,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,5 mM,18.4,6.6,Male,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,25 mM,13.1,4.4,Female,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,10 mM,27,17.6,Male,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,10 mM,15.1,27,Female,,9207858
+Butylated hydroxyanisole,Zaprionus paravittiger,,25 mM,20.5,2.2,Male,,9207858
+Butylated hydroxyanisole,Caenorhabditis elegans,N2,25 µM,6.38,,,,28054425
+Eleutherococcus senticosus root extract,Caenorhabditis elegans,N2,250 µg/ml,16,,,,18536978
+4-hydroxy-E-globularinin,Caenorhabditis elegans,N2,200 µM,6.4,,,,23000058
+4-hydroxy-E-globularinin,Caenorhabditis elegans,N2,2 µM,8.1,,,,23000058
+4-hydroxy-E-globularinin,Caenorhabditis elegans,N2,20 µM,18.8,,,,23000058
+Dauer-inducing Pheromone,Caenorhabditis elegans,N2,5% in food,13.3,,,,16377915
+Dauer-inducing Pheromone,Caenorhabditis elegans,N2,10% in food,26.7,,,,16377915
+Apple,Saccharomyces cerevisiae,MCY4/KlLSM4::kanMX4,1 gr,78.5,,,NS,22970337
+Platycladus orientalis seed extract,Caenorhabditis elegans,N2,500 µg/ml,26.5,,,,23523941
+Omega-6,Caenorhabditis elegans,N2,10 µM,16,,,,23392608
+DhHP-6,Caenorhabditis elegans,N2,200 µM,21,,,,20528576
+DhHP-6,Caenorhabditis elegans,N2,100 µM,19.1,,,,23410029
+"3,5-dihydroxy-4'-acetoxy-trans-stilbene",Saccharomyces cerevisiae,PSY316ATα,10 µM,68.2,,,,17156081
+Polypeptide Pineal extract,Rattus norvegicus,,"0.5 mg, 5 times a week",25,,Female,,575333
+Polypeptide Pineal extract,Mus musculus,C3H/Sn,0.5 mg,31,14,Female,,6752596
+Panax notoginseng main root polysaccharide,Caenorhabditis elegans,N2,0.1 mg/ml,21,,,,26234580
+Marine collagen peptides,Rattus norvegicus,Sprague-Dawley,0.09,11,13,,,20553190
+Cinnamon Extract,Drosophila melanogaster,w1118,75 mg/ml,37,,Female,,25456850
+Cinnamon Extract,Drosophila melanogaster,w1118,25 mg/ml,17,,Male,,25456850
+Crude BB extract (Vaccinium angustifolium),Caenorhabditis elegans,fem-1(hc17),1.5 mg/mL,37,,,,16441844
+Ludwigia octovalvis extract,Drosophila melanogaster,Canton S,100 µg/ml,16.1,,Male,,24338263
+Ludwigia octovalvis extract,Drosophila melanogaster,Canton S,100 µg/ml,24.2,,Female,,24338263
+Stachys lavandulifolia ethanol extract,Drosophila melanogaster,Oregon R,4 µl/100 ml media,12.4,6.4,,,20738162
+Stachys lavandulifolia ethanol extract,Drosophila melanogaster,Oregon R,12 µl/100 ml media,26.8,21.3,Male,,20738162
+Stachys lavandulifolia ethanol extract,Drosophila melanogaster,Oregon R,4 µl/100 ml media,16,14,,,20738162
+Stachys lavandulifolia ethanol extract,Drosophila melanogaster,Oregon R,20 µl/100 ml media,44.4,8,Male,,20738162
+Stachys lavandulifolia ethanol extract,Drosophila melanogaster,Oregon R,20 µl/100 ml media,55.7,36,Female,,20738162
+Stachys lavandulifolia ethanol extract,Drosophila melanogaster,Oregon R,12 µl/100 ml media,31.3,22,Female,,20738162
+Rhodiola rosea extract,Drosophila melanogaster,,30 mg/mL every other day,,42.9,Male,,9825229
+Rhodiola rosea extract,Drosophila melanogaster,,30 mg/mL every other day,,28.6,Female,,9825229
+Rhodiola rosea extract,Drosophila melanogaster,,25 mg/mL,24,16,Male,,19634056
+Rhodiola rosea extract,Drosophila melanogaster,,25 mg/mL,24,31,Female,,19634056
+Rasayana,Drosophila melanogaster,Oregon-K,1 drop,51.1,,Female,,21836798
+Rasayana,Drosophila melanogaster,Oregon-K,1 drop,55,,Male,,21836798
+Recombinant buckwheat trypsin inhibitor,Caenorhabditis elegans,N2,5 µM,15.6,,,,25959406
+Recombinant buckwheat trypsin inhibitor,Caenorhabditis elegans,N2,2.5 µM,7.5,,,,25959406
+Recombinant buckwheat trypsin inhibitor,Caenorhabditis elegans,N2,10 µM,23.7,,,,25959406
+Royal Jelly,Mus musculus,C3H/HeJ,500 ppm ad libitum in diet,23.6,,Male,,12954483
+"3,5-dihydroxy-4'-ethyl-trans-stilbene",Saccharomyces cerevisiae,PSY316ATα,10 µM,51.5,,,,17156081
+Reishi polysaccharide,Caenorhabditis elegans,N2,100 ppm,35,,,,19837596
+Procyanidins,Caenorhabditis elegans,N2,65 µg/ml,12.1,,,,20717869
+CU701,Drosophila melanogaster,Canton S,0.30%,0,,Male,NS,24305778
+CU701,Drosophila melanogaster,Canton S,0.30%,6,,Female,NS,24305778
+CU701,Drosophila melanogaster,Canton S,0.30%,16.9,,Male,,24305778
+CU701,Drosophila melanogaster,Canton S,0.30%,5.4,,Female,,24305778
+Apple polyphenols,Caenorhabditis elegans,N2,100 µg/ml,12,,,,20717869
+Apple polyphenols,Drosophila melanogaster,Oregon R,NA,10,,,,21319854
+Q3M,Caenorhabditis elegans,N2,20 µg/mL,20,,,,21563825
+Korean red ginseng tonic,Drosophila melanogaster,w1118,12 µg/ml,13.5,,Female,,24265871
+Korean red ginseng tonic,Drosophila melanogaster,w1118,1.2 µg/ml,14.5,,Female,,24265871
+Korean red ginseng tonic,Drosophila melanogaster,w1118,0.12 µg/ml,5.7,,Female,NS,24265871
+Korean mistletoe extract,Drosophila melanogaster,Canton S,50 µg/ml,19.9,,,,24337961
+Korean mistletoe extract,Caenorhabditis elegans,N2,50 µg/ml,9.6,,,,24337961
+Royalactin,Caenorhabditis elegans,N2,0.04 µg/ml,26.8,,,,25456847
+Royalactin,Caenorhabditis elegans,N2,0.4 µg/ml,29.1,,,,25456847
+Royalactin,Caenorhabditis elegans,N2,1.6 µg/ml,33.9,,,,25456847
+Ascr#2,Caenorhabditis elegans,N2,400 nM,14,,,,23509272
+Sesame,Drosophila melanogaster,Oregon R,2 mg/ml,12,,Male,,23291977
+Cordyceps sinensis oral liquid,Drosophila melanogaster,Oregon-K,0.20 mg/ml ,32,15.4,Male,,26239097
+Platinum nanoparticles,Caenorhabditis elegans,N2,0.5 mM,22,,,,18400258
+Platinum nanoparticles,Caenorhabditis elegans,N2,50 ppb,1.7,,,NS,21737933
+Platinum nanoparticles,Caenorhabditis elegans,N2,2 ppb,3.9,,,NS,21737933
+Platinum nanoparticles,Caenorhabditis elegans,N2,10 ppb,5,,,NS,21737933
+Platinum nanoparticles,Caenorhabditis elegans,N2,5 ppb,7.1,,,,21737933
+Platinum nanoparticles,Caenorhabditis elegans,N2,2 ppb,18.2,,,,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,41,0,,,20944427
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,12.1,,,,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,15.5,,,,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,32.3,,,,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,37.4,,,,21737933
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,17.3,13.8,,,23959012
+Electrolyzed reduced water,Caenorhabditis elegans,N2,,17.5,10.7,,,23959012
+Protease treated royal jelly,Caenorhabditis elegans,N2,10 µg/ml,18,44,,,21858156
+Erchen wan,Caenorhabditis elegans,N2,1.5 g/L,21.8,,,,24952637
+Rhodiola rosea root extract,Caenorhabditis elegans,N2,10 µg/ml,15,,,,18536978
+Rhodiola rosea root extract,Drosophila melanogaster,w1118,NA,36,,Male,,23704949
+Rhodiola rosea root extract,Drosophila melanogaster,w1118,NA,40,,Female,,23704949
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,50 µM,17,,,,26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,25 µM,17.3,,,,26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,5 µM,10.1,,,,26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,25 µM,39,,,,26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,Caenorhabditis elegans,N2,,5.8,,,,26433219
+Whole apple extract,Caenorhabditis elegans,N2,10 mg/ml,39,25,,,23878618
+"S,S-trolox-carnosine",Drosophila melanogaster,,50 mg/L,16,,Male,,20681748
+"S,S-trolox-carnosine",Drosophila melanogaster,,50 mg/L,36,,Female,,20681748
+Huanshao dan,Caenorhabditis elegans,N2,6.8 g/L,38.3,,,,24952637
+Apple flesh,Saccharomyces cerevisiae,MCY4/KlLSM4::kanMX4,1 gr,7,,,NS,22970337
+Phaseolus vulgaris Extract,Caenorhabditis elegans,N2,150 µg / mL,13.2,,,,20455573
+HF-HQ,Caenorhabditis elegans,N2,400 µM,20,,,,22529848
+Olive Oil,Rattus norvegicus,,,18,,,,22498298
+Pomegrenate juice,Drosophila melanogaster,Canton S,0.1,8,,Female,,25566518
+Pomegrenate juice,Drosophila melanogaster,Canton S,0.1,18,,Male,,25566518
+Proanthocyanidins from Kunlun Chrysanthemum flowers,Drosophila melanogaster,Oregon R+,,15.5,10.4,Female,,25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers,Drosophila melanogaster,Oregon R+,,1,5.1,Female,,25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers,Drosophila melanogaster,Oregon R+,,5.7,3.1,Male,,25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers,Drosophila melanogaster,Oregon R+,,5.3,4.7,Female,,25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers,Drosophila melanogaster,Oregon R+,,16.8,14,Male,,25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers,Drosophila melanogaster,Oregon R+,,3.2,2.9,Male,,25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers,Drosophila melanogaster,Oregon R+,,13.9,8.9,Male,,25628774
+Damnacanthus officinarum root extract,Caenorhabditis elegans,N2,1200 µg/mL,30.3,,,,22370553
+Proanthocycanidin,Caenorhabditis elegans,N2,67 µg/ml,36.6,,,,22509764
+Turmeric powder,Drosophila melanogaster,,5 g/L,17.6,,,,24967413
+Turmeric powder,Drosophila melanogaster,,7 g/L,17.6,,,,24967413
+Turmeric powder,Drosophila melanogaster,,2.5 g/L,2.9,,,,24967413
+Black tea extract,Drosophila melanogaster,Oregon R,Instead of water,20.2,,Male,,8326745
+Black tea extract,Drosophila melanogaster,,10 mg/ml,10,,,,19770032
+VI-28,Mus musculus,C57BL/6J,0.005,7.2,,Female,NS,20370440
+VI-28,Mus musculus,C57BL/6J,0.0005,8.8,,Female,,20370440
+VI-28,Mus musculus,C57BL/6J,0.005,13.5,,Male,,20370440
+VI-28,Mus musculus,C57BL/6J,0.0005,14.4,,Male,,20370440
+Stachys lavandulifolia water extract,Drosophila melanogaster,Oregon R,12 µl/100 ml media,21.9,8,Female,,20738162
+Stachys lavandulifolia water extract,Drosophila melanogaster,Oregon R,12 µl/100 ml media,22.1,10.6,Male,,20738162
+Stachys lavandulifolia water extract,Drosophila melanogaster,Oregon R,20 µl/100 ml media,32,14.9,Male,,20738162
+Stachys lavandulifolia water extract,Drosophila melanogaster,Oregon R,20 µl/100 ml media,35.6,14,Female,,20738162
+HuminFeed,Caenorhabditis elegans,N2,400 µM,12.5,,,,22529848
+Liuwei dihuang wan,Caenorhabditis elegans,N2,4.2 g/L,12.6,,,,24952637
+SQDB,Caenorhabditis elegans,N2,100 µg/ml,12,,,,20179756
+L-Glu-L-Trp dipeptide,Rattus norvegicus,,5 µg/rat. 5 times a week,0,10.4,Female,,11707921
+Cocoa,Drosophila melanogaster,rosy^+5,100 g/l medium,,,Male,NS,19083435
+Cocoa,Drosophila melanogaster,rosy^+5,50 g/l medium,,,Male,,19083435
+Echinacea purpurea root,Mus musculus,BALB/cByJ,2 mg/day,,28,Male,,16041619
+Jania acutilobum extract,Brachionus manjavacas,,5 µg/ml,9.1,,,,24120568
+Apple peal,Saccharomyces cerevisiae,MCY4/KlLSM4::kanMX4,1 gr,28.5,,,NS,22970337
+PP2 AG1879,Drosophila melanogaster,Oregon R,300 µM,22.8,,,,22363408
+Acticoa powder,Rattus norvegicus,Wistar-Unilever,24 mg/5 ml/kg,11,,,,18179729
+Q3'G,Caenorhabditis elegans,N2,21 µg/mL,12,,,,21563825
+Freeze dried royal jelly,Drosophila melanogaster,Oregon R,1% w/v,8.5,-4,Male,,23132575
+Acanthophora spicifera extract,Brachionus manjavacas,,5 µg/ml,14,,,,24120568
+Green tea polyphenols,Mus musculus,Sprague-Dawley,80 mg/L,6.4,,Male,,15247057
+Green tea polyphenols,Mus musculus,C57BL/6J,80 mg/l,6.4,0,,,17516143
+Green tea polyphenols,Drosophila melanogaster,w1118,10 mg/ml,19,,Male,,25058464
+Black rice extract,Drosophila melanogaster,Oregon R,30 mg/ml,14,,,,22930061
+Damnacanthus officinarum leaf extract,Caenorhabditis elegans,N2,1200 µg/mL,18.6,,,,22370553
+Acanthopanax sessiliflorus stem extract,Caenorhabditis elegans,N2,500 mg/L,18,20,,,25324932
+Rosa damascena extract,Drosophila melanogaster,B,,22.4,12.7,Male,,21928072
+Rosa damascena extract,Drosophila melanogaster,B,,31.7,13,Female,,21928072
+Rosa damascena extract,Drosophila melanogaster,w1118,,4.5,7.4,Female,,21928072
+Rosa damascena extract,Drosophila melanogaster,w1118,,14.5,6.4,Male,,21928072
+Cranberry anthocyanin extract,Drosophila melanogaster,Oregon-R-C,20 mg/ml,10.4,5.1,,,26159161
+Cranberry anthocyanin extract,Drosophila melanogaster,Oregon-R-C,5 mg/ml,6.3,0,,,26159161
+Astragalus membranaceus polysaccharide,Caenorhabditis elegans,N2,1-2.5 mg/ml,23.8,,,,21892924
+Garlic extract,Caenorhabditis elegans,N2,50 ppm,21,,,,25940980
+Fish oil,Caenorhabditis elegans,N2,2 mg/plate,-12.8,,,,23526170
+Fish oil,Caenorhabditis elegans,N2,0.5 mg/plate,8.9,,,NS,23526170
+Fish oil,Caenorhabditis elegans,N2,1 mg/plate,9.6,,,,23526170
+Soybean trypsin inhibitor,Caenorhabditis elegans,N2,5 µM,8.7,,,,25959406
+Soybean trypsin inhibitor,Caenorhabditis elegans,N2,10 µM,10.4,,,,25959406
+Nectarine,Drosophila melanogaster,Canton S,0.04,17.6,2.7,Female,,21406223
+4-dafachronic acid,Caenorhabditis elegans,N2,250 nM,0,2.6,,,17360327
+4-dafachronic acid,Caenorhabditis elegans,N2,250 nM,16.6,28,,,17360327
+Shiquan dabu wan,Caenorhabditis elegans,N2,6.2 g/L,14.5,,,,24952637
+Medium-chain triglyceride oil,Mus musculus,UM-HET3,60000 mg/kg of diet,-1.1,,Male,NS,22451473
+Medium-chain triglyceride oil,Mus musculus,UM-HET3,60000 mg/kg of diet,1.8,,Female,NS,22451473
+DL-isocitrate,Caenorhabditis elegans,N2,10 mM,-28,,,,25643626
+DL-isocitrate,Caenorhabditis elegans,N2,1 mM,3,,,NS,25643626
+DL-isocitrate,Caenorhabditis elegans,N2,5 mM,13,,,,25643626
+Pine Bark extract,Caenorhabditis elegans,N2,10 µg/mL,,5.2,,,19350411
+Ascr#3,Caenorhabditis elegans,N2,400 nM,21,,,,23509272
+Sodium borate,Drosophila melanogaster,Oregon R,0.01 M,-69.2,,Male,,7889879
+Sodium borate,Drosophila melanogaster,Oregon R,0.05 M,-51.9,,Male,,7889879
+Sodium borate,Drosophila melanogaster,Oregon R,1 µM,0,,Male,NS,7889879
+Sodium borate,Drosophila melanogaster,Oregon R,0.01 mM,1.5,,Male,,7889879
+Sodium borate,Drosophila melanogaster,Oregon R,0.1 mM,3,,Male,,7889879
+Sodium borate,Drosophila melanogaster,Oregon R,0.25 mM,9.5,,Male,,7889879
+Sodium borate,Drosophila melanogaster,Oregon R,1 mM,-21.2,,Male,,7889879
+Sodium borate,Mus musculus,C57BL/6J,0.5 mM,0.8,,,NS,7889879
+Sodium borate,Mus musculus,C57BL/6J,0.1 mM,-2.9,,Male,NS,7889879
+Emblica officinalis,Drosophila melanogaster,,20 ml,5.9,,,,24967413
+Emblica officinalis,Drosophila melanogaster,,30 ml,5.9,,,,24967413
+Mulberry leaf polyphenols,Caenorhabditis elegans,N2,25 mg/mL,22.5,,,,25323576
+Cynomorium songaricum Rupr.,Drosophila melanogaster,Canton S,10 mg/ml,1.5,,Male,NS,22844336
+Cynomorium songaricum Rupr.,Drosophila melanogaster,Canton S,20 mg/ml,2.2,,Male,NS,22844336
+Cynomorium songaricum Rupr.,Drosophila melanogaster,Canton S,30 mg/ml,3.7,,Male,NS,22844336
+Cynomorium songaricum Rupr.,Drosophila melanogaster,Canton S,20 mg/ml,17.6,,Female,,22844336
+Cynomorium songaricum Rupr.,Drosophila melanogaster,Canton S,10 mg/ml,15.3,,Female,,22844336
+Cynomorium songaricum Rupr.,Drosophila melanogaster,Canton S,30 mg/ml,11.4,,Female,,22844336
+Psoralea corylifolia extract,Caenorhabditis elegans,N2,10 µg/mL,,9.8,,,19350411
+Rhodiola rosea,Drosophila melanogaster,,30 mg/mL,11.9,,Female,,17990971
+Rhodiola rosea,Drosophila melanogaster,,30 mg/mL,14,,Male,,17990971
+Rhodiola rosea,Drosophila melanogaster,IF,2.5 mg/ml,2.4,-6,Male,NS,24472572
+Rhodiola rosea,Drosophila melanogaster,IF,10 mg/ml,13.6,3.9,Female,,24472572
+Rhodiola rosea,Drosophila melanogaster,IF,30 mg/ml,-9.1,-12.2,Female,,24472572
+Rhodiola rosea,Drosophila melanogaster,IF,2.5 mg/ml,6.8,-2.9,Female,NS,24472572
+Rhodiola rosea,Drosophila melanogaster,IF,10 mg/ml,14.3,6,Male,,24472572
+Rhodiola rosea,Drosophila melanogaster,IF,30 mg/ml,-11.9,-16.4,Male,,24472572
+Rhodiola rosea,Drosophila melanogaster,IF,5 mg/ml,13.6,3.4,Female,,24472572
+Rhodiola rosea,Drosophila melanogaster,IF,5 mg/ml,16.7,6.6,Male,,24472572
+Rhodiola rosea,Bombyx mori,N4,,1.5,1.6,Male,,26497336
+Rhodiola rosea,Bombyx mori,N4,,2.7,2.7,Female,,26497336
+AU701,Drosophila melanogaster,Canton S,0.30%,1.2,,Male,NS,24305778
+AU701,Drosophila melanogaster,Canton S,0.30%,11.4,,Female,,24305778
+AU701,Drosophila melanogaster,Canton S,0.30%,-0.7,,Female,NS,24305778
+Tea (Camellia sinensis) extract,Drosophila melanogaster,Oregon R,Instead of water,15.7,,Male,,8326745
+Tea (Camellia sinensis) extract,Drosophila melanogaster,Oregon R,1:10 dilution,7,,Male,,8326745
+Tea (Camellia sinensis) extract,Drosophila melanogaster,Oregon R,Instead of water,20.2,,Male,,8326745
+Tea (Camellia sinensis) extract,Drosophila melanogaster,Oregon R,Instead of water,12.2,,Male,,8326745
+Arsenite,Caenorhabditis elegans,N2,100 nM,10,,,,23534459
+Blueberry extract,Drosophila melanogaster,,5 mg/ml,10,,,,22197903
+Blueberry extract,Caenorhabditis elegans,N2,50 mg/mL,22.23,16,,S,30238944
+Blueberry extract,Caenorhabditis elegans,N2,100 mg/mL,36.52,20,,S,30238944
+Blueberry extract,Caenorhabditis elegans,N2,200 mg/mL,44.42,24,,S,30238944
+(Iso)lappaol A,Caenorhabditis elegans,N2,100 µM,11.2,,,,26141518
+AMN082,Caenorhabditis elegans,,33 µM,8,,,,24134630
+Psora-4,Caenorhabditis elegans,,88 µM,42,,,,24134630
+LFM-A13,Caenorhabditis elegans,,88 µM,27,,,,24134630
+Verminoside,Caenorhabditis elegans,N2,25 µM,20.8,,,,26189547
+Verminoside,Caenorhabditis elegans,N2,50 µM,8.5,,,,26189547
+Verminoside,Caenorhabditis elegans,N2,5 µM,9.8,,,,26189547
+N-(2-[4-(4-chlorophenyl)piperazin-1-yl]ethyl)-3-methoxybenzamide,Caenorhabditis elegans,,33 µM,35,,,,24134630
+Dafadine-A,Caenorhabditis elegans,N2,50 µM,29,,,,22057127
+Nolinospiroside F,Saccharomyces cerevisiae,K6001,10 µM,21.3,,,,23439553
+Nolinospiroside F,Saccharomyces cerevisiae,K6001,1 µM,19,,,,23439553
+Nolinospiroside F,Saccharomyces cerevisiae,K6001,3 µM,22.6,,,,23439553
+Tartrate,Mytilina brevispina,,0.25% on alternate days,43.7,,,,804507
+BTCP hydrochloride,Caenorhabditis elegans,,88 µM,14,,,,24134630
+Cortexolone maleate,Caenorhabditis elegans,,33 µM,11,,,,24134630
+Ferulsinaic acid,Caenorhabditis elegans,N2,100 µM,20,,,,21749391
+"LY-367,265",Caenorhabditis elegans,,33 µM,34,,,,24134630
+Otophylloside B,Caenorhabditis elegans,N2,50 µM,30,,,,26112394
+4-phenyl-3-furoxancarbonitrile,Caenorhabditis elegans,,88 µM,30,,,,24134630
+Ascorbic acid,Caenorhabditis elegans,N2,80 µg/ml,0,,,,3374177
+Ascorbic acid,Paramecium tetraurelia,,50 mg/L,12.1,6.7,,,9406982
+Ascorbic acid,Caenorhabditis elegans,N2,25 µL Liposomes + 240 µg ascorbic acid,,50,,,19580823
+Ascorbic acid,Caenorhabditis elegans,N2,5 mM,-3.59,6.45,,S,27683245
+Ascorbic acid,Caenorhabditis elegans,N2,10 mM,-0.76,-12.9,,NS,27683245
+Cranberry extract,Caenorhabditis elegans,N2,2 mg/mL,32.5,,,,22864793
+Cranberry extract,Drosophila melanogaster,Canton S,0.02,30.1,,,,24316039
+Cranberry extract,Caenorhabditis elegans,N2,2 mg/ml,12.8,,,,24566444
+Cranberry extract,Caenorhabditis elegans,N2,2 mg/ml,20,,,,24566444
+Cranberry extract,Caenorhabditis elegans,N2,2 mg/ml,14.4,,,,24566444
+Bacitracin,Caenorhabditis elegans,N2,0.01,58.5,74,,,22114686
+Hydralazine,Caenorhabditis elegans,N2,100 µM,23.29,,,S,29263362
+Hydralazine,Caenorhabditis elegans,N2,50 µM,14.83,,,S,29263362
+Hydralazine,Brachionus manjavacas,,1 μM,9.01,0,,S,27484416
+Torin 1,Drosophila melanogaster,Dahomey,1 μM,36.36,16.6,,S,29329306
+Torin 1,Drosophila melanogaster,Dahomey,1 μM,4.55,3.8,,,29329306
+Torin 1,Drosophila melanogaster,Dahomey,10 μM,59.09,0,,S,29329306
+Torin 1,Drosophila melanogaster,Dahomey,5 μM,50,13.89,,S,29329306
+Torin 1,Drosophila melanogaster,Dahomey,0.5 μM,27.27,8.33,,,29329306
+Ikarugamycin,Caenorhabditis elegans,fem-1(−);dal-1(−),5 μM ,22.25,,,S,29273768
+J147,Drosophila melanogaster, (w1118/+),0.1μM,10.35,1.39,Male,<0.001,29316249
+J147,Drosophila melanogaster,(w1118/+),2 μM,12.5,-8.33,,S,29316249
+Naringin,Caenorhabditis elegans,N2,0.5 μM,6.95,-0.68,,S,29375370
+Naringin,Caenorhabditis elegans,N2,1 μM,13.5,4.08,,S,29375370
+Naringin,Caenorhabditis elegans,N2,5 μM,12.57,4.08,,S,29375370
+Naringin,Caenorhabditis elegans,N2,10 μM,11.5,6.8,,S,29375370
+Luteolin,Caenorhabditis elegans,N2,0.5 μM,-4.5,-2.03,,S,29375370
+Luteolin,Caenorhabditis elegans,N2,1 μM,-1.54,8.28,,S,29375370
+Luteolin,Caenorhabditis elegans,N2,5 μM ,-0.6,8.28,,S,29375370
+Luteolin,Caenorhabditis elegans,N2,10 μM,0.47,2.76,,S,29375370
+Luteolin,Caenorhabditis elegans,N2,100 μM,17.65,14.82,,S,29375370
+BP-C3,Mus musculus,Swiss-Derived SHR,10 mg/kg Daily,8.4,12.4,Female,P<0.01,27574962
+Alaskan Blueberry Extract,Caenorhabditis elegans,N2,60 μg/mL,56,,,,27486399
+"trans-3,5-dimethoxy-4-fluoro-4'-hydroxystilbene",Caenorhabditis elegans,N2,100 µM,3.63,4.76,,S,27882602
+"trans-2,40,5-trihydroxystilbene",Caenorhabditis elegans,N2,100 µM,6.44,,,S,27882602
+A.sinensis root peptides,Caenorhabditis elegans,N2,2 mg/ml,,,,,26941890
+Selenocysteine,Caenorhabditis elegans,N2,1 mM,24.16,7.9,,S,28954009
+Selenocysteine,Caenorhabditis elegans,N2,2.5 mM,21.72,7.9,,S,28954009
+Selenocysteine,Caenorhabditis elegans,N2,5 mM,24.34,10.52,,S,28954009
+Selenocysteine,Caenorhabditis elegans,N2,5 mM,41.9,,,S,30365103
+Selenocysteine,Caenorhabditis elegans,N2,5 mM,6.93,,,S,30365103
+Guduchi Churna,Drosophila melanogaster,Oregon-K,0.25g/100ml,193.83,,Pooled,,28827958
+Guduchi Churna,Drosophila melanogaster,Oregon-K,0.50g/100ml,155.65,,Pooled,P<0.0001,28827958
+Guduchi Churna,Drosophila melanogaster,Oregon-K,0.7 g/100 ml,85.91,,,S,28827958
+S-allylmercapto-N-acetylcysteine,Caenorhabditis elegans,CF512,0.5mM,8.38,12.5,,p<0.029,29579097
+S-allylmercapto-N-acetylcysteine,Caenorhabditis elegans,CF512,2 mM,15.5,18.75,,S,29579097
+S-allylmercapto-N-acetylcysteine,Caenorhabditis elegans,CF512,5 mM,14.24,18.75,,S,29579097
+2-deoxy-D-glucose,Caenorhabditis elegans,N2,5 mM,26.21,11.27,,S,28992589
+2-deoxy-D-glucose,Caenorhabditis elegans,N2,5 mM,12.93,56.49,,S,17908557
+D-glucose,Caenorhabditis elegans,N2,50 mM,-7.75,-0.9,,S,17908557
+Hon Tsai Tai Extract,Caenorhabditis elegans,N2,2 mg/ml,7.97,,,S,26726147
+2-Selenium-bridged β-cyclodextrin,Caenorhabditis elegans,N2,0.5 mM,7.24,4.76,,S,101039
+2-Selenium-bridged-beta-cyclodextrin,Caenorhabditis elegans,N2,0.5 mM,7.24,4.76,,S,101039
+2-Selenium-bridged-beta-cyclodextrin,Caenorhabditis elegans,N2,5 mM,8.69,4.76,,S,101039
+"2,5-Dimethyl-Celecoxib",Drosophila melanogaster,Dahomey,0.5 µM,8.4,11.32,,S,28025308
+"2,5-Dimethyl-Celecoxib",Drosophila melanogaster,Dahomey,0.5 µM,9.07,3.39,,S,28025308
+α‐linolenic acid,Caenorhabditis elegans,N2,10 mM,15.13,-4.34,,S,28772063
+α‐linolenic acid,Caenorhabditis elegans,N2,10 mM,15.13,-4.34,,S,28772063
+α‐linolenic acid,Caenorhabditis elegans,N2,2 mM,10.49,4.35,,S,28772063
+α‐linolenic acid,Caenorhabditis elegans,N2,5 mM,28.67,8.7,,S,28772063
+α‐linolenic acid,Caenorhabditis elegans,N2,5 mM,28.67,8.7,,S,28772063
+d-Allulose,Caenorhabditis elegans,N2,5 mM,4,,,S,28965946
+d-Allulose,Caenorhabditis elegans,N2,10 mM,12,,,S,28965946
+d-Allulose,Caenorhabditis elegans,N2,25 mM,7,,,S,28965946
+Platanus orientalis Extract,Drosophila melanogaster,Oregon R,0.1µg/ml,13.02,11.94,Mixed,P<0.0001,28887920
+Platanus orientalis Extract,Drosophila melanogaster,Oregon R,1 µg/ml,3.26,1.49,,S,28887920
+Platanus orientalis Extract,Drosophila melanogaster,Oregon R,10 µg/ml,2.43,7.46,,S,28887920
+Tiliroside,Drosophila melanogaster,Oregon R,100 µM,15.56,5.88,,S,28887920
+Indole,Caenorhabditis elegans,N2,100 µM,15.91,12.3,,S,28827345
+Tyrosine-Alanine Dipeptide,Caenorhabditis elegans,N2,1 mM,10.37,13.04,,S,26987062
+Tyrosine-Alanine Dipeptide,Caenorhabditis elegans,N2,10 mM,12.43,13.04,,S,26987062
+α‐ketoisovalerate,Caenorhabditis elegans,N2,10 mM,35.02,,,S,26729005
+α‐keto‐β‐methylvalerate,Caenorhabditis elegans,N2,10 mM,20.77,,,S,26729005
+4‐methyl‐2‐oxovalerate,Caenorhabditis elegans,N2,10 mM,12.44,,,S,26729005
+Pyruvate,Caenorhabditis elegans,N2,8 mM,-25.35,,,S,26729005
+Pyruvate,Caenorhabditis elegans,N2,8 mM,25.17,,,S,26729005
+"2,4-pyridinedicarboxylic acid",Caenorhabditis elegans,N2,10 mM,-17.13,,,S,26729005
+Alkaline Water,Mus musculus,CD1,,1.8,,,P<0.01,27340414
+Dafachronic Acid,Caenorhabditis elegans,N2,0.1µM,23.44,,,<0.0001,26691751
+Nitrophenyl piperazine containing compound 1,Caenorhabditis elegans,N2,50 µM,72.5,,,S,27220516
+Nitrophenyl piperazine containing compound 1,Caenorhabditis elegans,N2,10 µM,23,,,S,27220516
+Nitrophenyl piperazine containing compound 1,Caenorhabditis elegans,N2,500 µM,-23.08,,,S,27220516
+Withanolide A,Caenorhabditis elegans,N2,2 μM,4.32,7.59,,S,26956478
+Withanolide A,Caenorhabditis elegans,N2,5 μM,29.65,45.33,,S,26956478
+Withanolide A,Caenorhabditis elegans,N2,25 μM,15.79,24.58,,S,26956478
+Withanolide A,Caenorhabditis elegans,N2,50 μM,10.81,15.12,,S,26956478
+M084,Caenorhabditis elegans,N2,50 μM,9.11,,,S,27854075
+M084,Caenorhabditis elegans,N2,500 μM,19.12,,,S,27854075
+M084,Caenorhabditis elegans,N2,1 mM,6.92,,,,27854075
+17‐α‐estradiol,Mus musculus,UM‐HET3,14.4 ppm of Chow,19,12,,S,27312235
+Protandim,Mus musculus,C2011,600 ppm in chow,7,6,Male,< 0.012,27312235
+Colanic acid,Drosophila melanogaster,OreR,35 μg/ml,20,,Male,P<0.001,28622510
+Colanic acid,Drosophila melanogaster,OreR,350 μg/ml,17,,Male,P=0.025,28622510
+Colanic acid,Caenorhabditis elegans,N2,,9,,,P=0.001,28622510
+Colanic acid,Caenorhabditis elegans,N2,,24,,,P<0.001,28622510
+Colanic acid,Caenorhabditis elegans,N2,,13,,,P<0.001,28622510
+Colanic acid,Caenorhabditis elegans,N2,,12,,,P<0.001,28622510
+Colanic acid,Caenorhabditis elegans,N2,,11,,,P<0.001,28622510
+Colanic acid,Caenorhabditis elegans,N2,,10,,,P<0.001,28622510
+Colanic acid,Caenorhabditis elegans,N2,,3,,,P=0.622,28622510
+Colanic acid,Caenorhabditis elegans,N2,,-1,,,P=0.928,28622510
+Colanic acid,Caenorhabditis elegans,N2,,4,,,P=0.517,28622510
+Colanic acid,Caenorhabditis elegans,N2,,6,,,P=0.039,28622510
+Colanic acid,Caenorhabditis elegans,N2,,6,,,P=0.021,28622510
+Colanic acid,Caenorhabditis elegans,N2,,6,,,P=0.018,28622510
+Colanic acid,Caenorhabditis elegans,N2,,11,,,P=0.012,28622510
+Colanic acid,Caenorhabditis elegans,N2,,14,,,P=0.003,28622510
+Colanic acid,Caenorhabditis elegans,N2,,13,,,P=0.012,28622510
+Colanic acid,Caenorhabditis elegans,isp-1(qm150),,6,,,P=0.569,28622510
+Colanic acid,Caenorhabditis elegans,isp-1(qm150),,1,,,P=0.871,28622510
+Colanic acid,Caenorhabditis elegans,isp-1(qm150),,0,,,P=0.928,28622510
+Colanic acid,Caenorhabditis elegans,nuo-6(qm200),,4,,,P=0.128,28622510
+Colanic acid,Caenorhabditis elegans,nuo-6(qm200),,-5,,,P=0.109,28622510
+Colanic acid,Caenorhabditis elegans,nuo-6(qm200),,1,,,P=0.921,28622510
+Colanic acid,Caenorhabditis elegans,N2,,17,,,P<0.001,28622510
+Colanic acid,Caenorhabditis elegans,N2,,14,,,P<0.001,28622510
+Colanic acid,Caenorhabditis elegans,N2,,16,,,P<0.001,28622510
+Powdered Broccoli Lyophilisate,Tribolium castaneum,San Bernardino,1%,,,,p < 0.01,23321956
+Prunetin,Drosophila melanogaster,w1118 ,25 μM,5.19,7.17,Male,p=0.0296,26538555
+L-Leucine,Caenorhabditis elegans,N2,5 mM,6.84,7.32,,S,26620638
+L-Valine,Caenorhabditis elegans,N2,5 mM,7.05,0,,S,26620638
+L-isoleucine,Caenorhabditis elegans,N2,5 mM,9.5,6.45,,S,26620638
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,1 mM,10.16,3.8,,S,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,3 mM,19.53,8.15,,S,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,5 mM,31.25,12.5,,S,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,10 mM,25,10.3,,S,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,15 mM,10,6,,S,28676501
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,500 μM,33.33,,,S,27090484
+Pyrroloquinoline quinone,Caenorhabditis elegans,N2,1 mM,44.44,,,S,27090484
+Echinacoside,Caenorhabditis elegans,N2,150 μM,7.6,,,S,26027643
+Echinacoside,Caenorhabditis elegans,N2,300 μM,15.82,,,S,26027643
+Echinacoside,Caenorhabditis elegans,N2,600 μM,9.47,,,S,26027643
+Echinacoside,Caenorhabditis elegans,N2,200 μM,13.64,,,S,29340230
+Piceatannol,Caenorhabditis elegans,N2,50 µM,18.3,,,S,28128482
+Piceatannol,Caenorhabditis elegans,N2,50 µM,18.3,,,S,28128482
+Buthionine Sulfoximine ,Musca Domestica,,3 mM,-30,,,S,2866912
+2-Oxothiazolidine-4-carboxylate,Musca Domestica,,3 mM,-24,,,S,2866912
+Triptolide,Caenorhabditis elegans,N2,50 mg/L,20.1,16,,P < 0.001,28471052
+Crocus Sativus Aqueous Extract,Drosophila melanogaster,w1118,1%,18.3,,Female,P<0.001,27878268
+Crocus Sativus Aqueous Extract,Drosophila melanogaster,w1118,1%,8.8,,Male,P<0.001,27878268
+Ribes fasciculatum eylacetate fraction,Caenorhabditis elegans,N2,250 μg/mL,11.1,4.76,,S,27478096
+Ribes fasciculatum eylacetate fraction,Caenorhabditis elegans,N2,500 μg/mL,16.3,19.05,,S,27478096
+Royal Jelly Protein,Drosophila melanogaster,Canton-S,1.25%,8.96,6.9,,S,27388939
+Royal Jelly Protein,Drosophila melanogaster,Canton-S,2.50%,12.43,5.17,,S,27388939
+Royal Jelly Protein,Drosophila melanogaster,Canton-S,5%,13.87,10.34,,S,27388939
+Casein,Drosophila melanogaster,Canton-S,1.25%,4.34,0,,S,27388939
+Calycosin,Caenorhabditis elegans,N2,50 μM,6.24,,,S,28434978
+Calycosin,Caenorhabditis elegans,N2,100 μM,15.64,,,S,28434978
+Calycosin,Caenorhabditis elegans,N2,400 μM,17.8,,,S,28434978
+Calycosin,Caenorhabditis elegans,N2,200 μM,24.86,,,S,28434978
+Rutin,Drosophila melanogaster,Canton-S,200 μM,17,,,S,28389882
+Rutin,Drosophila melanogaster,Canton-S,400 μM,23.52,,,S,28389882
+Rutin,Drosophila melanogaster,Canton-S,600 μM,-23,,,S,28389882
+Rutin,Drosophila melanogaster,Canton-S,800 μM,-38,,,S,28389882
+Rutin,Drosophila melanogaster,Canton-S,200 μM,30,,,S,28389882
+Rutin,Drosophila melanogaster,Canton-S,400 μM,43.33,,,S,28389882
+Rutin,Drosophila melanogaster,Canton-S,600 μM,-13.33,,,S,28389882
+Rutin,Drosophila melanogaster,Canton-S,800 μM,-16.66,,,S,28389882
+Oleic Acid,Caenorhabditis elegans,N2,800 μM,17.29,,,S,28379943
+Palmitoleic acid,Caenorhabditis elegans,N2,800 μM,17.09,,,S,28379943
+cis-vaccenic acid ,Caenorhabditis elegans,N2,800 μM,13.06,,,S,28379943
+Fructose,Caenorhabditis elegans,N2,55 mM,21.96,,,S,27680107
+Fructose,Caenorhabditis elegans,N2,100 mM,45.66,,,S,27680107
+Fructose,Caenorhabditis elegans,N2,555 mM,-31.79,,,S,27680107
+Silymarin,Caenorhabditis elegans,N2,10 µM,4.55,,,S,28039083
+Silymarin,Caenorhabditis elegans,N2,50 µM,13.64,,,S,28039083
+Silychristin A/B,Caenorhabditis elegans,N2,10 μM,7.06,,,S,28039083
+Silydianin,Caenorhabditis elegans,N2,10 μM,5.88,,,S,28039083
+Silybin A/B,Caenorhabditis elegans,N2,10 μM,9.04,,,S,28039083
+Isosilybin A/B,Caenorhabditis elegans,N2,10 μM,6.82,,,S,28039083
+"2,3-dehydrosilybin",Caenorhabditis elegans,N2,5 μM,2.16,,,S,28039083
+"2,3-dehydrosilybin",Caenorhabditis elegans,N2,10 μM,10.15,,,S,28039083
+"2,3-Dehydrosilybin A",Caenorhabditis elegans,N2,10 μM,12.55,,,S,28039083
+"2,3-Dehydrosilybin B",Caenorhabditis elegans,N2,10 μM,7.18,,,S,28039083
+7-methyl-Dehydrosilybin,Caenorhabditis elegans,N2,10 μM,-9,,,S,28039083
+18α-Glycyrrhetinic acid,Caenorhabditis elegans,N2,10 μg/ml,6.25,,,,26886723
+18α-Glycyrrhetinic acid,Caenorhabditis elegans,N2,100 μg/ml,11.76,,,,26886723
+18α-Glycyrrhetinic acid,Caenorhabditis elegans,N2,20 μg/mL,22,,,S,26886723
+Dimethyl Sulfide,Drosophila melanogaster,w1118,10 μM,13.56,,,S,27790859
+Dimethyl Sulfide,Drosophila melanogaster,w1118,100 μM,24.25,,,S,27790859
+Dimethyl Sulfide,Drosophila melanogaster,w1118,1 mM,16.04,,,S,27790859
+Dimethyl Sulfide,Caenorhabditis elegans,N2,1 μM,8.43,,,S,27790859
+Dimethyl Sulfide,Caenorhabditis elegans,N2,10 μM,24.33,,,S,27790859
+Dimethyl Sulfide,Caenorhabditis elegans,N2,5 μM,20.14,,,,27790859
+3β-Hydroxy-urs-12-en-28-oic acid,Caenorhabditis elegans,N2,25 μM,32.48,,,S,27773812
+Sodium Chloride,Caenorhabditis elegans,N2,150 mM,19.59,16.67,,S,26854551
+Sodium Chloride,Caenorhabditis elegans,N2,250 mM,40.53,44.44,,S,26854551
+Sodium Chloride,Caenorhabditis elegans,N2,350 mM,40.53,44.44,,S,26854551
+Potassium Chloride,Caenorhabditis elegans,N2,250 mM,23.23,31.58,,S,26854551
+Urolithin A,Caenorhabditis elegans,N2,10 μM,24,,,S,27400265
+Urolithin A,Caenorhabditis elegans,N2,30 μM,40.7,,,S,27400265
+Urolithin A,Caenorhabditis elegans,N2,50 μM,37.5,,,S,27400265
+Urolithin A,Caenorhabditis elegans,N2,50 μM,45.4,,,Y,27400265
+Urolithin A,Caenorhabditis elegans,N2,30 μM,40.7,,,Y,30624146
+Urolithin A,Caenorhabditis elegans,N2,10 μM,24,,,Y,27400265
+Urolithin B,Caenorhabditis elegans,N2,50 μM,36.6,,,S,27400265
+Urolithin B,Caenorhabditis elegans,N2,50 μM,36.6,,,Y,27400265
+Urolithin C,Caenorhabditis elegans,N2,50 μM,36,,,S,27400265
+Urolithin C,Caenorhabditis elegans,N2,50 μM,36,,,Y,27400265
+Urolithin D,Caenorhabditis elegans,N2,50 μM,19,,,S,27400265
+Urolithin D,Caenorhabditis elegans,N2,50 μM,19,,,Y,27400265
+Oxyresveratrol,Caenorhabditis elegans,N2,100 μM,7.4,,,S,27190265
+Oxyresveratrol,Caenorhabditis elegans,N2,500 μM,17.8,,,S,27190265
+Oxyresveratrol,Caenorhabditis elegans,N2,1 mM,31.1,,,S,27190265
+Enalapril,Rattus norvegicus,Wistar,10 mg/kg/day,21.36,,Male,<0.001,17557916
+Losartan,Rattus norvegicus,Wistar,30 mg/kg/day,19.32,,,S,17557916
+jujube fruit powder,Drosophila melanogaster,w1118,150 mg/ml,11.1,,,S,28251407
+Captopril,Caenorhabditis elegans,N2,2.54 mM,34,16,,S,26918946
+Captopril,Caenorhabditis elegans,N2,3.18 mM,23,18,,S,26918946
+Menadione,Caenorhabditis elegans,N2,100 μM,-8.72,-6.36,,S,28086197
+Diethyl Maleate,Caenorhabditis elegans,N2,100 μM,4.64,2.33,,S,28086197
+Diethyl Maleate,Caenorhabditis elegans,N2,1 mM,-6.68,-6.4,,S,28086197
+Ibuprofen,Drosophila melanogaster,Canton-S,1 μM,23,,,S,28066251
+Salicylamine,Caenorhabditis elegans,N2,100 μM,32,,,S,27514077
+Salicylamine,Caenorhabditis elegans,N2,500 μM,56,,,S,27514077
+Buthus martensii Karsch Polypeptide Toxin ,Caenorhabditis elegans,N2,Polypeptide DNA sequence inserted into the pGEX-4T-1 plasmid and transformed into pGEX-4T-1,22.5,29.27,,0.016,28088444
+Oleanolic acid,Caenorhabditis elegans,N2,200 µM,11.18,,,S,26592451
+Oleanolic acid,Caenorhabditis elegans,N2,300 µM,16.63,,,S,26592451
+Zinc Sulfate,Caenorhabditis elegans,N2,500 µM,-14,,,S,27078872
+TPEN,Caenorhabditis elegans,N2,200 µM,43,,,S,27078872
+Sesame Cake Peptides,Caenorhabditis elegans,N2,12.5 μg/ml,15.59,3.57,,S,27381188
+Sesame Cake Peptides,Caenorhabditis elegans,N2,25 μg/ml,13.29,3.57,,S,27381188
+Sesame Cake Peptides,Caenorhabditis elegans,N2,50 μg/ml,5.2,3.57,,S,27381188
+Pictilisib,Caenorhabditis elegans,N2,1 μM,9.6,,,S,23543623
+Phosphatidylinositol ether lipid analogue 6,Caenorhabditis elegans,N2,1 μM,10,,,S,23543623
+Phosphatidylinositol ether lipid analogue 24 ,Caenorhabditis elegans,N2,1 μM,14,,,S,23543623
+Chlorophyll,Caenorhabditis elegans,N2,1 μg/ml,13.54,,,S,27077003
+Chlorophyll,Caenorhabditis elegans,N2,10 μg/ml,23.37,,,S,27077003
+Chlorophyll,Caenorhabditis elegans,N2,40 μg/ml,25.96,,,S,27077003
+Chlorophyll,Caenorhabditis elegans,N2,80 μg/ml,13.9,,,S,27077003
+Chlorophyll,Caenorhabditis elegans,N2,100 μg/ml,11.18,,,S,27077003
+Naproxen,Brachionus manjavacas,,1 μM,13.93,5.56,,S,27484416
+Chlorophytum borivilianum polysaccharide extract,Caenorhabditis elegans,CB5586,1 ng/ml,10,,,S,28727758
+Chlorophytum borivilianum polysaccharide extract,Saccharomyces cerevisiae,FY631,1 μg/ml,15,,,,28727758
+Chlorophytum borivilianum polysaccharide extract,Saccharomyces cerevisiae,FY631,100 ng/ml,37,,,,28727758
+Chlorophytum borivilianum polysaccharide extract,Saccharomyces cerevisiae,FY631,10 ng/ml,55,,,,28727758
+Chlorophytum borivilianum polysaccharide extract,Saccharomyces cerevisiae,FY631,1 ng/ml,23,,,,28727758
+Nicotinamide mononucleotide,Mus musculus,C57BL/6N,100 mg/kg/day,0,0,,S,28068222
+Nicotinamide mononucleotide,Mus musculus,C57BL/6N,300 mg/kg/day,0,0,,NS,28068222
+Argyreia boseana,Caenorhabditis elegans,N2,1 mg/mL,4.25,,,S,30448258
+Argyreia boseana,Caenorhabditis elegans,N2,0.1 mg/mL,-3.8,,,NS,30448258
+Argyreia boseana,Caenorhabditis elegans,N2,0.01 mg/mL,-5.4,,,S,30448258
+East Indian sandalwood oil,Caenorhabditis elegans,N2,3 μ/mL,0.94,4.34,,NS,30319772
+East Indian sandalwood oil,Caenorhabditis elegans,N2,6 μ/mL,8.59,8.69,,S,30319772
+East Indian sandalwood oil,Caenorhabditis elegans,N2,12 μ/mL,17.1,21.73,,S,30319772
+East Indian sandalwood oil,Caenorhabditis elegans,N2,24 μ/mL,26.36,34.78,,S,30319772
+East Indian sandalwood oil,Caenorhabditis elegans,N2,48 μ/mL,4.22,4.34,,NS,30319772
+East Indian sandalwood oil,Caenorhabditis elegans,N2,24 μ/mL,31.32,30.43,,S,30319772
+α-Santalol,Caenorhabditis elegans,N2,4 μM,0.63,-4.16,,NS,30319772
+α-Santalol,Caenorhabditis elegans,N2,8 μM,2.57,-4.16,,NS,30319772
+α-Santalol,Caenorhabditis elegans,N2,16 μM,4.33,0,,NS,30319772
+α-Santalol,Caenorhabditis elegans,N2,32 μM,10.31,8.33,,S,30319772
+α-Santalol,Caenorhabditis elegans,N2,64 μM,0.94,0,,NS,30319772
+α-Santalol,Caenorhabditis elegans,N2,32 μM,18.04,8.33,,S,30319772
+β-Santalol,Caenorhabditis elegans,N2,4 µM,-2.73,0,,NS,30319772
+β-Santalol,Caenorhabditis elegans,N2,8 µM,2.66,8.33,,NS,30319772
+β-Santalol,Caenorhabditis elegans,N2,16 µM,12.56,25,,S,30319772
+β-Santalol,Caenorhabditis elegans,N2,32µM,3.78,8.33,,NS,30319772
+β-Santalol,Caenorhabditis elegans,N2,64 µM,4.64,8.33,,S,30319772
+β-Santalol,Caenorhabditis elegans,N2,16 µM,25.38,25,,S,30319772
+Lonicera japonica,Caenorhabditis elegans,N2,50 µg/mL,4.04,,,NS,30266681
+Lonicera japonica,Caenorhabditis elegans,N2,100 µg/mL,12.13,,,NS,30266681
+Lonicera japonica,Caenorhabditis elegans,N2,200 µg/mL,15.17,,,NS,30266681
+Lonicera japonica,Caenorhabditis elegans,N2,500 µg/mL,21.87,,,S,30266681
+Lonicera japonica,Caenorhabditis elegans,N2,1000 µg/mL,17.07,,,S,30266681
+Aronia extract,Drosophila melanogaster,Canton-S,1 mg/mL,0,7.77,Male,NS,30263675
+Aronia extract,Drosophila melanogaster,Canton-S,2.5 mg/mL,15.38,8.88,Male,S,30263675
+Glucomannan Hydrolysate,Drosophila melanogaster,B18,0.25% w/v,20.2,,Male,S,30137218
+Glucomannan Hydrolysate,Drosophila melanogaster,B18,0.25% w/v,14.88,,Female,S,30137218
+Glucomannan Hydrolysate,Drosophila melanogaster,Oregon-R,0.25% w/v,11.7,,Female,S,30137218
+Glucomannan Hydrolysate,Drosophila melanogaster,Canton-S,0.25% w/v,17.66,,Female,S,30137218
+Glucomannan Hydrolysate,Drosophila melanogaster,DGRP-21,0.25% w/v,13.4,,Female,S,30137218
+Glucomannan Hydrolysate,Drosophila melanogaster,DGRP-38,0.25% w/v,10.1,,Female,S,30137218
+Glucomannan Hydrolysate,Drosophila melanogaster,DGRP-40,0.25% w/v,4.6,,Female,S,30137218
+Glucomannan Hydrolysate,Drosophila melanogaster,DGRP-85,0.25% w/v,10,,Female,S,30137218
+Glucomannan Hydrolysate,Drosophila melanogaster,DGRP-136,0.25% w/v,7.3,,Female,S,30137218
+Polygonum multiflorum Extract,Caenorhabditis elegans,N2,10 µg/mL,1.5,,,NS,30036983
+Polygonum multiflorum Extract,Caenorhabditis elegans,N2,100 µg/mL,4.8,,,NS,30036983
+Polygonum multiflorum Extract,Caenorhabditis elegans,N2,1000 µg/mL,18.6,,,S,30036983
+Xanthine,Caenorhabditis elegans,N2,50 µg/mL,0.82,,,NS,30061824
+1-methylxanthine,Caenorhabditis elegans,N2,50 µg/mL,5.05,,,S,30061824
+3-methylxanthine,Caenorhabditis elegans,N2,50 µg/mL,0.93,,,NS,30061824
+7-methylxanthine,Caenorhabditis elegans,N2,50 µg/mL,8.41,,,S,30061824
+"1,3-dimemethyl Xan",Caenorhabditis elegans,N2,50 µg/mL,5.54,,,S,30061824
+"1,7-dimethylxanthine",Caenorhabditis elegans,N2,50 µg/mL,14.75,,,S,30061824
+"3,7-dimethylxanthine",Caenorhabditis elegans,N2,50 µg/mL,-0.84,,,NS,30061824
+5-octanoyl salicylic acid,Caenorhabditis elegans,N2,100 μM,18.3,11.53,,S,30192051
+Damaurone D,Caenorhabditis elegans,N2,5 μM,7.49,,,S,29992572
+Damaurone D,Caenorhabditis elegans,N2,10 μM,12.6,,,S,29992572
+Damaurone D,Caenorhabditis elegans,N2,15 μM,16.7,,,S,29992572
+"2,5-Di-tert-butylhydroquinone",Caenorhabditis elegans,N2,250 μM,15.2,,,S,29988547
+"2,5-Di-tert-butylhydroquinone",Caenorhabditis elegans,N2,350 μM,14.2,,,S,29988547
+Thapsigargin,Caenorhabditis elegans,N2,10 nM,9.6,,,S,29988547
+Enoxacin,Caenorhabditis elegans,N2,100 µg/mL,18,,,S,29986212
+guarana ethanolic extract,Caenorhabditis elegans,N2,100 µg/mL,18.18,21.4,,S,29972429
+guarana ethanolic extract,Caenorhabditis elegans,N2,500 µg/mL,36.36,28.57,,S,29972429
+guarana ethanolic extract,Caenorhabditis elegans,N2,1000 µg/mL,36.36,28.57,,S,29972429
+6-shogaol,Caenorhabditis elegans,N2,25 μM,25.9,15.78,,S,29978428
+Mussel peptides,Caenorhabditis elegans,N2,2 mg/ml,29.9,,,S,29796528
+"Methyl 3,4-dihydroxybenzoate",Caenorhabditis elegans,N2,160 mg/mL,19,,,S,29874838
+"1,2,3-Triazolyl ester of ketorolac ",Caenorhabditis elegans,N2,50 nM,15,,,S,29760342
+Tert-butyl hydroperoxide,Drosophila melanogaster,w iso31,1.25 mM,18.3,,Male,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,w iso31,2.5 mM,12.1,,Male,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,w iso31,5 mM,19.7,,Male,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,w iso31,10 mM,17.4,,Male,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,w iso31,1 mM,16.7,,Female,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,w iso31,5 mM,11.9,,Female,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,Canton-S,5 mM,28.4,,Male,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,Canton-S,1 mM,22.7,,Female,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,Canton-S,5 mM,22.6,,Female,S,29515102
+Tert-butyl hydroperoxide,Drosophila melanogaster,w iso31,1 mM,12.2,,Male,S,29515102
+Arbutin,Caenorhabditis elegans,N2,5 mM,11.89,,,S,29340230
+phenylethanoid glycosides,Caenorhabditis elegans,N2,500 μg/mL,15.98,,,S,29340230
+Shatavarin IV,Caenorhabditis elegans,N2,50 μM,17.26,,,S,29069955
+Emodin,Caenorhabditis elegans,N2,50 μM,9.68,,,S,29069955
+Emodin,Caenorhabditis elegans,N2,150 μM,19.74,,,S,29069955
+ursolic acid,Caenorhabditis elegans,N2,25 μM,31.3,,,S,28673026
+ursolic acid,Drosophila melanogaster,w1118,50 μmol/L,12.78,,,S,30496629
+N-Acetyl Cysteine,Drosophila melanogaster,Canton-S,10 nM,5.6,4.7,Male,S,30243020
+N-Acetyl Cysteine,Drosophila melanogaster,Canton-S,100 nM,9.3,7.8,Male,S,30243020
+N-Acetyl Cysteine,Drosophila melanogaster,Canton-S,1 μM,7.4,4.7,Male,S,30243020
+N-Acetyl Cysteine,Drosophila melanogaster,Canton-S,100 μM,5.6,10.9,,S,30243020
+N-Acetyl Cysteine,Drosophila melanogaster,Canton-S,1 mM,3.7,1.6,Male,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,10 nM,32.4,8.6,Male,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,100 nM,31,8.69,Male,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,1 μM,31,7.6,Male,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,10 μM,29.6,7.6,Male,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,100 μM,31,7.6,Male,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,1 mM,31,2.9,Male,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,10 nM,22.6,6.9,Female,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,100 nM,18.7,4.9,Female,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,1 μM,16,6.9,Female,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,10 μM,22.7,6.9,Female,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,100 μM,26,9.8,Female,S,30243020
+N-Acetyl Cysteine,Drosophila virilis,,1 mM,24,8.8,Female,S,30243020
+N-Acetyl Cysteine,Drosophila kikkawai,,10 nM,8,19.4,Male,S,30243020
+N-Acetyl Cysteine,Drosophila kikkawai,,100 nM,12,8.3,Male,S,30243020
+N-Acetyl Cysteine,Drosophila kikkawai,,1 μM,16,11.1,Male,S,30243020
+N-Acetyl Cysteine,Drosophila kikkawai,,10 μM,16,0,Male,S,30243020
+N-Acetyl Cysteine,Drosophila kikkawai,,100 μM,16,13.9,Male,S,30243020
+N-Acetyl Cysteine,Drosophila kikkawai,,1 mM,16,13.9,Male,S,30243020
+N-Acetyl Cysteine,Drosophila kikkawai,,10 nM,5.1,0,Female,S,30243020
+N-Acetyl Cysteine,Drosophila kikkawai,,100 nM,5.1,-2,Female,S,30243020
+Tomatidine,Caenorhabditis elegans,N2,25 μM,7,,,S,28397803
+L2-Cmu,Mus musculus,CB6F1,20 mg/kg,9,,,S,29921922
+Dasatinib + Quercetin,Mus musculus,C57BL/6,5 mg/kg / 50 mg/kg,6.29,,Male & Female,S,29988130
+Diosgenin,Caenorhabditis elegans,N2,50 µg/mL,20.8,,,S,28954389
+Omega-3 Monoacylglyceride Docosahexaenoic acid,Drosophila melanogaster,w1118,0.3 mg/mL,14.58,6.56,Male,S,30453574
+Omega-3 Monoacylglyceride Docosahexaenoic acid,Drosophila melanogaster,w1118,0.3 mg/mL,14.58,15.32,Male,S,30453574
+Calcium Pantothenate,Drosophila melanogaster,Oregon,0.5g/kg,27.8,,,S,18856647
+Calcium Pantothenate,Mus musculus,C-57 black,300 µg/day,18.3,,Male,S,13614445
+Calcium Pantothenate,Mus musculus,C-57 black,300 µg/day,20.02,,Female,S,13614445
+Sodium Yeast Nucleate,Drosophila melanogaster,Oregon,5 g/kg,20.3,,,S,18856648
+Ganoderma lucidum extract,Caenorhabditis elegans,N2,7.5 mg/mL,35.83,11.76,,S,30476533
+Disulfiram,Rattus norvegicus,Wistar,1 in 1000,-21.18,,,S,5469789
+Disulfiram,Rattus norvegicus,Wistar,1 in 2000,-5.08,,,NS,5469789
+Sodim cyclamate,Rattus norvegicus,Wistar,0.43/100 g,9.77,-11.28,Male,S,5132583
+Aspirin (Bufferin),Mus musculus,C57BL/6J,113 μg/mL,5,-6.1,Female,NS,4788962
+Aspirin (Bufferin),Mus musculus,C57BL/6J,242 μg/mL,-17.5,-10.1,Female,S,4788962
+Aspirin (Bufferin),Mus musculus,C57BL/6J,495 μg/mL,0.1,-4.8,Female,NS,4788962
+Dimethylaminoethyl p-chlorophenoxyacetate,Mus musculus,C57BL/6J,702 μg/mL,5.9,-9.6,Female,NS,4788962
+Dimethylaminoethyl p-chlorophenoxyacetate,Rattus norvegicus,Swiss,0.3g/L,27.3,39.7,Male,S,4147092
+Chlorpromazine,Mus musculus,C57BL/6J,16.7 μg/mL,-0.2,5.5,Female,NS,4788962
+Chlorpheniramine,Mus musculus,C57BL/6J,0.762 μg/mL,1.4,-14.7,Female,NS,4788962
+Chlorpheniramine,Mus musculus,C57BL/6J,2.28 μg/mL,-3.3,7.2,Female,NS,4788962
+Chloroquine,Mus musculus,C57BL/6J,13.2 μg/mL,-16.8,-10.8,Female,S,4788962
+Chloroquine,Mus musculus,C57BL/6J,39.5 μg/mL,0.3,-15,Female,NS,4788962
+Recombinant GDF11,Nothobranchius guentheri,,0.2 mg/kg,8.51,7.69,,S,30519861
+ethanol extract of Agrimonia procera herba,Caenorhabditis elegans,N2,50 μg/mL,8.1,,,Y,30558122
+ethanol extract of Agrimonia procera herba,Caenorhabditis elegans,N2,100 μg/mL,12.7,,,Y,30558122
+ethanol extract of Agrimonia procera herba,Caenorhabditis elegans,N2,200 μg/mL,7.5,,,Y,30558122
+Paxilline,Caenorhabditis elegans,N2,10 nM,26.62,,,S,30613772
+Ellagic acid,Caenorhabditis elegans,N2,50 μM,-4.3,,,N,27400265
+Tanespimycin,Caenorhabditis elegans,N2,100 μM,23.52,,,Y,30625143
+Isoprenol,Caenorhabditis elegans,N2,0.1 mM,7.81,4,,S,30624146
+Isoprenol,Caenorhabditis elegans,N2,0.5 mM,25.26,28,,S,30624146
+Isoprenol,Caenorhabditis elegans,N2,1 mM,19.23,22.6,,S,30624146
+CGP37157,Caenorhabditis elegans,N2,50 μM,14.9,,,S,30705628
+CGP37157,Caenorhabditis elegans,N2,100 μM,10.9,,,S,30705628
